@@ -7,31 +7,18 @@ import random
 leds = [Pin(17, Pin.OUT), Pin(16, Pin.OUT), Pin(18, Pin.OUT), Pin(15, Pin.OUT)]
 buttons = [Pin(12, Pin.IN, Pin.PULL_UP), Pin(11, Pin.IN, Pin.PULL_UP), Pin(13, Pin.IN, Pin.PULL_UP), Pin(10, Pin.IN, Pin.PULL_UP)]
 
-# Correct setup for LED pins
-#rautt = Pin(16, Pin.OUT)
-#graent = Pin(18, Pin.OUT)
-#blatt = Pin(15, Pin.OUT)
-#gult = Pin(17, Pin.OUT)
-
-# Correct setup for button pins with pull-up configuration
-#takki_1 = Pin(11, Pin.IN, Pin.PULL_UP)
-#takki_2 = Pin(13, Pin.IN, Pin.PULL_UP)
-#takki_3 = Pin(10, Pin.IN, Pin.PULL_UP)
-#takki_4 = Pin(12, Pin.IN, Pin.PULL_UP)
 
 # Speaker setup
 speaker = Pin(14, Pin.OUT)
 buzzer = PWM(speaker)
 buzzer.duty_u16(0)
 
-# Define LEDs and buttons in lists for easier management
-leds = [gult, rautt, graent, blatt]
-buttons = [takki_1, takki_2, takki_3, takki_4]
 
 # Tone definitions
 tones = [262, 330, 392, 494]
 losing_tones = [440, 349, 294, 220]
 winning_tones = [523, 659, 784, 1047]
+
 
 # Function to play a sequence of tones
 def play_tone_sequence(sequence):
@@ -42,6 +29,7 @@ def play_tone_sequence(sequence):
         buzzer.duty_u16(0)
         sleep_ms(100)
 
+
 # Function to play a single tone
 def play_tone(tone):
     buzzer.freq(tone)
@@ -49,12 +37,11 @@ def play_tone(tone):
     sleep_ms(200)
     buzzer.duty_u16(0)
 
-# Modified function to wait for input with active-low buttons
+
+# Wait for input with active-low button configuration
 def wait_for_input(led_index, countdown_time):
     while countdown_time > 0:
-        if buttons[led_index].value() == 0:  # Active-low check, button is pressed
-            leds[led_index].value(0)  # Turn off the LED immediately after the button press
-            print(f"Button {led_index + 1} pressed")
+        if buttons[led_index].value() == 0:  # Button is pressed
             return True
         sleep_ms(10)
         countdown_time -= 10
@@ -66,11 +53,13 @@ def turn_off_leds():
     for led in leds:
         led.value(0)
 
+
 # Function to turn on all LEDs constantly
 def turn_on_leds():
     for led in leds:
         led.value(1)
-
+        
+        
 # Function for winning sequence
 def win():
     for x in range(4):
@@ -79,7 +68,8 @@ def win():
             play_tone(winning_tones[i])
             sleep_ms(100)
             leds[i].value(0)
-
+            
+            
 # The main game function
 def play_game():
     while True:
@@ -106,7 +96,5 @@ def play_game():
         # Sleep for a bit before the next round starts
         sleep_ms(5000)
 
-
 # Start the game
 play_game()
-
