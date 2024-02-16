@@ -11,8 +11,8 @@ led3 = Pin(13, Pin.OUT)
 buzzer = PWM(Pin(3), duty=0)
 
 # Stilli Ultrasonic sensorinn
-echo = Pin(47, Pin.IN)
-trig = Pin(48, Pin.OUT)
+echo = Pin(47, Pin.IN) # Pin(39, Pin.IN)
+trig = Pin(48, Pin.OUT) # Pin(38, Pin.OUT)
 
 # Fallið sem mælir vegalengd i sentimetrum
 def measure_distance():

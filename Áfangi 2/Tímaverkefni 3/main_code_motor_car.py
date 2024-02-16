@@ -144,6 +144,8 @@ def turn(direction, turn_time=turn_duration):
 # Enable the motor driver (take out of standby)
 STBY.on()
 
+# I use not the speed variables but numbers for the arguments in driving
+# the motors because it says to do this in the project guide - Tímaverkefni 3
 while True:
     # Drive forward at speed 1000 for 1 second
     drive_motor_a_forward(1000)
