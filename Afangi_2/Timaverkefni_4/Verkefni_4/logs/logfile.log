@@ -1,0 +1,4985 @@
+# This is my logfile:
+
+
+
+Car Script Started - 2024-02-19 20:32:32
+-----------------------------------------
+Started driving in direction: forward and with speed: Motor A: 700 Motor B: 672
+
+Measured Distance: 1210.413
+
+Measured Distance: 1210.378
+
+Measured Distance: 1210.601
+
+Measured Distance: 1210.464
+
+Measured Distance: 1210.327
+
+Measured Distance: 1210.396
+
+Measured Distance: 1210.464
+
+Measured Distance: 1210.481
+
+Measured Distance: 1210.413
+
+
+
+
+
+Car Script Started - 2000-01-01 00:00:04
+-----------------------------------------
+
+Turning left.
+
+stop_car method called
+
+Completed 90° turn to the left.
+
+Turning left.
+
+stop_car method called
+
+Completed 90° turn to the left.
+
+Turning left.
+
+stop_car method called
+
+Completed 90° turn to the left.
+
+Turning left.
+
+stop_car method called
+
+Completed 90° turn to the left.
+
+Turning right.
+
+stop_car method called
+
+Completed 90° turn to the right.
+
+Turning right.
+
+stop_car method called
+
+Completed 90° turn to the right.
+
+Turning right.
+
+stop_car method called
+
+Completed 90° turn to the right.
+
+Turning right.
+
+stop_car method called
+
+Completed 90° turn to the right.
+
+Turning right.
+
+stop_car method called
+
+Completed 180° turn to the right.
+
+Turning right.
+
+stop_car method called
+
+Completed 180° turn to the right.
+
+Turning right.
+
+stop_car method called
+
+Completed 180° turn to the right.
+
+Turning right.
+
+stop_car method called
+
+Completed 180° turn to the right.
+
+
+
+
+
+Car Script Started - 2024-02-19 20:37:22
+-----------------------------------------
+
+Turning left.
+
+stop_car method called
+
+Completed 90° turn to the left.
+
+Turning left.
+
+
+
+
+
+Car Script Started - 2024-02-19 20:37:37
+-----------------------------------------
+
+Turning left.
+
+stop_car method called
+
+Completed 90° turn to the left.
+
+Turning left.
+
+stop_car method called
+
+Completed 90° turn to the left.
+
+Turning left.
+
+stop_car method called
+
+Completed 90° turn to the left.
+
+
+
+
+
+Car Script Started - 2024-02-19 20:38:17
+-----------------------------------------
+
+Turning left.
+
+stop_car method called
+
+Completed 90° turn to the left.
+
+Turning left.
+
+stop_car method called
+
+Completed 90° turn to the left.
+
+
+
+
+
+Car Script Started - 2024-02-19 20:40:33
+-----------------------------------------
+
+Turning left.
+
+stop_car method called
+
+Completed 90° turn to the left.
+
+Turning left.
+
+stop_car method called
+
+Completed 90° turn to the left.
+
+
+
+
+
+Car Script Started - 2000-01-01 00:00:04
+-----------------------------------------
+
+Turning left.
+
+stop_car method called
+
+Completed 90° turn to the left.
+
+Turning left.
+
+stop_car method called
+
+Completed 90° turn to the left.
+
+Turning left.
+
+stop_car method called
+
+Completed 90° turn to the left.
+
+Turning left.
+
+stop_car method called
+
+Completed 90° turn to the left.
+
+Turning right.
+
+stop_car method called
+
+Completed 90° turn to the right.
+
+Turning right.
+
+stop_car method called
+
+Completed 90° turn to the right.
+
+Turning right.
+
+stop_car method called
+
+Completed 90° turn to the right.
+
+Turning right.
+
+stop_car method called
+
+Completed 90° turn to the right.
+
+Turning right.
+
+stby value set to 1 (high) = 1
+
+Car Components Initialized:
+
+Motor A: 
+Forward Pin=Pin(11), 
+Backwards Pin=Pin(10), 
+Speed PWM=PWM(Pin(17), freq=10000, duty=512, resolution=12, (duty=50.00%, resolution=0.024%), mode=0, channel=0, timer=0), 
+Default Speed=700
+
+
+Motor B: 
+Forward Pin=Pin(13), 
+Backwards Pin=Pin(12), 
+Speed PWM=PWM(Pin(16), freq=10000, duty=512, resolution=12, (duty=50.00%, resolution=0.024%), mode=0, channel=1, timer=0), 
+Default Speed=672
+
+
+Standby Pin: Pin(8)
+
+Car Status:
+
+
+Motor A Status: 
+Forward=1, 
+Backwards=0, 
+Speed=512, 
+Default speed=700
+
+
+Motor B Status: 
+Forward=1, 
+Backwards=0, 
+Speed=512, 
+Default speed=672
+
+Turning left.
+
+stop_car method called
+
+Completed 90° turn to the left.
+
+Turning left.
+
+stop_car method called
+
+Completed 90° turn to the left.
+
+Turning left.
+
+Motor Initialized: 
+Forward Pin=Pin(11), 
+Backwards Pin=Pin(10), 
+Speed PWM=PWM(Pin(17), freq=10000, duty=512, resolution=12, (duty=50.00%, resolution=0.024%), mode=0, channel=0, timer=0), 
+Default Speed=700
+
+Motor Initialized: 
+Forward Pin=Pin(13), 
+Backwards Pin=Pin(12), 
+Speed PWM=PWM(Pin(16), freq=10000, duty=512, resolution=12, (duty=50.00%, resolution=0.024%), mode=0, channel=1, timer=0), 
+Default Speed=672
+
+stby value set to 1 (high) = 1
+
+Car Status:
+
+
+Motor A Status: 
+Forward=1, 
+Backwards=0, 
+Speed=512, 
+Default speed=700
+
+
+Motor B Status: 
+Forward=1, 
+Backwards=0, 
+Speed=512, 
+Default speed=672
+
+Turning left.
+
+stop_car method called
+
+Completed 90° turn to the left.
+
+Turning left.
+
+stop_car method called
+
+Completed 90° turn to the left.
+
+Turning left.
+
+Motor Initialized: Forward Pin=Pin(11), Backwards Pin=Pin(10), Speed PWM=PWM(Pin(17), freq=10000, duty=512, resolution=12, (duty=50.00%, resolution=0.024%), mode=0, channel=0, timer=0), Default Speed=700
+
+Motor Initialized: Forward Pin=Pin(13), Backwards Pin=Pin(12), Speed PWM=PWM(Pin(16), freq=10000, duty=512, resolution=12, (duty=50.00%, resolution=0.024%), mode=0, channel=1, timer=0), Default Speed=672
+
+stby value set to 1 (high) = 1
+
+Car Status:
+
+
+Motor A Status: 
+Forward=1, 
+Backwards=0, 
+Speed=512, 
+Default speed=700
+
+
+Motor B Status: 
+Forward=1, 
+Backwards=0, 
+Speed=512, 
+Default speed=672
+
+Turning left.
+
+stop_car method called
+
+Completed 90° turn to the left.
+
+Turning left.
+
+stop_car method called
+
+Completed 90° turn to the left.
+
+Turning left.
+
+Motor Initialized: 
+Forward Pin=Pin(11), 
+Backwards Pin=Pin(10), 
+Speed PWM=PWM(Pin(17), freq=10000, duty=512, resolution=12, (duty=50.00%, resolution=0.024%), mode=0, channel=0, timer=0), 
+Default Speed=700
+
+
+Motor Initialized: 
+Forward Pin=Pin(13), 
+Backwards Pin=Pin(12), 
+Speed PWM=PWM(Pin(16), freq=10000, duty=512, resolution=12, (duty=50.00%, resolution=0.024%), mode=0, channel=1, timer=0), 
+Default Speed=672
+
+
+stby value set to 1 (high) = 1
+
+Car Status:
+
+
+Motor A Status: 
+Forward=1, 
+Backwards=0, 
+Speed=512, 
+Default speed=700
+
+
+Motor B Status: 
+Forward=1, 
+Backwards=0, 
+Speed=512, 
+Default speed=672
+
+Turning left.
+
+stop_car method called
+
+Completed 90° turn to the left.
+
+Motor Initialized: 
+Forward Pin=Pin(11), 
+Backwards Pin=Pin(10), 
+Speed PWM=PWM(Pin(17), freq=10000, duty=512, resolution=12, (duty=50.00%, resolution=0.024%), mode=0, channel=0, timer=0), 
+Default Speed=700
+
+
+Motor Initialized: 
+Forward Pin=Pin(13), 
+Backwards Pin=Pin(12), 
+Speed PWM=PWM(Pin(16), freq=10000, duty=512, resolution=12, (duty=50.00%, resolution=0.024%), mode=0, channel=1, timer=0), 
+Default Speed=672
+
+stby value set to 1 (high)
+
+Car Status:
+
+Motor A Status: 
+Forward=0, 
+Backwards=0, 
+Speed=512, 
+Default speed=700
+
+
+Motor B Status: 
+Forward=0, 
+Backwards=0, 
+Speed=512, 
+Default speed=672
+
+Turning left.
+
+stop_car method called
+
+Completed 90° turn to the left.
+
+Turning left.
+
+stop_car method called
+
+Completed 90° turn to the left.
+
+Motor Initialized: 
+Forward Pin=Pin(11), 
+Backwards Pin=Pin(10), 
+Speed PWM=PWM(Pin(17), freq=10000, duty=512, resolution=12, (duty=50.00%, resolution=0.024%), mode=0, channel=0, timer=0), 
+Default Speed=700
+
+
+Motor Initialized: 
+Forward Pin=Pin(13), 
+Backwards Pin=Pin(12), 
+Speed PWM=PWM(Pin(16), freq=10000, duty=512, resolution=12, (duty=50.00%, resolution=0.024%), mode=0, channel=1, timer=0), 
+Default Speed=672
+
+stby value set to 1 (high)
+
+Car Status:
+
+Motor A Status: 
+Forward=0, 
+Backwards=0, 
+Speed=512, 
+Default speed=700
+
+
+Motor B Status: 
+Forward=0, 
+Backwards=0, 
+Speed=512, 
+Default speed=672
+
+Motor Initialized: 
+Forward Pin=Pin(11), 
+Backwards Pin=Pin(10), 
+Speed PWM=PWM(Pin(17), freq=10000, duty=512, resolution=12, (duty=50.00%, resolution=0.024%), mode=0, channel=0, timer=0), 
+Default Speed=700
+
+
+Motor Initialized: 
+Forward Pin=Pin(13), 
+Backwards Pin=Pin(12), 
+Speed PWM=PWM(Pin(16), freq=10000, duty=512, resolution=12, (duty=50.00%, resolution=0.024%), mode=0, channel=1, timer=0), 
+Default Speed=672
+
+stby value set to 1 (high)
+
+Car Status:
+
+Motor A Status: 
+Forward=0, 
+Backwards=0, 
+Speed=512, 
+Default speed=700
+
+
+Motor B Status: 
+Forward=0, 
+Backwards=0, 
+Speed=512, 
+Default speed=672
+
+Turning left.
+
+stop_car method called
+
+Completed 90° turn to the left.
+
+Turning left.
+
+stop_car method called
+
+Completed 90° turn to the left.
+
+Turning left.
+
+stop_car method called
+
+Completed 90° turn to the left.
+
+Turning left.
+
+stop_car method called
+
+Completed 90° turn to the left.
+
+Motor Initialized: 
+Forward Pin=Pin(11), 
+Backwards Pin=Pin(10), 
+Speed PWM=PWM(Pin(17), freq=10000, duty=512, resolution=12, (duty=50.00%, resolution=0.024%), mode=0, channel=0, timer=0), 
+Default Speed=700
+
+
+Motor Initialized: 
+Forward Pin=Pin(13), 
+Backwards Pin=Pin(12), 
+Speed PWM=PWM(Pin(16), freq=10000, duty=512, resolution=12, (duty=50.00%, resolution=0.024%), mode=0, channel=1, timer=0), 
+Default Speed=672
+
+stby value set to 1 (high)
+
+Car Status:
+
+Motor A Status: 
+Forward=0, 
+Backwards=0, 
+Speed=512, 
+Default speed=700
+
+
+Motor B Status: 
+Forward=1, 
+Backwards=0, 
+Speed=512, 
+Default speed=672
+
+Turning left.
+
+stop_car method called
+
+Completed 90° turn to the left.
+
+Turning left.
+
+stop_car method called
+
+Completed 90° turn to the left.
+
+Turning left.
+
+stop_car method called
+
+Completed 90° turn to the left.
+
+
+
+
+
+Car Script Started - 2024-02-19 22:32:53
+-----------------------------------------
+
+Motor Initialized: 
+Forward Pin=Pin(11), 
+Backwards Pin=Pin(10), 
+Speed PWM=PWM(Pin(17), freq=10000, duty=512, resolution=12, (duty=50.00%, resolution=0.024%), mode=0, channel=0, timer=0), 
+Default Speed=700
+
+
+Motor Initialized: 
+Forward Pin=Pin(13), 
+Backwards Pin=Pin(12), 
+Speed PWM=PWM(Pin(16), freq=10000, duty=512, resolution=12, (duty=50.00%, resolution=0.024%), mode=0, channel=1, timer=0), 
+Default Speed=672
+
+stby value set to 1 (high)
+
+Car Status:
+
+Motor A Status: 
+Forward=0, 
+Backwards=0, 
+Speed=512, 
+Default speed=700
+
+
+Motor B Status: 
+Forward=0, 
+Backwards=0, 
+Speed=512, 
+Default speed=672
+
+Turning left.
+
+stop_car method called
+
+Completed 90° turn to the left.
+
+Turning left.
+
+stop_car method called
+
+Completed 90° turn to the left.
+
+Turning left.
+
+stop_car method called
+
+Completed 90° turn to the left.
+
+Turning left.
+
+stop_car method called
+
+Completed 90° turn to the left.
+
+
+
+
+
+Car Script Started - 2024-02-19 22:36:06
+-----------------------------------------
+
+Motor Initialized: 
+Forward Pin=Pin(11), 
+Backwards Pin=Pin(10), 
+Speed PWM=PWM(Pin(17), freq=10000, duty=512, resolution=12, (duty=50.00%, resolution=0.024%), mode=0, channel=0, timer=0), 
+Default Speed=700
+
+
+Motor Initialized: 
+Forward Pin=Pin(13), 
+Backwards Pin=Pin(12), 
+Speed PWM=PWM(Pin(16), freq=10000, duty=512, resolution=12, (duty=50.00%, resolution=0.024%), mode=0, channel=1, timer=0), 
+Default Speed=672
+
+stby value set to 1 (high)
+
+Car Status:
+
+Motor A Status: 
+Forward=0, 
+Backwards=0, 
+Speed=512, 
+Default speed=700
+
+
+Motor B Status: 
+Forward=1, 
+Backwards=0, 
+Speed=512, 
+Default speed=672
+
+Turning left.
+
+
+
+
+
+Car Script Started - 2000-01-01 00:00:04
+-----------------------------------------
+
+Motor Initialized: 
+Forward Pin=Pin(11), 
+Backwards Pin=Pin(10), 
+Speed PWM=PWM(Pin(17), freq=10000, duty=512, resolution=12, (duty=50.00%, resolution=0.024%), mode=0, channel=0, timer=0), 
+Default Speed=700
+
+
+Motor Initialized: 
+Forward Pin=Pin(13), 
+Backwards Pin=Pin(12), 
+Speed PWM=PWM(Pin(16), freq=10000, duty=512, resolution=12, (duty=50.00%, resolution=0.024%), mode=0, channel=1, timer=0), 
+Default Speed=672
+
+stby value set to 1 (high)
+
+Car Status:
+
+Motor A Status: 
+Forward=0, 
+Backwards=0, 
+Speed=512, 
+Default speed=700
+
+
+Motor B Status: 
+Forward=0, 
+Backwards=0, 
+Speed=512, 
+Default speed=672
+
+Turning left.
+
+
+
+
+
+Car Script Started - 2000-01-01 00:00:04
+-----------------------------------------
+
+Motor Initialized: 
+Forward Pin=Pin(11), 
+Backwards Pin=Pin(10), 
+Speed PWM=PWM(Pin(17), freq=10000, duty=512, resolution=12, (duty=50.00%, resolution=0.024%), mode=0, channel=0, timer=0), 
+Default Speed=700
+
+
+Motor Initialized: 
+Forward Pin=Pin(13), 
+Backwards Pin=Pin(12), 
+Speed PWM=PWM(Pin(16), freq=10000, duty=512, resolution=12, (duty=50.00%, resolution=0.024%), mode=0, channel=1, timer=0), 
+Default Speed=672
+
+stby value set to 1 (high)
+
+Car Status:
+
+Motor A Status: 
+Forward=0, 
+Backwards=0, 
+Speed=512, 
+Default speed=700
+
+
+Motor B Status: 
+Forward=0, 
+Backwards=0, 
+Speed=512, 
+Default speed=672
+
+
+
+
+
+Car Script Started - 2000-01-01 00:00:04
+-----------------------------------------
+
+Motor Initialized: 
+Forward Pin=Pin(11), 
+Backwards Pin=Pin(10), 
+Speed PWM=PWM(Pin(17), freq=10000, duty=512, resolution=12, (duty=50.00%, resolution=0.024%), mode=0, channel=0, timer=0), 
+Default Speed=700
+
+
+Motor Initialized: 
+Forward Pin=Pin(13), 
+Backwards Pin=Pin(12), 
+Speed PWM=PWM(Pin(16), freq=10000, duty=512, resolution=12, (duty=50.00%, resolution=0.024%), mode=0, channel=1, timer=0), 
+Default Speed=672
+
+stby value set to 1 (high)
+
+Turning left.
+
+stop_car method called
+
+Completed 90° turn to the left.
+
+Turning left.
+
+stop_car method called
+
+Completed 90° turn to the left.
+
+Turning left.
+
+stop_car method called
+
+Completed 90° turn to the left.
+
+Turning left.
+
+stop_car method called
+
+Completed 90° turn to the left.
+
+
+
+
+
+Car Script Started - 2024-02-19 22:43:42
+-----------------------------------------
+
+Motor Initialized: 
+Forward Pin=Pin(11), 
+Backwards Pin=Pin(10), 
+Speed PWM=PWM(Pin(17), freq=10000, duty=512, resolution=12, (duty=50.00%, resolution=0.024%), mode=0, channel=0, timer=0), 
+Default Speed=700
+
+
+Motor Initialized: 
+Forward Pin=Pin(13), 
+Backwards Pin=Pin(12), 
+Speed PWM=PWM(Pin(16), freq=10000, duty=512, resolution=12, (duty=50.00%, resolution=0.024%), mode=0, channel=1, timer=0), 
+Default Speed=672
+
+stby value set to 1 (high)
+
+Turning left.
+
+stop_car method called
+
+Completed 90° turn to the left.
+
+Turning left.
+
+stop_car method called
+
+Completed 90° turn to the left.
+
+
+
+
+
+Car Script Started - 2000-01-01 00:00:00
+-----------------------------------------
+
+Motor Initialized: 
+Forward Pin=Pin(11), 
+Backwards Pin=Pin(10), 
+Speed PWM=PWM(Pin(17), freq=10000, duty=512, resolution=12, (duty=50.00%, resolution=0.024%), mode=0, channel=0, timer=0), 
+Default Speed=700
+
+
+Motor Initialized: 
+Forward Pin=Pin(13), 
+Backwards Pin=Pin(12), 
+Speed PWM=PWM(Pin(16), freq=10000, duty=512, resolution=12, (duty=50.00%, resolution=0.024%), mode=0, channel=1, timer=0), 
+Default Speed=672
+
+stby value set to 1 (high)
+
+Turning left.
+
+stop_car method called
+
+Completed 90° turn to the left.
+
+Turning left.
+
+stop_car method called
+
+Completed 90° turn to the left.
+
+Turning left.
+
+
+
+
+
+Car Script Started - 2000-01-01 00:00:00
+-----------------------------------------
+
+Motor Initialized: 
+Forward Pin=Pin(11), 
+Backwards Pin=Pin(10), 
+Speed PWM=PWM(Pin(17), freq=10000, duty=512, resolution=12, (duty=50.00%, resolution=0.024%), mode=0, channel=0, timer=0), 
+Default Speed=700
+
+
+Motor Initialized: 
+Forward Pin=Pin(13), 
+Backwards Pin=Pin(12), 
+Speed PWM=PWM(Pin(16), freq=10000, duty=512, resolution=12, (duty=50.00%, resolution=0.024%), mode=0, channel=1, timer=0), 
+Default Speed=672
+
+stby value set to 1 (high)
+
+Turning left.
+
+stop_car method called
+
+Completed 90° turn to the left.
+
+Turning left.
+
+stop_car method called
+
+Completed 90° turn to the left.
+
+Turning left.
+
+stop_car method called
+
+Completed 90° turn to the left.
+
+Turning left.
+
+stop_car method called
+
+Completed 90° turn to the left.
+
+Turning right.
+
+stop_car method called
+
+Completed 90° turn to the right.
+
+Turning right.
+
+stop_car method called
+
+Completed 90° turn to the right.
+
+Turning right.
+
+stop_car method called
+
+Completed 90° turn to the right.
+
+Turning right.
+
+stop_car method called
+
+Completed 90° turn to the right.
+
+Turning right.
+
+stop_car method called
+
+Completed 180° turn to the right.
+
+Turning right.
+
+stop_car method called
+
+Completed 180° turn to the right.
+
+
+
+
+
+Car Script Started - 2000-01-01 00:00:00
+-----------------------------------------
+
+Motor Initialized: 
+Forward Pin=Pin(11), 
+Backwards Pin=Pin(10), 
+Speed PWM=PWM(Pin(17), freq=10000, duty=512, resolution=12, (duty=50.00%, resolution=0.024%), mode=0, channel=0, timer=0), 
+Default Speed=700
+
+
+Motor Initialized: 
+Forward Pin=Pin(13), 
+Backwards Pin=Pin(12), 
+Speed PWM=PWM(Pin(16), freq=10000, duty=512, resolution=12, (duty=50.00%, resolution=0.024%), mode=0, channel=1, timer=0), 
+Default Speed=672
+
+stby value set to 1 (high)
+
+Turning left.
+
+stop_car method called
+
+Completed 90° turn to the left.
+
+
+
+
+
+Car Script Started - 2000-01-01 00:00:00
+-----------------------------------------
+
+Motor Initialized: 
+Forward Pin=Pin(11), 
+Backwards Pin=Pin(10), 
+Speed PWM=PWM(Pin(17), freq=10000, duty=512, resolution=12, (duty=50.00%, resolution=0.024%), mode=0, channel=0, timer=0), 
+Default Speed=700
+
+
+Motor Initialized: 
+Forward Pin=Pin(13), 
+Backwards Pin=Pin(12), 
+Speed PWM=PWM(Pin(16), freq=10000, duty=512, resolution=12, (duty=50.00%, resolution=0.024%), mode=0, channel=1, timer=0), 
+Default Speed=672
+
+stby value set to 1 (high)
+
+Turning left.
+
+stop_car method called
+
+Completed 90° turn to the left.
+
+Turning left.
+
+stop_car method called
+
+Completed 90° turn to the left.
+
+Turning left.
+
+stop_car method called
+
+Completed 90° turn to the left.
+
+Turning left.
+
+stop_car method called
+
+Completed 90° turn to the left.
+
+
+
+
+
+Car Script Started - 2000-01-01 00:00:00
+-----------------------------------------
+
+Motor Initialized: 
+Forward Pin=Pin(11), 
+Backwards Pin=Pin(10), 
+Speed PWM=PWM(Pin(17), freq=10000, duty=512, resolution=12, (duty=50.00%, resolution=0.024%), mode=0, channel=0, timer=0), 
+Default Speed=700
+
+
+Motor Initialized: 
+Forward Pin=Pin(13), 
+Backwards Pin=Pin(12), 
+Speed PWM=PWM(Pin(16), freq=10000, duty=512, resolution=12, (duty=50.00%, resolution=0.024%), mode=0, channel=1, timer=0), 
+Default Speed=672
+
+stby value set to 1 (high)
+
+Turning left.
+
+stop_car method called
+
+Completed 90° turn to the left.
+
+
+
+
+
+Car Script Started - 2000-01-01 00:00:00
+-----------------------------------------
+
+Motor Initialized: 
+Forward Pin=Pin(11), 
+Backwards Pin=Pin(10), 
+Speed PWM=PWM(Pin(17), freq=10000, duty=512, resolution=12, (duty=50.00%, resolution=0.024%), mode=0, channel=0, timer=0), 
+Default Speed=700
+
+
+Motor Initialized: 
+Forward Pin=Pin(13), 
+Backwards Pin=Pin(12), 
+Speed PWM=PWM(Pin(16), freq=10000, duty=512, resolution=12, (duty=50.00%, resolution=0.024%), mode=0, channel=1, timer=0), 
+Default Speed=672
+
+stby value set to 1 (high)
+
+Turning left.
+
+stop_car method called
+
+Completed 90° turn to the left.
+
+Turning left.
+
+stop_car method called
+
+Completed 90° turn to the left.
+
+Turning left.
+
+stop_car method called
+
+Completed 90° turn to the left.
+
+Turning left.
+
+stop_car method called
+
+Completed 90° turn to the left.
+
+Turning right.
+
+stop_car method called
+
+Completed 90° turn to the right.
+
+Turning right.
+
+stop_car method called
+
+Completed 90° turn to the right.
+
+Turning right.
+
+stop_car method called
+
+Completed 90° turn to the right.
+
+Turning right.
+
+stop_car method called
+
+Completed 90° turn to the right.
+
+Turning right.
+
+stop_car method called
+
+Completed 180° turn to the right.
+
+Turning right.
+
+stop_car method called
+
+Completed 180° turn to the right.
+
+Turning right.
+
+stop_car method called
+
+Completed 180° turn to the right.
+
+Turning right.
+
+stop_car method called
+
+Completed 180° turn to the right.
+
+Turning left.
+
+stop_car method called
+
+Completed 180° turn to the left.
+
+Turning left.
+
+stop_car method called
+
+Completed 180° turn to the left.
+
+Turning left.
+
+stop_car method called
+
+Completed 180° turn to the left.
+
+Turning left.
+
+stop_car method called
+
+Completed 180° turn to the left.
+
+Turning left.
+
+stop_car method called
+
+Completed 90° turn to the left.
+
+Turning left.
+
+stop_car method called
+
+Completed 90° turn to the left.
+
+Turning left.
+
+stop_car method called
+
+Completed 90° turn to the left.
+
+Turning left.
+
+stop_car method called
+
+Completed 90° turn to the left.
+
+Turning right.
+
+stop_car method called
+
+Completed 90° turn to the right.
+
+Turning right.
+
+stop_car method called
+
+Completed 90° turn to the right.
+
+Turning right.
+
+stop_car method called
+
+Completed 90° turn to the right.
+
+Turning right.
+
+stop_car method called
+
+Completed 90° turn to the right.
+
+Turning right.
+
+stop_car method called
+
+Completed 180° turn to the right.
+
+Turning right.
+
+stop_car method called
+
+Completed 180° turn to the right.
+
+Turning right.
+
+stop_car method called
+
+Completed 180° turn to the right.
+
+Turning right.
+
+stop_car method called
+
+Completed 180° turn to the right.
+
+Turning left.
+
+stop_car method called
+
+Completed 180° turn to the left.
+
+Turning left.
+
+stop_car method called
+
+Completed 180° turn to the left.
+
+Turning left.
+
+stop_car method called
+
+Completed 180° turn to the left.
+
+Turning left.
+
+stop_car method called
+
+Completed 180° turn to the left.
+
+Turning left.
+
+stop_car method called
+
+Completed 90° turn to the left.
+
+Turning left.
+
+stop_car method called
+
+Completed 90° turn to the left.
+
+Turning left.
+
+stop_car method called
+
+Completed 90° turn to the left.
+
+Turning left.
+
+stop_car method called
+
+Completed 90° turn to the left.
+
+Turning right.
+
+stop_car method called
+
+Completed 90° turn to the right.
+
+Turning right.
+
+stop_car method called
+
+Completed 90° turn to the right.
+
+Turning right.
+
+
+
+
+
+Car Script Started - 2000-01-01 00:00:00
+-----------------------------------------
+
+Motor Initialized: 
+Forward Pin=Pin(11), 
+Backwards Pin=Pin(10), 
+Speed PWM=PWM(Pin(17), freq=10000, duty=512, resolution=12, (duty=50.00%, resolution=0.024%), mode=0, channel=0, timer=0), 
+Default Speed=700
+
+
+Motor Initialized: 
+Forward Pin=Pin(13), 
+Backwards Pin=Pin(12), 
+Speed PWM=PWM(Pin(16), freq=10000, duty=512, resolution=12, (duty=50.00%, resolution=0.024%), mode=0, channel=1, timer=0), 
+Default Speed=672
+
+stby value set to 1 (high)
+
+Turning left.
+
+stop_car method called
+
+Completed 90° turn to the left.
+
+Turning left.
+
+stop_car method called
+
+Completed 90° turn to the left.
+
+Turning left.
+
+stop_car method called
+
+Completed 90° turn to the left.
+
+Turning left.
+
+stop_car method called
+
+Completed 90° turn to the left.
+
+Turning right.
+
+stop_car method called
+
+Completed 90° turn to the right.
+
+Turning right.
+
+stop_car method called
+
+Completed 90° turn to the right.
+
+Turning right.
+
+stop_car method called
+
+Completed 90° turn to the right.
+
+Turning right.
+
+stop_car method called
+
+Completed 90° turn to the right.
+
+Turning right.
+
+stop_car method called
+
+Completed 180° turn to the right.
+
+Turning right.
+
+stop_car method called
+
+Completed 180° turn to the right.
+
+Turning right.
+
+stop_car method called
+
+Completed 180° turn to the right.
+
+Turning right.
+
+stop_car method called
+
+Completed 180° turn to the right.
+
+Turning left.
+
+stop_car method called
+
+Completed 180° turn to the left.
+
+Turning left.
+
+stop_car method called
+
+Completed 180° turn to the left.
+
+Turning left.
+
+stop_car method called
+
+Completed 180° turn to the left.
+
+Turning left.
+
+stop_car method called
+
+Completed 180° turn to the left.
+
+Turning left.
+
+stop_car method called
+
+Completed 90° turn to the left.
+
+Turning left.
+
+stop_car method called
+
+Completed 90° turn to the left.
+
+
+
+
+
+Car Script Started - 2000-01-01 00:00:00
+-----------------------------------------
+
+Motor Initialized: 
+Forward Pin=Pin(11), 
+Backwards Pin=Pin(10), 
+Speed PWM=PWM(Pin(17), freq=10000, duty=512, resolution=12, (duty=50.00%, resolution=0.024%), mode=0, channel=0, timer=0), 
+Default Speed=700
+
+
+Motor Initialized: 
+Forward Pin=Pin(13), 
+Backwards Pin=Pin(12), 
+Speed PWM=PWM(Pin(16), freq=10000, duty=512, resolution=12, (duty=50.00%, resolution=0.024%), mode=0, channel=1, timer=0), 
+Default Speed=672
+
+stby value set to 1 (high)
+
+Turning left.
+
+stop_car method called
+
+Completed 90° turn to the left.
+
+Turning left.
+
+
+
+
+
+Car Script Started - 2000-01-01 00:00:00
+-----------------------------------------
+
+Motor Initialized: 
+Forward Pin=Pin(11), 
+Backwards Pin=Pin(10), 
+Speed PWM=PWM(Pin(17), freq=10000, duty=512, resolution=12, (duty=50.00%, resolution=0.024%), mode=0, channel=0, timer=0), 
+Default Speed=700
+
+
+Motor Initialized: 
+Forward Pin=Pin(13), 
+Backwards Pin=Pin(12), 
+Speed PWM=PWM(Pin(16), freq=10000, duty=512, resolution=12, (duty=50.00%, resolution=0.024%), mode=0, channel=1, timer=0), 
+Default Speed=672
+
+stby value set to 1 (high)
+
+Car Status:
+
+Motor A Status: 
+Forward=0, 
+Backwards=0, 
+Speed=512, 
+Default speed=700
+
+
+Motor B Status: 
+Forward=0, 
+Backwards=0, 
+Speed=512, 
+Default speed=672
+
+Turning left.
+
+stop_car method called
+
+Completed 90° turn to the left.
+
+Turning left.
+
+stop_car method called
+
+Completed 90° turn to the left.
+
+Turning left.
+
+stop_car method called
+
+Completed 90° turn to the left.
+
+Turning left.
+
+stop_car method called
+
+Completed 90° turn to the left.
+
+Turning right.
+
+stop_car method called
+
+Completed 90° turn to the right.
+
+Turning right.
+
+stop_car method called
+
+Completed 90° turn to the right.
+
+Turning right.
+
+stop_car method called
+
+Completed 90° turn to the right.
+
+Turning right.
+
+stop_car method called
+
+Completed 90° turn to the right.
+
+Turning right.
+
+stop_car method called
+
+Completed 180° turn to the right.
+
+Turning right.
+
+stop_car method called
+
+Completed 180° turn to the right.
+
+Turning right.
+
+stop_car method called
+
+Completed 180° turn to the right.
+
+Turning right.
+
+stop_car method called
+
+Completed 180° turn to the right.
+
+Turning left.
+
+stop_car method called
+
+Completed 180° turn to the left.
+
+Turning left.
+
+stop_car method called
+
+Completed 180° turn to the left.
+
+Turning left.
+
+stop_car method called
+
+Completed 180° turn to the left.
+
+Turning left.
+
+stop_car method called
+
+Completed 180° turn to the left.
+
+Turning left.
+
+stop_car method called
+
+Completed 90° turn to the left.
+
+Turning left.
+
+stop_car method called
+
+Completed 90° turn to the left.
+
+Turning left.
+
+stop_car method called
+
+Completed 90° turn to the left.
+
+Turning left.
+
+stop_car method called
+
+Completed 90° turn to the left.
+
+Turning right.
+
+stop_car method called
+
+Completed 90° turn to the right.
+
+Turning right.
+
+stop_car method called
+
+Completed 90° turn to the right.
+
+Turning right.
+
+stop_car method called
+
+Completed 90° turn to the right.
+
+Turning right.
+
+stop_car method called
+
+Completed 90° turn to the right.
+
+Turning right.
+
+stop_car method called
+
+Completed 180° turn to the right.
+
+Turning right.
+
+stop_car method called
+
+Completed 180° turn to the right.
+
+Turning right.
+
+stop_car method called
+
+Completed 180° turn to the right.
+
+Turning right.
+
+stop_car method called
+
+Completed 180° turn to the right.
+
+Turning left.
+
+stop_car method called
+
+Completed 180° turn to the left.
+
+Turning left.
+
+stop_car method called
+
+Completed 180° turn to the left.
+
+Turning left.
+
+stop_car method called
+
+Completed 180° turn to the left.
+
+Turning left.
+
+stop_car method called
+
+Completed 180° turn to the left.
+
+Turning left.
+
+stop_car method called
+
+Completed 90° turn to the left.
+
+Turning left.
+
+stop_car method called
+
+Completed 90° turn to the left.
+
+Turning left.
+
+stop_car method called
+
+Completed 90° turn to the left.
+
+Turning left.
+
+stop_car method called
+
+Completed 90° turn to the left.
+
+Turning right.
+
+stop_car method called
+
+Completed 90° turn to the right.
+
+Turning right.
+
+stop_car method called
+
+Completed 90° turn to the right.
+
+Turning right.
+
+stop_car method called
+
+Completed 90° turn to the right.
+
+Turning right.
+
+stop_car method called
+
+Completed 90° turn to the right.
+
+Turning right.
+
+stop_car method called
+
+Completed 180° turn to the right.
+
+Turning right.
+
+stop_car method called
+
+Completed 180° turn to the right.
+
+Turning right.
+
+stop_car method called
+
+Completed 180° turn to the right.
+
+Turning right.
+
+stop_car method called
+
+Completed 180° turn to the right.
+
+Turning left.
+
+stop_car method called
+
+Completed 180° turn to the left.
+
+Turning left.
+
+stop_car method called
+
+Completed 180° turn to the left.
+
+Turning left.
+
+stop_car method called
+
+Completed 180° turn to the left.
+
+Turning left.
+
+stop_car method called
+
+Completed 180° turn to the left.
+
+Turning left.
+
+stop_car method called
+
+Completed 90° turn to the left.
+
+Turning left.
+
+stop_car method called
+
+Completed 90° turn to the left.
+
+Turning left.
+
+stop_car method called
+
+Completed 90° turn to the left.
+
+Turning left.
+
+stop_car method called
+
+Completed 90° turn to the left.
+
+Turning right.
+
+stop_car method called
+
+Completed 90° turn to the right.
+
+Turning right.
+
+stop_car method called
+
+Completed 90° turn to the right.
+
+Turning right.
+
+stop_car method called
+
+Completed 90° turn to the right.
+
+Turning right.
+
+stop_car method called
+
+Completed 90° turn to the right.
+
+Turning right.
+
+
+
+
+
+Car Script Started - 2000-01-01 00:00:00
+-----------------------------------------
+
+Motor Initialized: 
+Forward Pin=Pin(11), 
+Backwards Pin=Pin(10), 
+Speed PWM=PWM(Pin(17), freq=10000, duty=512, resolution=12, (duty=50.00%, resolution=0.024%), mode=0, channel=0, timer=0), 
+Default Speed=700
+
+
+Motor Initialized: 
+Forward Pin=Pin(13), 
+Backwards Pin=Pin(12), 
+Speed PWM=PWM(Pin(16), freq=10000, duty=512, resolution=12, (duty=50.00%, resolution=0.024%), mode=0, channel=1, timer=0), 
+Default Speed=672
+
+stby value set to 1 (high)
+
+Car Status:
+
+Motor A Status: 
+Forward=0, 
+Backwards=0, 
+Speed=512, 
+Default speed=700
+
+
+Motor B Status: 
+Forward=0, 
+Backwards=0, 
+Speed=512, 
+Default speed=672
+
+Turning left.
+
+stop_car method called
+
+Completed 90° turn to the left.
+
+
+
+
+
+Car Script Started - 2024-02-19 23:05:01
+-----------------------------------------
+
+Motor Initialized: 
+Forward Pin=Pin(11), 
+Backwards Pin=Pin(10), 
+Speed PWM=PWM(Pin(17), freq=10000, duty=512, resolution=12, (duty=50.00%, resolution=0.024%), mode=0, channel=0, timer=0), 
+Default Speed=700
+
+
+Motor Initialized: 
+Forward Pin=Pin(13), 
+Backwards Pin=Pin(12), 
+Speed PWM=PWM(Pin(16), freq=10000, duty=512, resolution=12, (duty=50.00%, resolution=0.024%), mode=0, channel=1, timer=0), 
+Default Speed=672
+
+stby value set to 1 (high)
+
+Car Status:
+
+Motor A Status: 
+Forward=0, 
+Backwards=0, 
+Speed=512, 
+Default speed=700
+
+
+Motor B Status: 
+Forward=1, 
+Backwards=0, 
+Speed=512, 
+Default speed=672
+
+Turning left.
+
+stop_car method called
+
+Completed 90° turn to the left.
+
+
+
+
+
+Car Script Started - 2024-02-19 23:05:52
+-----------------------------------------
+
+Motor Initialized: 
+Forward Pin=Pin(11), 
+Backwards Pin=Pin(10), 
+Speed PWM=PWM(Pin(17), freq=10000, duty=512, resolution=12, (duty=50.00%, resolution=0.024%), mode=0, channel=0, timer=0), 
+Default Speed=700
+
+
+Motor Initialized: 
+Forward Pin=Pin(13), 
+Backwards Pin=Pin(12), 
+Speed PWM=PWM(Pin(16), freq=10000, duty=512, resolution=12, (duty=50.00%, resolution=0.024%), mode=0, channel=1, timer=0), 
+Default Speed=672
+
+stby value set to 1 (high)
+
+Car Status:
+
+Motor A Status: 
+Forward=0, 
+Backwards=0, 
+Speed=512, 
+Default speed=700
+
+
+Motor B Status: 
+Forward=1, 
+Backwards=0, 
+Speed=512, 
+Default speed=672
+
+Turning left.
+
+stop_car method called
+
+Completed 90° turn to the left.
+
+Turning left.
+
+stop_car method called
+
+Completed 90° turn to the left.
+
+
+
+
+
+Car Script Started - 2024-02-19 23:06:19
+-----------------------------------------
+
+Motor Initialized: 
+Forward Pin=Pin(11), 
+Backwards Pin=Pin(10), 
+Speed PWM=PWM(Pin(17), freq=10000, duty=512, resolution=12, (duty=50.00%, resolution=0.024%), mode=0, channel=0, timer=0), 
+Default Speed=700
+
+
+Motor Initialized: 
+Forward Pin=Pin(13), 
+Backwards Pin=Pin(12), 
+Speed PWM=PWM(Pin(16), freq=10000, duty=512, resolution=12, (duty=50.00%, resolution=0.024%), mode=0, channel=1, timer=0), 
+Default Speed=672
+
+stby value set to 1 (high)
+
+Car Status:
+
+Motor A Status: 
+Forward=0, 
+Backwards=0, 
+Speed=512, 
+Default speed=700
+
+
+Motor B Status: 
+Forward=1, 
+Backwards=0, 
+Speed=512, 
+Default speed=672
+
+Turning left.
+
+stop_car method called
+
+Completed 90° turn to the left.
+
+Turning left.
+
+stop_car method called
+
+Completed 90° turn to the left.
+
+Turning left.
+
+stop_car method called
+
+Completed 90° turn to the left.
+
+Turning left.
+
+stop_car method called
+
+Completed 90° turn to the left.
+
+Turning right.
+
+stop_car method called
+
+Completed 90° turn to the right.
+
+Turning right.
+
+stop_car method called
+
+Completed 90° turn to the right.
+
+Turning right.
+
+stop_car method called
+
+Completed 90° turn to the right.
+
+Turning right.
+
+stop_car method called
+
+Completed 90° turn to the right.
+
+Turning right.
+
+stop_car method called
+
+Completed 180° turn to the right.
+
+Turning right.
+
+stop_car method called
+
+Completed 180° turn to the right.
+
+
+
+
+
+Car Script Started - 2000-01-01 00:00:00
+-----------------------------------------
+
+Motor Initialized: 
+Forward Pin=Pin(11), 
+Backwards Pin=Pin(10), 
+Speed PWM=PWM(Pin(17), freq=10000, duty=512, resolution=12, (duty=50.00%, resolution=0.024%), mode=0, channel=0, timer=0), 
+Default Speed=700
+
+
+Motor Initialized: 
+Forward Pin=Pin(13), 
+Backwards Pin=Pin(12), 
+Speed PWM=PWM(Pin(16), freq=10000, duty=512, resolution=12, (duty=50.00%, resolution=0.024%), mode=0, channel=1, timer=0), 
+Default Speed=672
+
+stby value set to 1 (high)
+
+Car Status:
+
+Motor A Status: 
+Forward=0, 
+Backwards=0, 
+Speed=512, 
+Default speed=700
+
+
+Motor B Status: 
+Forward=0, 
+Backwards=0, 
+Speed=512, 
+Default speed=672
+
+Turning left.
+
+stop_car method called
+
+Completed 90° turn to the left.
+
+Turning left.
+
+stop_car method called
+
+Completed 90° turn to the left.
+
+Turning left.
+
+stop_car method called
+
+Completed 90° turn to the left.
+
+Turning left.
+
+stop_car method called
+
+Completed 90° turn to the left.
+
+Turning right.
+
+
+
+
+
+Car Script Started - 2000-01-01 00:00:00
+-----------------------------------------
+
+Motor Initialized: 
+Forward Pin=Pin(11), 
+Backwards Pin=Pin(10), 
+Speed PWM=PWM(Pin(17), freq=10000, duty=512, resolution=12, (duty=50.00%, resolution=0.024%), mode=0, channel=0, timer=0), 
+Default Speed=700
+
+
+Motor Initialized: 
+Forward Pin=Pin(13), 
+Backwards Pin=Pin(12), 
+Speed PWM=PWM(Pin(16), freq=10000, duty=512, resolution=12, (duty=50.00%, resolution=0.024%), mode=0, channel=1, timer=0), 
+Default Speed=672
+
+stby value set to 1 (high)
+
+Car Status:
+
+Motor A Status: 
+Forward=0, 
+Backwards=0, 
+Speed=512, 
+Default speed=700
+
+
+Motor B Status: 
+Forward=0, 
+Backwards=0, 
+Speed=512, 
+Default speed=672
+
+Turning left.
+
+stop_car method called
+
+Completed 90° turn to the left.
+
+Turning left.
+
+stop_car method called
+
+Completed 90° turn to the left.
+
+Turning left.
+
+stop_car method called
+
+Completed 90° turn to the left.
+
+Turning left.
+
+stop_car method called
+
+Completed 90° turn to the left.
+
+Turning right.
+
+stop_car method called
+
+Completed 90° turn to the right.
+
+Turning right.
+
+stop_car method called
+
+Completed 90° turn to the right.
+
+Turning right.
+
+stop_car method called
+
+Completed 90° turn to the right.
+
+Turning right.
+
+stop_car method called
+
+Completed 90° turn to the right.
+
+Turning right.
+
+stop_car method called
+
+Completed 180° turn to the right.
+
+Turning right.
+
+
+
+
+
+Car Script Started - 2000-01-01 00:00:00
+-----------------------------------------
+
+Motor Initialized: 
+Forward Pin=Pin(11), 
+Backwards Pin=Pin(10), 
+Speed PWM=PWM(Pin(17), freq=10000, duty=512, resolution=12, (duty=50.00%, resolution=0.024%), mode=0, channel=0, timer=0), 
+Default Speed=700
+
+
+Motor Initialized: 
+Forward Pin=Pin(13), 
+Backwards Pin=Pin(12), 
+Speed PWM=PWM(Pin(16), freq=10000, duty=512, resolution=12, (duty=50.00%, resolution=0.024%), mode=0, channel=1, timer=0), 
+Default Speed=672
+
+stby value set to 1 (high)
+
+Car Status:
+
+Motor A Status: 
+Forward=0, 
+Backwards=0, 
+Speed=512, 
+Default speed=700
+
+
+Motor B Status: 
+Forward=0, 
+Backwards=0, 
+Speed=512, 
+Default speed=672
+
+Turning left.
+
+stop_car method called
+
+Completed 90° turn to the left.
+
+Turning left.
+
+stop_car method called
+
+Completed 90° turn to the left.
+
+Turning left.
+
+stop_car method called
+
+Completed 90° turn to the left.
+
+Turning left.
+
+stop_car method called
+
+Completed 90° turn to the left.
+
+Turning right.
+
+stop_car method called
+
+Completed 90° turn to the right.
+
+Turning right.
+
+stop_car method called
+
+Completed 90° turn to the right.
+
+Turning right.
+
+stop_car method called
+
+Completed 90° turn to the right.
+
+Turning right.
+
+stop_car method called
+
+Completed 90° turn to the right.
+
+Turning right.
+
+stop_car method called
+
+Completed 180° turn to the right.
+
+
+
+
+
+Car Script Started - 2000-01-01 00:00:00
+-----------------------------------------
+
+Motor Initialized: 
+Forward Pin=Pin(11), 
+Backwards Pin=Pin(10), 
+Speed PWM=PWM(Pin(17), freq=10000, duty=512, resolution=12, (duty=50.00%, resolution=0.024%), mode=0, channel=0, timer=0), 
+Default Speed=700
+
+
+Motor Initialized: 
+Forward Pin=Pin(13), 
+Backwards Pin=Pin(12), 
+Speed PWM=PWM(Pin(16), freq=10000, duty=512, resolution=12, (duty=50.00%, resolution=0.024%), mode=0, channel=1, timer=0), 
+Default Speed=672
+
+stby value set to 1 (high)
+
+Car Status:
+
+Motor A Status: 
+Forward=0, 
+Backwards=0, 
+Speed=512, 
+Default speed=700
+
+
+Motor B Status: 
+Forward=0, 
+Backwards=0, 
+Speed=512, 
+Default speed=672
+
+Turning left.
+
+stop_car method called
+
+Completed 90° turn to the left.
+
+Turning left.
+
+stop_car method called
+
+Completed 90° turn to the left.
+
+Turning left.
+
+stop_car method called
+
+Completed 90° turn to the left.
+
+Turning left.
+
+stop_car method called
+
+Completed 90° turn to the left.
+
+Turning right.
+
+stop_car method called
+
+Completed 90° turn to the right.
+
+Turning right.
+
+stop_car method called
+
+Completed 90° turn to the right.
+
+Turning right.
+
+stop_car method called
+
+Completed 90° turn to the right.
+
+Turning right.
+
+stop_car method called
+
+Completed 90° turn to the right.
+
+Turning right.
+
+stop_car method called
+
+Completed 180° turn to the right.
+
+Turning right.
+
+stop_car method called
+
+Completed 180° turn to the right.
+
+Turning right.
+
+
+
+
+
+Car Script Started - 2000-01-01 00:00:00
+-----------------------------------------
+
+Motor Initialized: 
+Forward Pin=Pin(11), 
+Backwards Pin=Pin(10), 
+Speed PWM=PWM(Pin(17), freq=10000, duty=512, resolution=12, (duty=50.00%, resolution=0.024%), mode=0, channel=0, timer=0), 
+Default Speed=700
+
+
+Motor Initialized: 
+Forward Pin=Pin(13), 
+Backwards Pin=Pin(12), 
+Speed PWM=PWM(Pin(16), freq=10000, duty=512, resolution=12, (duty=50.00%, resolution=0.024%), mode=0, channel=1, timer=0), 
+Default Speed=672
+
+stby value set to 1 (high)
+
+Car Status:
+
+Motor A Status: 
+Forward=0, 
+Backwards=0, 
+Speed=512, 
+Default speed=700
+
+
+Motor B Status: 
+Forward=0, 
+Backwards=0, 
+Speed=512, 
+Default speed=672
+
+Turning left.
+
+stop_car method called
+
+Completed 90° turn to the left.
+
+Turning left.
+
+stop_car method called
+
+Completed 90° turn to the left.
+
+Turning left.
+
+stop_car method called
+
+Completed 90° turn to the left.
+
+Turning left.
+
+stop_car method called
+
+Completed 90° turn to the left.
+
+Turning right.
+
+stop_car method called
+
+Completed 90° turn to the right.
+
+Turning right.
+
+stop_car method called
+
+Completed 90° turn to the right.
+
+Turning right.
+
+stop_car method called
+
+Completed 90° turn to the right.
+
+Turning right.
+
+stop_car method called
+
+Completed 90° turn to the right.
+
+Turning right.
+
+stop_car method called
+
+Completed 180° turn to the right.
+
+
+
+
+
+Car Script Started - 2000-01-01 00:00:00
+-----------------------------------------
+
+Motor Initialized: 
+Forward Pin=Pin(11), 
+Backwards Pin=Pin(10), 
+Speed PWM=PWM(Pin(17), freq=10000, duty=512, resolution=12, (duty=50.00%, resolution=0.024%), mode=0, channel=0, timer=0), 
+Default Speed=700
+
+
+Motor Initialized: 
+Forward Pin=Pin(13), 
+Backwards Pin=Pin(12), 
+Speed PWM=PWM(Pin(16), freq=10000, duty=512, resolution=12, (duty=50.00%, resolution=0.024%), mode=0, channel=1, timer=0), 
+Default Speed=672
+
+stby value set to 1 (high)
+
+Car Status:
+
+Motor A Status: 
+Forward=0, 
+Backwards=0, 
+Speed=512, 
+Default speed=700
+
+
+Motor B Status: 
+Forward=0, 
+Backwards=0, 
+Speed=512, 
+Default speed=672
+
+Turning left.
+
+stop_car method called
+
+Completed 90° turn to the left.
+
+Turning left.
+
+stop_car method called
+
+Completed 90° turn to the left.
+
+Turning left.
+
+stop_car method called
+
+Completed 90° turn to the left.
+
+Turning left.
+
+stop_car method called
+
+Completed 90° turn to the left.
+
+Turning right.
+
+stop_car method called
+
+Completed 90° turn to the right.
+
+Turning right.
+
+stop_car method called
+
+Completed 90° turn to the right.
+
+Turning right.
+
+stop_car method called
+
+Completed 90° turn to the right.
+
+Turning right.
+
+stop_car method called
+
+Completed 90° turn to the right.
+
+Turning right.
+
+stop_car method called
+
+Completed 180° turn to the right.
+
+Turning right.
+
+stop_car method called
+
+Completed 180° turn to the right.
+
+Turning right.
+
+stop_car method called
+
+Completed 180° turn to the right.
+
+Turning right.
+
+stop_car method called
+
+Completed 180° turn to the right.
+
+Turning left.
+
+stop_car method called
+
+Completed 180° turn to the left.
+
+Turning left.
+
+stop_car method called
+
+Completed 180° turn to the left.
+
+Turning left.
+
+stop_car method called
+
+Completed 180° turn to the left.
+
+Turning left.
+
+stop_car method called
+
+Completed 180° turn to the left.
+
+Turning left.
+
+stop_car method called
+
+Completed 90° turn to the left.
+
+Turning left.
+
+stop_car method called
+
+Completed 90° turn to the left.
+
+Turning left.
+
+stop_car method called
+
+Completed 90° turn to the left.
+
+Turning left.
+
+stop_car method called
+
+Completed 90° turn to the left.
+
+
+
+
+
+Car Script Started - 2024-02-19 23:17:44
+-----------------------------------------
+
+Motor Initialized: 
+Forward Pin=Pin(11), 
+Backwards Pin=Pin(10), 
+Speed PWM=PWM(Pin(17), freq=10000, duty=512, resolution=12, (duty=50.00%, resolution=0.024%), mode=0, channel=0, timer=0), 
+Default Speed=700
+
+
+Motor Initialized: 
+Forward Pin=Pin(13), 
+Backwards Pin=Pin(12), 
+Speed PWM=PWM(Pin(16), freq=10000, duty=512, resolution=12, (duty=50.00%, resolution=0.024%), mode=0, channel=1, timer=0), 
+Default Speed=672
+
+stby value set to 1 (high)
+
+Car Status:
+
+Motor A Status: 
+Forward=1, 
+Backwards=0, 
+Speed=512, 
+Default speed=700
+
+
+Motor B Status: 
+Forward=1, 
+Backwards=0, 
+Speed=512, 
+Default speed=672
+
+Turning left.
+
+stop_car method called
+
+Completed 90° turn to the left.
+
+Turning left.
+
+stop_car method called
+
+Completed 90° turn to the left.
+
+Turning left.
+
+stop_car method called
+
+Completed 90° turn to the left.
+
+Turning left.
+
+stop_car method called
+
+Completed 90° turn to the left.
+
+Turning right.
+
+stop_car method called
+
+Completed 90° turn to the right.
+
+Turning right.
+
+stop_car method called
+
+Completed 90° turn to the right.
+
+Turning right.
+
+stop_car method called
+
+Completed 90° turn to the right.
+
+Turning right.
+
+stop_car method called
+
+Completed 90° turn to the right.
+
+Turning right.
+
+stop_car method called
+
+Completed 180° turn to the right.
+
+Turning right.
+
+
+
+
+
+Car Script Started - 2000-01-01 00:00:00
+-----------------------------------------
+
+Motor Initialized: 
+Forward Pin=Pin(11), 
+Backwards Pin=Pin(10), 
+Speed PWM=PWM(Pin(17), freq=10000, duty=512, resolution=12, (duty=50.00%, resolution=0.024%), mode=0, channel=0, timer=0), 
+Default Speed=700
+
+
+Motor Initialized: 
+Forward Pin=Pin(13), 
+Backwards Pin=Pin(12), 
+Speed PWM=PWM(Pin(16), freq=10000, duty=512, resolution=12, (duty=50.00%, resolution=0.024%), mode=0, channel=1, timer=0), 
+Default Speed=672
+
+stby value set to 1 (high)
+
+Car Status:
+
+Motor A Status: 
+Forward=0, 
+Backwards=0, 
+Speed=512, 
+Default speed=700
+
+
+Motor B Status: 
+Forward=0, 
+Backwards=0, 
+Speed=512, 
+Default speed=672
+
+Turning left.
+
+stop_car method called
+
+Completed 90° turn to the left.
+
+Turning left.
+
+stop_car method called
+
+Completed 90° turn to the left.
+
+Turning left.
+
+stop_car method called
+
+Completed 90° turn to the left.
+
+Turning left.
+
+stop_car method called
+
+Completed 90° turn to the left.
+
+Turning right.
+
+stop_car method called
+
+Completed 90° turn to the right.
+
+Turning right.
+
+stop_car method called
+
+Completed 90° turn to the right.
+
+Turning right.
+
+stop_car method called
+
+Completed 90° turn to the right.
+
+Turning right.
+
+stop_car method called
+
+Completed 90° turn to the right.
+
+Turning right.
+
+stop_car method called
+
+Completed 180° turn to the right.
+
+Turning right.
+
+stop_car method called
+
+Completed 180° turn to the right.
+
+Turning right.
+
+stop_car method called
+
+Completed 180° turn to the right.
+
+Turning right.
+
+stop_car method called
+
+Completed 180° turn to the right.
+
+Turning left.
+
+stop_car method called
+
+Completed 180° turn to the left.
+
+Turning left.
+
+stop_car method called
+
+Completed 180° turn to the left.
+
+Turning left.
+
+stop_car method called
+
+Completed 180° turn to the left.
+
+Turning left.
+
+stop_car method called
+
+Completed 180° turn to the left.
+
+Turning left.
+
+stop_car method called
+
+Completed 90° turn to the left.
+
+Turning left.
+
+stop_car method called
+
+Completed 90° turn to the left.
+
+Turning left.
+
+stop_car method called
+
+Completed 90° turn to the left.
+
+Turning left.
+
+stop_car method called
+
+Completed 90° turn to the left.
+
+
+
+
+
+Car Script Started - 2000-01-01 00:00:00
+-----------------------------------------
+
+Motor Initialized: 
+Forward Pin=Pin(11), 
+Backwards Pin=Pin(10), 
+Speed PWM=PWM(Pin(17), freq=10000, duty=512, resolution=12, (duty=50.00%, resolution=0.024%), mode=0, channel=0, timer=0), 
+Default Speed=700
+
+
+Motor Initialized: 
+Forward Pin=Pin(13), 
+Backwards Pin=Pin(12), 
+Speed PWM=PWM(Pin(16), freq=10000, duty=512, resolution=12, (duty=50.00%, resolution=0.024%), mode=0, channel=1, timer=0), 
+Default Speed=672
+
+stby value set to 1 (high)
+
+Car Status:
+
+Motor A Status: 
+Forward=0, 
+Backwards=0, 
+Speed=512, 
+Default speed=700
+
+
+Motor B Status: 
+Forward=0, 
+Backwards=0, 
+Speed=512, 
+Default speed=672
+
+Turning left.
+
+stop_car method called
+
+Completed 90° turn to the left.
+
+Turning left.
+
+stop_car method called
+
+Completed 90° turn to the left.
+
+Turning left.
+
+stop_car method called
+
+Completed 90° turn to the left.
+
+Turning left.
+
+stop_car method called
+
+Completed 90° turn to the left.
+
+
+
+
+
+Car Script Started - 2000-01-01 00:00:00
+-----------------------------------------
+
+Motor Initialized: 
+Forward Pin=Pin(11), 
+Backwards Pin=Pin(10), 
+Speed PWM=PWM(Pin(17), freq=10000, duty=512, resolution=12, (duty=50.00%, resolution=0.024%), mode=0, channel=0, timer=0), 
+Default Speed=700
+
+
+Motor Initialized: 
+Forward Pin=Pin(13), 
+Backwards Pin=Pin(12), 
+Speed PWM=PWM(Pin(16), freq=10000, duty=512, resolution=12, (duty=50.00%, resolution=0.024%), mode=0, channel=1, timer=0), 
+Default Speed=672
+
+stby value set to 1 (high)
+
+Car Status:
+
+Motor A Status: 
+Forward=0, 
+Backwards=0, 
+Speed=512, 
+Default speed=700
+
+
+Motor B Status: 
+Forward=0, 
+Backwards=0, 
+Speed=512, 
+Default speed=672
+
+Turning left.
+
+stop_car method called
+
+Completed 90° turn to the left.
+
+Turning left.
+
+stop_car method called
+
+Completed 90° turn to the left.
+
+Turning left.
+
+stop_car method called
+
+Completed 90° turn to the left.
+
+Turning left.
+
+stop_car method called
+
+Completed 90° turn to the left.
+
+Turning right.
+
+stop_car method called
+
+Completed 90° turn to the right.
+
+Turning right.
+
+stop_car method called
+
+Completed 90° turn to the right.
+
+Turning right.
+
+stop_car method called
+
+Completed 90° turn to the right.
+
+Turning right.
+
+stop_car method called
+
+Completed 90° turn to the right.
+
+Turning right.
+
+stop_car method called
+
+Completed 180° turn to the right.
+
+Turning right.
+
+stop_car method called
+
+Completed 180° turn to the right.
+
+Turning right.
+
+stop_car method called
+
+Completed 180° turn to the right.
+
+Turning right.
+
+stop_car method called
+
+Completed 180° turn to the right.
+
+Turning left.
+
+
+
+
+
+Car Script Started - 2000-01-01 00:00:00
+-----------------------------------------
+
+Motor Initialized: 
+Forward Pin=Pin(11), 
+Backwards Pin=Pin(10), 
+Speed PWM=PWM(Pin(17), freq=10000, duty=512, resolution=12, (duty=50.00%, resolution=0.024%), mode=0, channel=0, timer=0), 
+Default Speed=700
+
+
+Motor Initialized: 
+Forward Pin=Pin(13), 
+Backwards Pin=Pin(12), 
+Speed PWM=PWM(Pin(16), freq=10000, duty=512, resolution=12, (duty=50.00%, resolution=0.024%), mode=0, channel=1, timer=0), 
+Default Speed=672
+
+stby value set to 1 (high)
+
+Car Status:
+
+Motor A Status: 
+Forward=0, 
+Backwards=0, 
+Speed=512, 
+Default speed=700
+
+
+Motor B Status: 
+Forward=0, 
+Backwards=0, 
+Speed=512, 
+Default speed=672
+
+Turning left.
+
+stop_car method called
+
+Completed 90° turn to the left.
+
+Turning left.
+
+stop_car method called
+
+Completed 90° turn to the left.
+
+Turning left.
+
+stop_car method called
+
+Completed 90° turn to the left.
+
+Turning left.
+
+stop_car method called
+
+Completed 90° turn to the left.
+
+Turning right.
+
+stop_car method called
+
+Completed 90° turn to the right.
+
+Turning right.
+
+stop_car method called
+
+Completed 90° turn to the right.
+
+Turning right.
+
+stop_car method called
+
+Completed 90° turn to the right.
+
+Turning right.
+
+stop_car method called
+
+Completed 90° turn to the right.
+
+Turning right.
+
+stop_car method called
+
+Completed 180° turn to the right.
+
+Turning right.
+
+stop_car method called
+
+Completed 180° turn to the right.
+
+Turning right.
+
+stop_car method called
+
+Completed 180° turn to the right.
+
+Turning right.
+
+stop_car method called
+
+Completed 180° turn to the right.
+
+Turning left.
+
+stop_car method called
+
+Completed 180° turn to the left.
+
+Turning left.
+
+stop_car method called
+
+Completed 180° turn to the left.
+
+Turning left.
+
+stop_car method called
+
+Completed 180° turn to the left.
+
+Turning left.
+
+stop_car method called
+
+Completed 180° turn to the left.
+
+Turning left.
+
+stop_car method called
+
+Completed 90° turn to the left.
+
+Turning left.
+
+stop_car method called
+
+Completed 90° turn to the left.
+
+Turning left.
+
+stop_car method called
+
+Completed 90° turn to the left.
+
+Turning left.
+
+stop_car method called
+
+Completed 90° turn to the left.
+
+Turning right.
+
+stop_car method called
+
+Completed 90° turn to the right.
+
+
+
+
+
+Car Script Started - 2000-01-01 00:00:00
+-----------------------------------------
+
+Motor Initialized: 
+Forward Pin=Pin(11), 
+Backwards Pin=Pin(10), 
+Speed PWM=PWM(Pin(17), freq=10000, duty=512, resolution=12, (duty=50.00%, resolution=0.024%), mode=0, channel=0, timer=0), 
+Default Speed=700
+
+
+Motor Initialized: 
+Forward Pin=Pin(13), 
+Backwards Pin=Pin(12), 
+Speed PWM=PWM(Pin(16), freq=10000, duty=512, resolution=12, (duty=50.00%, resolution=0.024%), mode=0, channel=1, timer=0), 
+Default Speed=672
+
+stby value set to 1 (high)
+
+Car Status:
+
+Motor A Status: 
+Forward=0, 
+Backwards=0, 
+Speed=512, 
+Default speed=700
+
+
+Motor B Status: 
+Forward=0, 
+Backwards=0, 
+Speed=512, 
+Default speed=672
+
+Turning left.
+
+stop_car method called
+
+Completed 90° turn to the left.
+
+Turning left.
+
+stop_car method called
+
+Completed 90° turn to the left.
+
+Turning left.
+
+stop_car method called
+
+Completed 90° turn to the left.
+
+Turning left.
+
+stop_car method called
+
+Completed 90° turn to the left.
+
+Turning right.
+
+stop_car method called
+
+Completed 90° turn to the right.
+
+
+
+
+
+Car Script Started - 2000-01-01 00:00:00
+-----------------------------------------
+
+Motor Initialized: 
+Forward Pin=Pin(11), 
+Backwards Pin=Pin(10), 
+Speed PWM=PWM(Pin(17), freq=10000, duty=512, resolution=12, (duty=50.00%, resolution=0.024%), mode=0, channel=0, timer=0), 
+Default Speed=700
+
+
+Motor Initialized: 
+Forward Pin=Pin(13), 
+Backwards Pin=Pin(12), 
+Speed PWM=PWM(Pin(16), freq=10000, duty=512, resolution=12, (duty=50.00%, resolution=0.024%), mode=0, channel=1, timer=0), 
+Default Speed=672
+
+stby value set to 1 (high)
+
+Car Status:
+
+Motor A Status: 
+Forward=0, 
+Backwards=0, 
+Speed=512, 
+Default speed=700
+
+
+Motor B Status: 
+Forward=0, 
+Backwards=0, 
+Speed=512, 
+Default speed=672
+
+Turning left.
+
+stop_car method called
+
+Completed 90° turn to the left.
+
+Turning left.
+
+stop_car method called
+
+Completed 90° turn to the left.
+
+Turning left.
+
+stop_car method called
+
+Completed 90° turn to the left.
+
+Turning left.
+
+stop_car method called
+
+Completed 90° turn to the left.
+
+Turning right.
+
+stop_car method called
+
+Completed 90° turn to the right.
+
+
+
+
+
+Car Script Started - 2000-01-01 00:00:00
+-----------------------------------------
+
+Motor Initialized: 
+Forward Pin=Pin(11), 
+Backwards Pin=Pin(10), 
+Speed PWM=PWM(Pin(17), freq=10000, duty=512, resolution=12, (duty=50.00%, resolution=0.024%), mode=0, channel=0, timer=0), 
+Default Speed=700
+
+
+Motor Initialized: 
+Forward Pin=Pin(13), 
+Backwards Pin=Pin(12), 
+Speed PWM=PWM(Pin(16), freq=10000, duty=512, resolution=12, (duty=50.00%, resolution=0.024%), mode=0, channel=1, timer=0), 
+Default Speed=672
+
+stby value set to 1 (high)
+
+Car Status:
+
+Motor A Status: 
+Forward=0, 
+Backwards=0, 
+Speed=512, 
+Default speed=700
+
+
+Motor B Status: 
+Forward=0, 
+Backwards=0, 
+Speed=512, 
+Default speed=672
+
+Turning left.
+
+stop_car method called
+
+Completed 90° turn to the left.
+
+Turning left.
+
+stop_car method called
+
+Completed 90° turn to the left.
+
+Turning left.
+
+stop_car method called
+
+Completed 90° turn to the left.
+
+Turning left.
+
+stop_car method called
+
+Completed 90° turn to the left.
+
+Turning right.
+
+stop_car method called
+
+Completed 90° turn to the right.
+
+Turning right.
+
+stop_car method called
+
+Completed 90° turn to the right.
+
+
+
+
+
+Car Script Started - 2000-01-01 00:00:00
+-----------------------------------------
+
+Motor Initialized: 
+Forward Pin=Pin(11), 
+Backwards Pin=Pin(10), 
+Speed PWM=PWM(Pin(17), freq=10000, duty=512, resolution=12, (duty=50.00%, resolution=0.024%), mode=0, channel=0, timer=0), 
+Default Speed=700
+
+
+Motor Initialized: 
+Forward Pin=Pin(13), 
+Backwards Pin=Pin(12), 
+Speed PWM=PWM(Pin(16), freq=10000, duty=512, resolution=12, (duty=50.00%, resolution=0.024%), mode=0, channel=1, timer=0), 
+Default Speed=672
+
+stby value set to 1 (high)
+
+Car Status:
+
+Motor A Status: 
+Forward=0, 
+Backwards=0, 
+Speed=512, 
+Default speed=700
+
+
+Motor B Status: 
+Forward=0, 
+Backwards=0, 
+Speed=512, 
+Default speed=672
+
+Turning left.
+
+stop_car method called
+
+Completed 90° turn to the left.
+
+Turning left.
+
+stop_car method called
+
+Completed 90° turn to the left.
+
+Turning left.
+
+stop_car method called
+
+Completed 90° turn to the left.
+
+Turning left.
+
+stop_car method called
+
+Completed 90° turn to the left.
+
+Turning right.
+
+stop_car method called
+
+Completed 90° turn to the right.
+
+Turning right.
+
+stop_car method called
+
+Completed 90° turn to the right.
+
+Turning right.
+
+stop_car method called
+
+Completed 90° turn to the right.
+
+Turning right.
+
+stop_car method called
+
+Completed 90° turn to the right.
+
+Turning right.
+
+stop_car method called
+
+Completed 180° turn to the right.
+
+Turning right.
+
+stop_car method called
+
+Completed 180° turn to the right.
+
+Turning right.
+
+stop_car method called
+
+Completed 180° turn to the right.
+
+Turning right.
+
+stop_car method called
+
+Completed 180° turn to the right.
+
+Turning left.
+
+stop_car method called
+
+Completed 180° turn to the left.
+
+Turning left.
+
+stop_car method called
+
+Completed 180° turn to the left.
+
+Turning left.
+
+stop_car method called
+
+Completed 180° turn to the left.
+
+
+
+
+
+Car Script Started - 2000-01-01 00:00:00
+-----------------------------------------
+
+Motor Initialized: 
+Forward Pin=Pin(11), 
+Backwards Pin=Pin(10), 
+Speed PWM=PWM(Pin(17), freq=10000, duty=512, resolution=12, (duty=50.00%, resolution=0.024%), mode=0, channel=0, timer=0), 
+Default Speed=700
+
+
+Motor Initialized: 
+Forward Pin=Pin(13), 
+Backwards Pin=Pin(12), 
+Speed PWM=PWM(Pin(16), freq=10000, duty=512, resolution=12, (duty=50.00%, resolution=0.024%), mode=0, channel=1, timer=0), 
+Default Speed=672
+
+stby value set to 1 (high)
+
+Car Status:
+
+Motor A Status: 
+Forward=0, 
+Backwards=0, 
+Speed=512, 
+Default speed=700
+
+
+Motor B Status: 
+Forward=0, 
+Backwards=0, 
+Speed=512, 
+Default speed=672
+
+Turning left.
+
+stop_car method called
+
+Completed 90° turn to the left.
+
+Turning left.
+
+stop_car method called
+
+Completed 90° turn to the left.
+
+Turning left.
+
+stop_car method called
+
+Completed 90° turn to the left.
+
+Turning left.
+
+stop_car method called
+
+Completed 90° turn to the left.
+
+Turning right.
+
+
+
+
+
+Car Script Started - 2000-01-01 00:00:00
+-----------------------------------------
+
+Motor Initialized: 
+Forward Pin=Pin(11), 
+Backwards Pin=Pin(10), 
+Speed PWM=PWM(Pin(17), freq=10000, duty=512, resolution=12, (duty=50.00%, resolution=0.024%), mode=0, channel=0, timer=0), 
+Default Speed=700
+
+
+Motor Initialized: 
+Forward Pin=Pin(13), 
+Backwards Pin=Pin(12), 
+Speed PWM=PWM(Pin(16), freq=10000, duty=512, resolution=12, (duty=50.00%, resolution=0.024%), mode=0, channel=1, timer=0), 
+Default Speed=672
+
+stby value set to 1 (high)
+
+Car Status:
+
+Motor A Status: 
+Forward=0, 
+Backwards=0, 
+Speed=512, 
+Default speed=700
+
+
+Motor B Status: 
+Forward=0, 
+Backwards=0, 
+Speed=512, 
+Default speed=672
+
+Turning left.
+
+stop_car method called
+
+Completed 90° turn to the left.
+
+Turning left.
+
+stop_car method called
+
+Completed 90° turn to the left.
+
+Turning left.
+
+stop_car method called
+
+Completed 90° turn to the left.
+
+Turning left.
+
+stop_car method called
+
+Completed 90° turn to the left.
+
+Turning right.
+
+stop_car method called
+
+Completed 90° turn to the right.
+
+Turning right.
+
+stop_car method called
+
+Completed 90° turn to the right.
+
+Turning right.
+
+stop_car method called
+
+Completed 90° turn to the right.
+
+Turning right.
+
+stop_car method called
+
+Completed 90° turn to the right.
+
+Turning right.
+
+stop_car method called
+
+Completed 180° turn to the right.
+
+Turning right.
+
+stop_car method called
+
+Completed 180° turn to the right.
+
+Turning right.
+
+stop_car method called
+
+Completed 180° turn to the right.
+
+Turning right.
+
+stop_car method called
+
+Completed 180° turn to the right.
+
+Turning left.
+
+stop_car method called
+
+Completed 180° turn to the left.
+
+Turning left.
+
+stop_car method called
+
+Completed 180° turn to the left.
+
+Turning left.
+
+stop_car method called
+
+Completed 180° turn to the left.
+
+
+
+
+
+Car Script Started - 2000-01-01 00:00:00
+-----------------------------------------
+
+Motor Initialized: 
+Forward Pin=Pin(11), 
+Backwards Pin=Pin(10), 
+Speed PWM=PWM(Pin(17), freq=10000, duty=512, resolution=12, (duty=50.00%, resolution=0.024%), mode=0, channel=0, timer=0), 
+Default Speed=700
+
+
+Motor Initialized: 
+Forward Pin=Pin(13), 
+Backwards Pin=Pin(12), 
+Speed PWM=PWM(Pin(16), freq=10000, duty=512, resolution=12, (duty=50.00%, resolution=0.024%), mode=0, channel=1, timer=0), 
+Default Speed=672
+
+stby value set to 1 (high)
+
+Car Status:
+
+Motor A Status: 
+Forward=0, 
+Backwards=0, 
+Speed=512, 
+Default speed=700
+
+
+Motor B Status: 
+Forward=0, 
+Backwards=0, 
+Speed=512, 
+Default speed=672
+
+Turning left.
+
+stop_car method called
+
+Completed 90° turn to the left.
+
+Turning left.
+
+stop_car method called
+
+Completed 90° turn to the left.
+
+Turning left.
+
+stop_car method called
+
+Completed 90° turn to the left.
+
+Turning left.
+
+stop_car method called
+
+Completed 90° turn to the left.
+
+Turning right.
+
+stop_car method called
+
+Completed 90° turn to the right.
+
+Turning right.
+
+stop_car method called
+
+Completed 90° turn to the right.
+
+Turning right.
+
+stop_car method called
+
+Completed 90° turn to the right.
+
+Turning right.
+
+stop_car method called
+
+Completed 90° turn to the right.
+
+Turning right.
+
+stop_car method called
+
+Completed 180° turn to the right.
+
+Turning right.
+
+stop_car method called
+
+Completed 180° turn to the right.
+
+Turning right.
+
+stop_car method called
+
+Completed 180° turn to the right.
+
+Turning right.
+
+stop_car method called
+
+Completed 180° turn to the right.
+
+Turning left.
+
+stop_car method called
+
+Completed 180° turn to the left.
+
+Turning left.
+
+stop_car method called
+
+Completed 180° turn to the left.
+
+Turning left.
+
+stop_car method called
+
+Completed 180° turn to the left.
+
+
+
+
+
+Car Script Started - 2000-01-01 00:00:00
+-----------------------------------------
+
+Motor Initialized: 
+Forward Pin=Pin(11), 
+Backwards Pin=Pin(10), 
+Speed PWM=PWM(Pin(17), freq=10000, duty=512, resolution=12, (duty=50.00%, resolution=0.024%), mode=0, channel=0, timer=0), 
+Default Speed=700
+
+
+Motor Initialized: 
+Forward Pin=Pin(13), 
+Backwards Pin=Pin(12), 
+Speed PWM=PWM(Pin(16), freq=10000, duty=512, resolution=12, (duty=50.00%, resolution=0.024%), mode=0, channel=1, timer=0), 
+Default Speed=672
+
+stby value set to 1 (high)
+
+Car Status:
+
+Motor A Status: 
+Forward=0, 
+Backwards=0, 
+Speed=512, 
+Default speed=700
+
+
+Motor B Status: 
+Forward=0, 
+Backwards=0, 
+Speed=512, 
+Default speed=672
+Started driving in direction: forward and with speed: Motor A: 700 Motor B: 672
+
+Measured Distance: 79.55885
+
+Measured Distance: 79.3702
+
+Measured Distance: 80.3992
+
+Measured Distance: 79.79895
+
+Measured Distance: 80.65645
+
+Measured Distance: 79.919
+
+Measured Distance: 80.00475
+
+Measured Distance: 80.10765
+
+Measured Distance: 79.7132
+
+Measured Distance: 79.86755
+
+Measured Distance: 79.919
+
+Measured Distance: 80.10765
+
+Measured Distance: 81.7026
+
+Measured Distance: 80.1934
+
+Measured Distance: 71.6527
+
+Measured Distance: 61.1569
+
+Measured Distance: 50.43815
+
+Measured Distance: 39.8909
+
+stop_car method called
+
+Turning right.
+
+stop_car method called
+
+Completed 90° turn to the right.
+Measured distance to the right: 38.12445
+
+Turning right.
+
+stop_car method called
+
+Completed 180° turn to the right.
+Measured distance to the left: 5.12785
+Comparing distances and choosing direction
+Both ways less then 50cm
+
+Turning left.
+
+stop_car method called
+
+Completed 90° turn to the left.
+
+Measured Distance: 10.1871
+
+stop_car method called
+
+Turning right.
+
+stop_car method called
+
+Completed 90° turn to the right.
+Measured distance to the right: 17.6645
+
+Turning right.
+
+stop_car method called
+
+Completed 180° turn to the right.
+Measured distance to the left: 18.3162
+Comparing distances and choosing direction
+Both ways less then 50cm
+
+Turning left.
+
+stop_car method called
+
+Completed 90° turn to the left.
+
+Measured Distance: 46.45935
+
+stop_car method called
+
+Turning right.
+
+stop_car method called
+
+Completed 90° turn to the right.
+Measured distance to the right: 48.6031
+
+Turning right.
+
+stop_car method called
+
+Completed 180° turn to the right.
+Measured distance to the left: 45.08735
+Comparing distances and choosing direction
+Both ways less then 50cm
+
+Turning left.
+
+stop_car method called
+
+Completed 90° turn to the left.
+
+Measured Distance: 85.90435
+
+Measured Distance: 84.84105
+
+Measured Distance: 85.4413
+
+Measured Distance: 84.42945
+
+Measured Distance: 84.36085
+
+Measured Distance: 84.36085
+
+Measured Distance: 56.92085
+
+Measured Distance: 57.26385
+
+Measured Distance: 84.29225
+
+Measured Distance: 85.62995
+
+Measured Distance: 59.90495
+
+Measured Distance: 56.92085
+
+Measured Distance: 84.8239
+
+Measured Distance: 59.63055
+
+Measured Distance: 84.08645
+
+Measured Distance: 1210.601
+
+Measured Distance: 87.0534
+
+Measured Distance: 91.66675
+
+Measured Distance: 58.22425
+
+Measured Distance: 77.02065
+
+Measured Distance: 50.64395
+
+Measured Distance: 62.1516
+
+Measured Distance: 24.13005
+
+stop_car method called
+
+Turning right.
+
+
+
+
+
+Car Script Started - 2000-01-01 00:00:00
+-----------------------------------------
+
+Motor Initialized: 
+Forward Pin=Pin(11), 
+Backwards Pin=Pin(10), 
+Speed PWM=PWM(Pin(17), freq=10000, duty=512, resolution=12, (duty=50.00%, resolution=0.024%), mode=0, channel=0, timer=0), 
+Default Speed=700
+
+
+Motor Initialized: 
+Forward Pin=Pin(13), 
+Backwards Pin=Pin(12), 
+Speed PWM=PWM(Pin(16), freq=10000, duty=512, resolution=12, (duty=50.00%, resolution=0.024%), mode=0, channel=1, timer=0), 
+Default Speed=672
+
+stby value set to 1 (high)
+
+Car Status:
+
+Motor A Status: 
+Forward=0, 
+Backwards=0, 
+Speed=512, 
+Default speed=700
+
+
+Motor B Status: 
+Forward=0, 
+Backwards=0, 
+Speed=512, 
+Default speed=672
+Started driving in direction: forward and with speed: Motor A: 700 Motor B: 672
+
+Measured Distance: 150.5084
+
+Measured Distance: 1210.636
+
+Measured Distance: 139.3952
+
+Measured Distance: 133.89
+
+Measured Distance: 133.0668
+
+Measured Distance: 130.6144
+
+Measured Distance: 128.8822
+
+Measured Distance: 122.3138
+
+Measured Distance: 111.3893
+
+Measured Distance: 100.619
+
+Measured Distance: 90.15755
+
+Measured Distance: 80.2963
+
+Measured Distance: 71.4812
+
+Measured Distance: 320.2591
+
+Measured Distance: 306.8307
+
+Measured Distance: 293.0764
+
+Measured Distance: 274.4857
+
+Measured Distance: 261.3317
+
+Measured Distance: 248.4863
+
+Measured Distance: 235.8297
+
+Measured Distance: 222.7099
+
+Measured Distance: 209.9675
+
+Measured Distance: 197.5337
+
+Measured Distance: 184.9285
+
+Measured Distance: 163.1136
+
+Measured Distance: 160.4211
+
+Measured Distance: 134.0101
+
+Measured Distance: 119.9986
+
+Measured Distance: 67.6739
+
+Measured Distance: 56.47495
+
+Measured Distance: 87.9795
+
+Measured Distance: 37.5585
+
+stop_car method called
+
+Turning right.
+
+stop_car method called
+
+Completed 90° turn to the right.
+Measured distance to the right: 107.9593
+
+Turning right.
+
+stop_car method called
+
+Completed 180° turn to the right.
+Measured distance to the left: 112.6412
+Comparing distances and choosing direction
+Distance left is more then distance right and more then 50cm. Continue to the left direction
+
+Measured Distance: 108.4737
+
+Measured Distance: 95.8342
+
+Measured Distance: 83.6234
+
+Measured Distance: 71.1039
+
+Measured Distance: 58.01845
+
+Measured Distance: 44.2813
+
+stop_car method called
+
+Turning right.
+
+stop_car method called
+
+Completed 90° turn to the right.
+Measured distance to the right: 72.1672
+
+Turning right.
+
+stop_car method called
+
+Completed 180° turn to the right.
+Measured distance to the left: 133.4956
+Comparing distances and choosing direction
+Distance left is more then distance right and more then 50cm. Continue to the left direction
+
+Measured Distance: 129.8427
+
+Measured Distance: 117.8376
+
+Measured Distance: 107.3933
+
+Measured Distance: 93.9134
+
+Measured Distance: 82.54295
+
+Measured Distance: 72.21865
+
+Measured Distance: 163.9025
+
+Measured Distance: 172.0488
+
+Measured Distance: 158.2773
+
+Measured Distance: 143.3911
+
+Measured Distance: 131.1289
+
+Measured Distance: 121.5763
+
+Measured Distance: 110.8919
+
+Measured Distance: 99.6072
+
+Measured Distance: 91.63245
+
+Measured Distance: 81.71975
+
+Measured Distance: 190.828
+
+Measured Distance: 179.5777
+
+Measured Distance: 167.2468
+
+Measured Distance: 149.1364
+
+Measured Distance: 131.4376
+
+Measured Distance: 118.5237
+
+Measured Distance: 105.6783
+
+Measured Distance: 93.1588
+
+Measured Distance: 81.291
+
+Measured Distance: 67.7082
+
+Measured Distance: 56.6636
+
+Measured Distance: 44.12695
+
+stop_car method called
+
+Turning right.
+
+stop_car method called
+
+Completed 90° turn to the right.
+Measured distance to the right: 96.43445
+
+Turning right.
+
+stop_car method called
+
+Completed 180° turn to the right.
+Measured distance to the left: 21.24885
+Comparing distances and choosing direction
+Distance right is more then distance left and more then 50cm. Turning back to left direction
+
+Turning right.
+
+stop_car method called
+
+Completed 180° turn to the right.
+
+Measured Distance: 83.57195
+
+Measured Distance: 73.4706
+
+Measured Distance: 61.48275
+
+Measured Distance: 51.0384
+
+Measured Distance: 40.8856
+
+stop_car method called
+
+Turning right.
+
+stop_car method called
+
+Completed 90° turn to the right.
+Measured distance to the right: 109.4513
+
+Turning right.
+
+stop_car method called
+
+Completed 180° turn to the right.
+Measured distance to the left: 54.75995
+Comparing distances and choosing direction
+Distance right is more then distance left and more then 50cm. Turning back to left direction
+
+Turning right.
+
+stop_car method called
+
+Completed 180° turn to the right.
+
+Measured Distance: 103.1229
+
+Measured Distance: 90.56915
+
+Measured Distance: 75.27135
+
+Measured Distance: 60.4709
+
+Measured Distance: 55.24015
+
+Measured Distance: 44.4871
+
+stop_car method called
+
+Turning right.
+
+stop_car method called
+
+Completed 90° turn to the right.
+Measured distance to the right: 60.9511
+
+Turning right.
+
+stop_car method called
+
+Completed 180° turn to the right.
+Measured distance to the left: 321.5797
+Comparing distances and choosing direction
+Distance left is more then distance right and more then 50cm. Continue to the left direction
+
+Measured Distance: 1210.567
+
+Measured Distance: 1210.601
+
+Measured Distance: 1210.567
+
+Measured Distance: 1210.533
+
+Measured Distance: 1210.498
+
+Measured Distance: 1210.67
+
+Measured Distance: 1210.55
+
+Measured Distance: 1210.498
+
+Measured Distance: 1210.55
+
+Measured Distance: 1210.498
+
+Measured Distance: 278.7904
+
+Measured Distance: 278.6532
+
+Measured Distance: 279.3049
+
+Measured Distance: 280.5054
+
+Measured Distance: 281.9117
+
+Measured Distance: 282.8893
+
+Measured Distance: 283.7124
+
+Measured Distance: 283.8325
+
+Measured Distance: 284.2098
+
+Measured Distance: 284.3127
+
+Measured Distance: 284.2441
+
+Measured Distance: 284.5356
+
+Measured Distance: 284.9472
+
+Measured Distance: 285.5475
+
+Measured Distance: 286.8337
+
+Measured Distance: 286.0791
+
+Measured Distance: 286.8509
+
+Measured Distance: 285.5989
+
+Measured Distance: 285.8219
+
+Measured Distance: 285.5989
+
+Measured Distance: 284.6729
+
+Measured Distance: 284.8786
+
+Measured Distance: 285.6675
+
+Measured Distance: 286.8166
+
+
+
+
+
+Car Script Started - 2000-01-01 00:00:00
+-----------------------------------------
+
+Motor Initialized: 
+Forward Pin=Pin(11), 
+Backwards Pin=Pin(10), 
+Speed PWM=PWM(Pin(17), freq=10000, duty=512, resolution=12, (duty=50.00%, resolution=0.024%), mode=0, channel=0, timer=0), 
+Default Speed=700
+
+
+Motor Initialized: 
+Forward Pin=Pin(13), 
+Backwards Pin=Pin(12), 
+Speed PWM=PWM(Pin(16), freq=10000, duty=512, resolution=12, (duty=50.00%, resolution=0.024%), mode=0, channel=1, timer=0), 
+Default Speed=672
+
+stby value set to 1 (high)
+
+Car Status:
+
+Motor A Status: 
+Forward=0, 
+Backwards=0, 
+Speed=512, 
+Default speed=700
+
+
+Motor B Status: 
+Forward=0, 
+Backwards=0, 
+Speed=512, 
+Default speed=672
+Started driving in direction: forward and with speed: Motor A: 700 Motor B: 672
+
+Measured Distance: 44.1784
+
+stop_car method called
+
+
+
+
+
+Car Script Started - 2000-01-01 00:00:00
+-----------------------------------------
+
+Motor Initialized: 
+Forward Pin=Pin(11), 
+Backwards Pin=Pin(10), 
+Speed PWM=PWM(Pin(17), freq=10000, duty=512, resolution=12, (duty=50.00%, resolution=0.024%), mode=0, channel=0, timer=0), 
+Default Speed=700
+
+
+Motor Initialized: 
+Forward Pin=Pin(13), 
+Backwards Pin=Pin(12), 
+Speed PWM=PWM(Pin(16), freq=10000, duty=512, resolution=12, (duty=50.00%, resolution=0.024%), mode=0, channel=1, timer=0), 
+Default Speed=672
+
+stby value set to 1 (high)
+Started driving in direction: forward and with speed: Motor A: 700 Motor B: 672
+
+Measured Distance: 102.8657
+
+Measured Distance: 103.1401
+
+Measured Distance: 85.9215
+
+Measured Distance: 105.1295
+
+Measured Distance: 105.5583
+
+Measured Distance: 109.8457
+
+Measured Distance: 1210.687
+
+Measured Distance: 105.6954
+
+Measured Distance: 106.7759
+
+Measured Distance: 106.1928
+
+Measured Distance: 106.1242
+
+Measured Distance: 107.359
+
+Measured Distance: 109.6399
+
+Measured Distance: 107.9935
+
+Measured Distance: 107.2047
+
+Measured Distance: 25.5535
+
+stop_car method called
+
+Turning right.
+
+stop_car method called
+
+Completed 90° turn to the right.
+Measured distance to the right: 22.5351
+
+Turning right.
+
+stop_car method called
+
+Completed 180° turn to the right.
+Measured distance to the left: 36.7696
+Comparing distances and choosing direction
+Both ways less then 50cm
+
+Turning left.
+
+stop_car method called
+
+Completed 90° turn to the left.
+
+Measured Distance: 1210.31
+
+Measured Distance: 1210.567
+
+Measured Distance: 1210.601
+
+Measured Distance: 1210.653
+
+Measured Distance: 1210.653
+
+Measured Distance: 1210.824
+
+Measured Distance: 1210.824
+
+Measured Distance: 1210.619
+
+Measured Distance: 1210.619
+
+Measured Distance: 1210.636
+
+Measured Distance: 1210.773
+
+Measured Distance: 1210.619
+
+Measured Distance: 1210.687
+
+Measured Distance: 1210.67
+
+Measured Distance: 1210.739
+
+Measured Distance: 1210.619
+
+Measured Distance: 1210.516
+
+Measured Distance: 1210.756
+
+Measured Distance: 1210.739
+
+Measured Distance: 1210.619
+
+Measured Distance: 1210.841
+
+Measured Distance: 1210.841
+
+Measured Distance: 1210.739
+
+Measured Distance: 1210.824
+
+Measured Distance: 1210.756
+
+Measured Distance: 1210.67
+
+Measured Distance: 1210.773
+
+Measured Distance: 2.38385
+
+stop_car method called
+
+Turning right.
+
+stop_car method called
+
+Completed 90° turn to the right.
+Measured distance to the right: 28.0574
+
+Turning right.
+
+stop_car method called
+
+Completed 180° turn to the right.
+Measured distance to the left: 26.5825
+Comparing distances and choosing direction
+Both ways less then 50cm
+
+Turning left.
+
+stop_car method called
+
+Completed 90° turn to the left.
+
+
+
+
+
+Car Script Started - 2000-01-01 00:00:00
+-----------------------------------------
+
+Motor Initialized: 
+Forward Pin=Pin(11), 
+Backwards Pin=Pin(10), 
+Speed PWM=PWM(Pin(17), freq=10000, duty=512, resolution=12, (duty=50.00%, resolution=0.024%), mode=0, channel=0, timer=0), 
+Default Speed=700
+
+
+Motor Initialized: 
+Forward Pin=Pin(13), 
+Backwards Pin=Pin(12), 
+Speed PWM=PWM(Pin(16), freq=10000, duty=512, resolution=12, (duty=50.00%, resolution=0.024%), mode=0, channel=1, timer=0), 
+Default Speed=672
+
+stby value set to 1 (high)
+Started driving in direction: forward and with speed: Motor A: 700 Motor B: 672
+
+Measured Distance: 50.02655
+
+Measured Distance: 60.83105
+
+Measured Distance: 64.2096
+
+Measured Distance: 1211.064
+
+Measured Distance: 1211.013
+
+Measured Distance: 42.4291
+
+stop_car method called
+
+Turning right.
+
+
+
+
+
+Car Script Started - 2024-02-20 18:37:32
+-----------------------------------------
+
+Motor Initialized: 
+Forward Pin=Pin(11), 
+Backwards Pin=Pin(10), 
+Speed PWM=PWM(Pin(17), freq=10000, duty=512, resolution=12, (duty=50.00%, resolution=0.024%), mode=0, channel=0, timer=0), 
+Default Speed=700
+
+
+Motor Initialized: 
+Forward Pin=Pin(13), 
+Backwards Pin=Pin(12), 
+Speed PWM=PWM(Pin(16), freq=10000, duty=512, resolution=12, (duty=50.00%, resolution=0.024%), mode=0, channel=1, timer=0), 
+Default Speed=672
+
+stby value set to 1 (high)
+Started driving in direction: forward and with speed: Motor A: 700 Motor B: 672
+
+Measured Distance: 1210.79
+
+Measured Distance: 1211.03
+
+Measured Distance: 1211.047
+
+Measured Distance: 1210.961
+
+Measured Distance: 1211.047
+
+Measured Distance: 1210.961
+
+Measured Distance: 1210.979
+
+Measured Distance: 1211.133
+
+Measured Distance: 1211.03
+
+Measured Distance: 1211.082
+
+Measured Distance: 29.10355
+
+stop_car method called
+
+Turning right.
+
+stop_car method called
+
+Completed 90° turn to the right.
+Measured distance to the right: 29.7381
+
+Turning right.
+
+stop_car method called
+
+Completed 180° turn to the right.
+Measured distance to the left: 210.0189
+Comparing distances and choosing direction
+Distance left is more then distance right and more then 50cm. Continue to the left direction
+
+Measured Distance: 41.79455
+
+stop_car method called
+
+Turning right.
+
+stop_car method called
+
+Completed 90° turn to the right.
+Measured distance to the right: 14.7833
+
+Turning right.
+
+stop_car method called
+
+Completed 180° turn to the right.
+Measured distance to the left: 1210.841
+
+
+
+
+
+Car Script Started - 2024-02-20 18:41:57
+-----------------------------------------
+
+Motor Initialized: 
+Forward Pin=Pin(11), 
+Backwards Pin=Pin(10), 
+Speed PWM=PWM(Pin(17), freq=10000, duty=512, resolution=12, (duty=50.00%, resolution=0.024%), mode=0, channel=0, timer=0), 
+Default Speed=700
+
+
+Motor Initialized: 
+Forward Pin=Pin(13), 
+Backwards Pin=Pin(12), 
+Speed PWM=PWM(Pin(16), freq=10000, duty=512, resolution=12, (duty=50.00%, resolution=0.024%), mode=0, channel=1, timer=0), 
+Default Speed=672
+
+stby value set to 1 (high)
+
+Car Status:
+
+Motor A Status: 
+Forward=1, 
+Backwards=0, 
+Speed=512, 
+Default speed=700
+
+
+Motor B Status: 
+Forward=1, 
+Backwards=0, 
+Speed=512, 
+Default speed=672
+Started driving in direction: forward and with speed: Motor A: 700 Motor B: 672
+
+Measured Distance: 1210.516
+
+Measured Distance: 1210.773
+
+Measured Distance: 1210.687
+
+Measured Distance: 207.2406
+
+Measured Distance: 206.9662
+
+Measured Distance: 206.4345
+
+Measured Distance: 206.2802
+
+Measured Distance: 206.1601
+
+Measured Distance: 205.6113
+
+Measured Distance: 205.6971
+
+Measured Distance: 206.143
+
+Measured Distance: 205.7314
+
+Measured Distance: 205.8172
+
+Measured Distance: 205.8343
+
+Measured Distance: 204.7195
+
+Measured Distance: 204.1021
+
+Measured Distance: 196.8649
+
+Measured Distance: 27.44
+
+stop_car method called
+
+Turning right.
+
+stop_car method called
+
+Completed 90° turn to the right.
+Measured distance to the right: 188.1698
+
+Turning right.
+
+stop_car method called
+
+Completed 180° turn to the right.
+Measured distance to the left: 84.56665
+Comparing distances and choosing direction
+Distance right is more then distance left and more then 50cm. Turning back to left direction
+
+Turning right.
+
+stop_car method called
+
+Completed 180° turn to the right.
+
+Measured Distance: 318.9214
+
+Measured Distance: 315.9887
+
+Measured Distance: 318.2011
+
+Measured Distance: 316.932
+
+Measured Distance: 317.7037
+
+Measured Distance: 317.7209
+
+Measured Distance: 317.5151
+
+Measured Distance: 326.0386
+
+Measured Distance: 318.5098
+
+Measured Distance: 318.3383
+
+Measured Distance: 314.7368
+
+Measured Distance: 311.3582
+
+Measured Distance: 279.4078
+
+Measured Distance: 269.2379
+
+Measured Distance: 306.076
+
+Measured Distance: 306.1961
+
+Measured Distance: 306.5048
+
+Measured Distance: 306.299
+
+Measured Distance: 306.4362
+
+Measured Distance: 185.3057
+
+Measured Distance: 306.3847
+
+Measured Distance: 310.6036
+
+Measured Distance: 315.1827
+
+Measured Distance: 311.2725
+
+Measured Distance: 310.9124
+
+Measured Distance: 310.5522
+
+Measured Distance: 311.8556
+
+
+
+
+
+Car Script Started - 2024-02-20 18:43:30
+-----------------------------------------
+
+Motor Initialized: 
+Forward Pin=Pin(11), 
+Backwards Pin=Pin(10), 
+Speed PWM=PWM(Pin(17), freq=10000, duty=512, resolution=12, (duty=50.00%, resolution=0.024%), mode=0, channel=0, timer=0), 
+Default Speed=700
+
+
+Motor Initialized: 
+Forward Pin=Pin(13), 
+Backwards Pin=Pin(12), 
+Speed PWM=PWM(Pin(16), freq=10000, duty=512, resolution=12, (duty=50.00%, resolution=0.024%), mode=0, channel=1, timer=0), 
+Default Speed=672
+
+stby value set to 1 (high)
+
+Car Status:
+
+Motor A Status: 
+Forward=1, 
+Backwards=0, 
+Speed=512, 
+Default speed=700
+
+
+Motor B Status: 
+Forward=1, 
+Backwards=0, 
+Speed=512, 
+Default speed=672
+Started driving in direction: forward and with speed: Motor A: 700 Motor B: 672
+
+Measured Distance: 4.4933
+
+stop_car method called
+
+Turning right.

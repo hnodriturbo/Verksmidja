@@ -1,0 +1,5417 @@
+
+
+
+
+
+Car Script Started - 2024-02-21 19:00:37
+-----------------------------------------
+Session started, logging enabled. 
+
+
+Motor Initialized: 
+Forward Pin=Pin(11), 
+Backwards Pin=Pin(10), 
+Speed PWM=PWM(Pin(17), freq=10000, duty=0, resolution=12, (duty=0.00%, resolution=0.024%), mode=0, channel=0, timer=0), 
+Default Speed=700
+
+
+Motor Initialized: 
+Forward Pin=Pin(13), 
+Backwards Pin=Pin(12), 
+Speed PWM=PWM(Pin(16), freq=10000, duty=0, resolution=12, (duty=0.00%, resolution=0.024%), mode=0, channel=1, timer=0), 
+Default Speed=672
+
+stby value set to 1 (high)
+
+Car Status:
+
+Motor A Status: 
+Forward=0, 
+Backwards=0, 
+Speed=0, 
+Default speed=700
+
+
+Motor B Status: 
+Forward=0, 
+Backwards=0, 
+Speed=0, 
+Default speed=672
+Started driving in direction: forward and with speed: Motor A: 700 Motor B: 672
+
+Measured Distance: 270.0439
+
+Measured Distance: 270.507
+
+Measured Distance: 270.061
+
+Measured Distance: 269.9582
+
+Measured Distance: 269.9753
+
+Measured Distance: 270.0782
+
+Measured Distance: 270.061
+
+Measured Distance: 270.4384
+
+Measured Distance: 270.0782
+
+Measured Distance: 269.9924
+
+Measured Distance: 270.0096
+
+Measured Distance: 270.4384
+
+Measured Distance: 270.507
+
+
+
+
+
+Car Script Started - 2024-02-21 19:15:55
+-----------------------------------------
+Session started, logging enabled. 
+
+
+Motor Initialized: 
+Forward Pin=Pin(11), 
+Backwards Pin=Pin(10), 
+Speed PWM=PWM(Pin(17), freq=10000, duty=0, resolution=12, (duty=0.00%, resolution=0.024%), mode=0, channel=0, timer=0), 
+Default Speed=700
+
+
+Motor Initialized: 
+Forward Pin=Pin(13), 
+Backwards Pin=Pin(12), 
+Speed PWM=PWM(Pin(16), freq=10000, duty=0, resolution=12, (duty=0.00%, resolution=0.024%), mode=0, channel=1, timer=0), 
+Default Speed=672
+
+stby value set to 1 (high)
+
+Car Status:
+
+Motor A Status: 
+Forward=0, 
+Backwards=0, 
+Speed=0, 
+Default speed=700
+
+
+Motor B Status: 
+Forward=0, 
+Backwards=0, 
+Speed=0, 
+Default speed=672
+Started driving in direction: forward and with speed: Motor A: 700 Motor B: 672
+
+Measured Distance: 1210.533
+
+Measured Distance: 1210.687
+
+Measured Distance: 275.3604
+
+Measured Distance: 1210.704
+
+Measured Distance: 275.8063
+
+Measured Distance: 1210.601
+
+Measured Distance: 1210.584
+
+Measured Distance: 1210.533
+
+Measured Distance: 294.7399
+
+Measured Distance: 295.6317
+
+Measured Distance: 295.0829
+
+Measured Distance: 295.1515
+
+Measured Distance: 294.7399
+
+Measured Distance: 295.1
+
+Measured Distance: 295.1172
+
+Measured Distance: 294.1911
+
+Measured Distance: 294.9629
+
+Measured Distance: 294.0539
+
+Measured Distance: 294.8771
+
+Measured Distance: 294.3798
+
+Measured Distance: 294.8428
+
+Measured Distance: 294.757
+
+Measured Distance: 294.2083
+
+Measured Distance: 295.1
+
+Measured Distance: 294.6198
+
+Measured Distance: 294.6541
+
+Measured Distance: 294.174
+
+Measured Distance: 294.637
+
+Measured Distance: 294.9629
+
+Measured Distance: 294.9629
+
+Measured Distance: 294.5684
+
+Measured Distance: 294.5341
+
+Measured Distance: 294.8943
+
+Measured Distance: 294.9457
+
+Measured Distance: 1210.516
+
+Measured Distance: 294.9286
+
+Measured Distance: 1210.413
+
+Measured Distance: 293.9681
+
+
+
+
+
+Car Script Started - 2024-02-21 19:16:43
+-----------------------------------------
+Session started, logging enabled. 
+
+
+Motor Initialized: 
+Forward Pin=Pin(11), 
+Backwards Pin=Pin(10), 
+Speed PWM=PWM(Pin(17), freq=10000, duty=0, resolution=12, (duty=0.00%, resolution=0.024%), mode=0, channel=0, timer=0), 
+Default Speed=700
+
+
+Motor Initialized: 
+Forward Pin=Pin(13), 
+Backwards Pin=Pin(12), 
+Speed PWM=PWM(Pin(16), freq=10000, duty=0, resolution=12, (duty=0.00%, resolution=0.024%), mode=0, channel=1, timer=0), 
+Default Speed=672
+
+stby value set to 1 (high)
+
+Car Status:
+
+Motor A Status: 
+Forward=0, 
+Backwards=0, 
+Speed=0, 
+Default speed=700
+
+
+Motor B Status: 
+Forward=0, 
+Backwards=0, 
+Speed=0, 
+Default speed=672
+
+
+
+
+
+Car Script Started - 2024-02-21 19:34:00
+-----------------------------------------
+Session started, logging enabled. 
+
+
+Motor Initialized: 
+Forward Pin=Pin(11), 
+Backwards Pin=Pin(10), 
+Speed PWM=PWM(Pin(17), freq=10000, duty=0, resolution=12, (duty=0.00%, resolution=0.024%), mode=0, channel=0, timer=0), 
+Default Speed=700
+
+
+Motor Initialized: 
+Forward Pin=Pin(13), 
+Backwards Pin=Pin(12), 
+Speed PWM=PWM(Pin(16), freq=10000, duty=0, resolution=12, (duty=0.00%, resolution=0.024%), mode=0, channel=1, timer=0), 
+Default Speed=672
+
+stby value set to 1 (high)
+
+Car Status:
+
+Motor A Status: 
+Forward=0, 
+Backwards=0, 
+Speed=0, 
+Default speed=700
+
+
+Motor B Status: 
+Forward=0, 
+Backwards=0, 
+Speed=0, 
+Default speed=672
+Gyroscope X: 1.679389, Y: 1.755725, Z: -2.48855
+Gyroscope X: -1.206107, Y: -0.2137404, Z: -0.7251908
+Gyroscope X: -1.664122, Y: 0.778626, Z: -1.603053
+Gyroscope X: -0.6335878, Y: -0.3282443, Z: -1.717557
+Gyroscope X: -1.503817, Y: -0.6564885, Z: -1.335878
+Gyroscope X: -1.580153, Y: -0.5496183, Z: -1.694656
+Gyroscope X: -2.839695, Y: -1.229008, Z: -1.763359
+Gyroscope X: -1.099237, Y: -0.648855, Z: -1.633588
+Gyroscope X: -1.633588, Y: -0.3816794, Z: -1.603053
+Gyroscope X: -1.59542, Y: -0.09160305, Z: -1.450382
+Gyroscope X: -1.610687, Y: -0.1068702, Z: -1.671756
+Gyroscope X: -1.59542, Y: -0.3740458, Z: -1.580153
+Gyroscope X: -1.465649, Y: -0.3816794, Z: -1.793893
+Gyroscope X: -1.335878, Y: -0.3358779, Z: -1.70229
+Gyroscope X: -2.717557, Y: -0.2900764, Z: -1.160305
+Gyroscope X: -0.6335878, Y: -0.2061069, Z: -1.59542
+Gyroscope X: -0.259542, Y: 1.236641, Z: -4.549618
+Gyroscope X: -1.328244, Y: -0.1984733, Z: -2.076336
+Gyroscope X: -1.312977, Y: -0.2824428, Z: -3.549618
+Gyroscope X: -3.839695, Y: -6.160306, Z: 1.89313
+Gyroscope X: -5.473282, Y: -2.618321, Z: 2.328244
+Gyroscope X: -1.038168, Y: -0.8931297, Z: -1.687023
+
+
+
+
+
+Car Script Started - 2024-02-21 19:49:24
+-----------------------------------------
+Session started, logging enabled. 
+
+
+Motor Initialized: 
+Forward Pin=Pin(11), 
+Backwards Pin=Pin(10), 
+Speed PWM=PWM(Pin(17), freq=10000, duty=0, resolution=12, (duty=0.00%, resolution=0.024%), mode=0, channel=0, timer=0), 
+Default Speed=700
+
+
+Motor Initialized: 
+Forward Pin=Pin(13), 
+Backwards Pin=Pin(12), 
+Speed PWM=PWM(Pin(16), freq=10000, duty=0, resolution=12, (duty=0.00%, resolution=0.024%), mode=0, channel=1, timer=0), 
+Default Speed=672
+
+stby value set to 1 (high)
+Error encountered: name 'scl_pin' isn't defined
+
+
+
+
+
+Car Script Started - 2024-02-21 19:50:14
+-----------------------------------------
+Session started, logging enabled. 
+
+
+Motor Initialized: 
+Forward Pin=Pin(11), 
+Backwards Pin=Pin(10), 
+Speed PWM=PWM(Pin(17), freq=10000, duty=0, resolution=12, (duty=0.00%, resolution=0.024%), mode=0, channel=0, timer=0), 
+Default Speed=700
+
+
+Motor Initialized: 
+Forward Pin=Pin(13), 
+Backwards Pin=Pin(12), 
+Speed PWM=PWM(Pin(16), freq=10000, duty=0, resolution=12, (duty=0.00%, resolution=0.024%), mode=0, channel=1, timer=0), 
+Default Speed=672
+
+stby value set to 1 (high)
+Created the mpu instance
+
+Car Status:
+
+Motor A Status: 
+Forward=0, 
+Backwards=0, 
+Speed=0, 
+Default speed=700
+
+
+Motor B Status: 
+Forward=0, 
+Backwards=0, 
+Speed=0, 
+Default speed=672
+Error encountered: mpu6050_scl
+
+
+
+
+
+Car Script Started - 2024-02-21 19:51:20
+-----------------------------------------
+Session started, logging enabled. 
+
+
+Motor Initialized: 
+Forward Pin=Pin(11), 
+Backwards Pin=Pin(10), 
+Speed PWM=PWM(Pin(17), freq=10000, duty=0, resolution=12, (duty=0.00%, resolution=0.024%), mode=0, channel=0, timer=0), 
+Default Speed=700
+
+
+Motor Initialized: 
+Forward Pin=Pin(13), 
+Backwards Pin=Pin(12), 
+Speed PWM=PWM(Pin(16), freq=10000, duty=0, resolution=12, (duty=0.00%, resolution=0.024%), mode=0, channel=1, timer=0), 
+Default Speed=672
+
+stby value set to 1 (high)
+Created the mpu instance
+
+Car Status:
+
+Motor A Status: 
+Forward=0, 
+Backwards=0, 
+Speed=0, 
+Default speed=700
+
+
+Motor B Status: 
+Forward=0, 
+Backwards=0, 
+Speed=0, 
+Default speed=672
+Error encountered: mpu6050_scl
+
+
+
+
+
+Car Script Started - 2024-02-21 19:52:22
+-----------------------------------------
+Session started, logging enabled. 
+
+
+Motor Initialized: 
+Forward Pin=Pin(11), 
+Backwards Pin=Pin(10), 
+Speed PWM=PWM(Pin(17), freq=10000, duty=0, resolution=12, (duty=0.00%, resolution=0.024%), mode=0, channel=0, timer=0), 
+Default Speed=700
+
+
+Motor Initialized: 
+Forward Pin=Pin(13), 
+Backwards Pin=Pin(12), 
+Speed PWM=PWM(Pin(16), freq=10000, duty=0, resolution=12, (duty=0.00%, resolution=0.024%), mode=0, channel=1, timer=0), 
+Default Speed=672
+
+stby value set to 1 (high)
+Created the mpu instance
+
+Car Status:
+
+Motor A Status: 
+Forward=0, 
+Backwards=0, 
+Speed=0, 
+Default speed=700
+
+
+Motor B Status: 
+Forward=0, 
+Backwards=0, 
+Speed=0, 
+Default speed=672
+Gyroscope X: -1.244275, Y: -0.6183206, Z: -1.274809
+Gyroscope X: -1.816794, Y: -0.3358779, Z: -1.770992
+Gyroscope X: -1.763359, Y: 1.122137, Z: -1.396947
+Gyroscope X: -1.29771, Y: -1.503817, Z: -1.709924
+Gyroscope X: -1.541985, Y: -0.4503817, Z: -1.755725
+Gyroscope X: -1.305344, Y: -0.4732824, Z: -1.59542
+Gyroscope X: -1.679389, Y: -0.5038168, Z: -1.694656
+Gyroscope X: -1.618321, Y: -0.5038168, Z: -1.557252
+Gyroscope X: -1.816794, Y: -0.389313, Z: -1.541985
+Gyroscope X: -1.564886, Y: -0.2824428, Z: -1.725191
+Gyroscope X: -1.557252, Y: -0.3053435, Z: -1.770992
+Gyroscope X: -1.564886, Y: -0.259542, Z: -1.793893
+Gyroscope X: -1.603053, Y: -0.389313, Z: -1.618321
+Gyroscope X: -1.587786, Y: -0.2442748, Z: -1.78626
+Gyroscope X: -1.59542, Y: -0.2824428, Z: -1.725191
+Gyroscope X: -1.610687, Y: -0.4198473, Z: -1.877863
+Gyroscope X: -1.526718, Y: -0.4274809, Z: -1.763359
+Gyroscope X: -1.725191, Y: -0.3740458, Z: -1.748092
+Gyroscope X: -1.618321, Y: -0.4122138, Z: -1.557252
+Gyroscope X: -1.816794, Y: -0.3129771, Z: -1.656489
+Gyroscope X: -2.122137, Y: -0.3740458, Z: -1.572519
+Gyroscope X: -2.091603, Y: -0.1984733, Z: -1.679389
+Gyroscope X: -2.015267, Y: -0.3053435, Z: -1.480916
+Gyroscope X: -1.374046, Y: -0.4045802, Z: -1.633588
+Gyroscope X: -1.450382, Y: -0.4503817, Z: -1.709924
+Gyroscope X: -1.625954, Y: -0.4198473, Z: -1.541985
+Gyroscope X: -1.603053, Y: -0.2748091, Z: -1.625954
+Gyroscope X: -1.328244, Y: -0.3053435, Z: -1.740458
+
+
+
+
+
+Car Script Started - 2024-02-21 19:53:00
+-----------------------------------------
+Session started, logging enabled. 
+
+
+Motor Initialized: 
+Forward Pin=Pin(11), 
+Backwards Pin=Pin(10), 
+Speed PWM=PWM(Pin(17), freq=10000, duty=0, resolution=12, (duty=0.00%, resolution=0.024%), mode=0, channel=0, timer=0), 
+Default Speed=700
+
+
+Motor Initialized: 
+Forward Pin=Pin(13), 
+Backwards Pin=Pin(12), 
+Speed PWM=PWM(Pin(16), freq=10000, duty=0, resolution=12, (duty=0.00%, resolution=0.024%), mode=0, channel=1, timer=0), 
+Default Speed=672
+
+stby value set to 1 (high)
+Created the mpu instance
+
+Car Status:
+
+Motor A Status: 
+Forward=0, 
+Backwards=0, 
+Speed=0, 
+Default speed=700
+
+
+Motor B Status: 
+Forward=0, 
+Backwards=0, 
+Speed=0, 
+Default speed=672
+Driving forward. Base Speed: A=700, B=700
+Error encountered: function takes 1 positional arguments but 0 were given
+
+
+
+
+
+Car Script Started - 2024-02-21 19:55:18
+-----------------------------------------
+Session started, logging enabled. 
+
+
+Motor Initialized: 
+Forward Pin=Pin(11), 
+Backwards Pin=Pin(10), 
+Speed PWM=PWM(Pin(17), freq=10000, duty=0, resolution=12, (duty=0.00%, resolution=0.024%), mode=0, channel=0, timer=0), 
+Default Speed=700
+
+
+Motor Initialized: 
+Forward Pin=Pin(13), 
+Backwards Pin=Pin(12), 
+Speed PWM=PWM(Pin(16), freq=10000, duty=0, resolution=12, (duty=0.00%, resolution=0.024%), mode=0, channel=1, timer=0), 
+Default Speed=672
+
+stby value set to 1 (high)
+Created the mpu instance
+
+Car Status:
+
+Motor A Status: 
+Forward=0, 
+Backwards=0, 
+Speed=0, 
+Default speed=700
+
+
+Motor B Status: 
+Forward=0, 
+Backwards=0, 
+Speed=0, 
+Default speed=672
+Driving forward. Base Speed: A=700, B=672
+Error encountered: function takes 1 positional arguments but 0 were given
+
+
+
+
+
+Car Script Started - 2024-02-21 20:00:27
+-----------------------------------------
+Session started, logging enabled. 
+
+
+Motor Initialized: 
+Forward Pin=Pin(11), 
+Backwards Pin=Pin(10), 
+Speed PWM=PWM(Pin(17), freq=10000, duty=0, resolution=12, (duty=0.00%, resolution=0.024%), mode=0, channel=0, timer=0), 
+Default Speed=700
+
+
+Motor Initialized: 
+Forward Pin=Pin(13), 
+Backwards Pin=Pin(12), 
+Speed PWM=PWM(Pin(16), freq=10000, duty=0, resolution=12, (duty=0.00%, resolution=0.024%), mode=0, channel=1, timer=0), 
+Default Speed=672
+
+stby value set to 1 (high)
+Created the ultrasonic sensor instance
+Created the mpu instance
+
+Car Status:
+
+Motor A Status: 
+Forward=0, 
+Backwards=0, 
+Speed=0, 
+Default speed=700
+
+
+Motor B Status: 
+Forward=0, 
+Backwards=0, 
+Speed=0, 
+Default speed=672
+Driving forward. Base Speed: A=700, B=672
+
+
+
+
+
+Car Script Started - 2024-02-21 20:09:03
+-----------------------------------------
+Session started, logging enabled. 
+
+
+Motor Initialized: 
+Forward Pin=Pin(11), 
+Backwards Pin=Pin(10), 
+Speed PWM=PWM(Pin(17), freq=10000, duty=0, resolution=12, (duty=0.00%, resolution=0.024%), mode=0, channel=0, timer=0), 
+Default Speed=700
+
+
+Motor Initialized: 
+Forward Pin=Pin(13), 
+Backwards Pin=Pin(12), 
+Speed PWM=PWM(Pin(16), freq=10000, duty=0, resolution=12, (duty=0.00%, resolution=0.024%), mode=0, channel=1, timer=0), 
+Default Speed=672
+
+stby value set to 1 (high)
+Created the ultrasonic sensor instance
+Created the mpu instance
+
+Car Status:
+
+Motor A Status: 
+Forward=0, 
+Backwards=0, 
+Speed=0, 
+Default speed=700
+
+
+Motor B Status: 
+Forward=0, 
+Backwards=0, 
+Speed=0, 
+Default speed=672
+
+
+
+
+
+Car Script Started - 2024-02-21 20:30:39
+-----------------------------------------
+Session started, logging enabled. 
+
+
+Motor Initialized: 
+Forward Pin=Pin(11), 
+Backwards Pin=Pin(10), 
+Speed PWM=PWM(Pin(17), freq=10000, duty=0, resolution=12, (duty=0.00%, resolution=0.024%), mode=0, channel=0, timer=0), 
+Default Speed=700
+
+
+Motor Initialized: 
+Forward Pin=Pin(13), 
+Backwards Pin=Pin(12), 
+Speed PWM=PWM(Pin(16), freq=10000, duty=0, resolution=12, (duty=0.00%, resolution=0.024%), mode=0, channel=1, timer=0), 
+Default Speed=672
+
+stby value set to 1 (high)
+Created the ultrasonic sensor instance
+Created the mpu instance
+
+Car Status:
+
+Motor A Status: 
+Forward=0, 
+Backwards=0, 
+Speed=0, 
+Default speed=700
+
+
+Motor B Status: 
+Forward=0, 
+Backwards=0, 
+Speed=0, 
+Default speed=672
+
+MPU6050 Accelerometer: X=-0.02807617, Y=0.02319336, Z=0.9382324
+MPU6050 Gyroscope: X=-1.282443, Y=-0.7557252, Z=-1.725191
+Driving forward. Base Speed: A=700, B=672
+Adjusting speed: Decreased Motor A to 672.5725
+Adjusting speed: Increased Motor A to 716.6718
+Adjusting speed: Increased Motor A to 738.0229
+Adjusting speed: Increased Motor A to 770.748
+Adjusting speed: Decreased Motor A to 745.916
+Adjusting speed: Increased Motor A to 757.3435
+Adjusting speed: Decreased Motor A to 750.9847
+Adjusting speed: Decreased Motor A to 746.3817
+Adjusting speed: Increased Motor A to 756.6642
+Adjusting speed: Decreased Motor A to 749.313
+Adjusting speed: Increased Motor A to 755.4733
+Adjusting speed: Decreased Motor A to 745.6031
+Adjusting speed: Decreased Motor A to 727.7939
+Adjusting speed: Increased Motor A to 748.9924
+Adjusting speed: Decreased Motor A to 708.0535
+Adjusting speed: Increased Motor A to 728.1069
+Adjusting speed: Increased Motor A to 734.7253
+Adjusting speed: Decreased Motor A to 711.1909
+Adjusting speed: Increased Motor A to 721.0153
+Adjusting speed: Decreased Motor A to 716.1833
+Adjusting speed: Increased Motor A to 724.8627
+Adjusting speed: Decreased Motor A to 718.8093
+Adjusting speed: Decreased Motor A to 706.1909
+Adjusting speed: Decreased Motor A to 700.8245
+Adjusting speed: Increased Motor A to 705.5344
+Adjusting speed: Decreased Motor A to 680.168
+Adjusting speed: Decreased Motor A to 674.6489
+Adjusting speed: Increased Motor A to 686.5344
+Adjusting speed: Decreased Motor A to 613.8398
+Adjusting speed: Decreased Motor A to 556.6413
+Adjusting speed: Decreased Motor A to 517.0764
+Adjusting speed: Decreased Motor A to 452.397
+Adjusting speed: Decreased Motor A to 359.9314
+Adjusting speed: Decreased Motor A to 326.7787
+Adjusting speed: Decreased Motor A to 278.6642
+Adjusting speed: Decreased Motor A to 226.8856
+Adjusting speed: Decreased Motor A to 202.9696
+Adjusting speed: Decreased Motor A to 155.9238
+Adjusting speed: Decreased Motor A to 96.81688
+Adjusting speed: Increased Motor A to 101.1451
+Adjusting speed: Decreased Motor A to 69.82452
+Adjusting speed: Increased Motor A to 76.5955
+Adjusting speed: Increased Motor A to 160.6947
+Adjusting speed: Increased Motor A to 238.0764
+Adjusting speed: Increased Motor A to 460.4963
+Adjusting speed: Increased Motor A to 571.9238
+Adjusting speed: Increased Motor A to 711.9009
+Adjusting speed: Increased Motor A to 988.9772
+Adjusting speed: Increased Motor A to 1253.458
+
+
+
+
+
+Car Script Started - 2024-02-21 20:35:51
+-----------------------------------------
+Session started, logging enabled. 
+
+
+Motor Initialized: 
+Forward Pin=Pin(11), 
+Backwards Pin=Pin(10), 
+Speed PWM=PWM(Pin(17), freq=10000, duty=0, resolution=12, (duty=0.00%, resolution=0.024%), mode=0, channel=0, timer=0), 
+Default Speed=700
+
+
+Motor Initialized: 
+Forward Pin=Pin(13), 
+Backwards Pin=Pin(12), 
+Speed PWM=PWM(Pin(16), freq=10000, duty=0, resolution=12, (duty=0.00%, resolution=0.024%), mode=0, channel=1, timer=0), 
+Default Speed=672
+
+stby value set to 1 (high)
+Created the ultrasonic sensor instance
+Created the mpu instance
+
+Car Status:
+
+Motor A Status: 
+Forward=0, 
+Backwards=0, 
+Speed=0, 
+Default speed=700
+
+
+Motor B Status: 
+Forward=0, 
+Backwards=0, 
+Speed=0, 
+Default speed=672
+
+MPU6050 Accelerometer: X=-0.01879883, Y=0.009277344, Z=0.9313965
+MPU6050 Gyroscope: X=-1.137405, Y=-0.08396947, Z=-2.114504
+Driving forward. Base Speed: A=700, B=672
+Adjusting speed: Increased Motor A to 786.771
+Adjusting speed: Decreased Motor A to 748.5801
+Adjusting speed: Decreased Motor A to 714.0534
+Adjusting speed: Decreased Motor A to 698.5343
+Adjusting speed: Increased Motor A to 711.1832
+Adjusting speed: Increased Motor A to 724.748
+Adjusting speed: Decreased Motor A to 620.2977
+Adjusting speed: Decreased Motor A to 309.5878
+Adjusting speed: Decreased Motor A to 0
+Adjusting speed: Decreased Motor A to 0
+Adjusting speed: Decreased Motor A to 0
+Adjusting speed: Decreased Motor A to 0
+Adjusting speed: Decreased Motor A to 0
+Adjusting speed: Decreased Motor A to 0
+Adjusting speed: Decreased Motor A to 0
+Adjusting speed: Increased Motor A to 191.5802
+Adjusting speed: Increased Motor A to 395.0687
+Adjusting speed: Increased Motor A to 742.374
+Adjusting speed: Increased Motor A to 953.7252
+Adjusting speed: Increased Motor A to 1050.649
+
+
+
+
+
+Car Script Started - 2024-02-21 20:37:38
+-----------------------------------------
+Session started, logging enabled. 
+
+
+Motor Initialized: 
+Forward Pin=Pin(11), 
+Backwards Pin=Pin(10), 
+Speed PWM=PWM(Pin(17), freq=10000, duty=0, resolution=12, (duty=0.00%, resolution=0.024%), mode=0, channel=0, timer=0), 
+Default Speed=700
+
+
+Motor Initialized: 
+Forward Pin=Pin(13), 
+Backwards Pin=Pin(12), 
+Speed PWM=PWM(Pin(16), freq=10000, duty=0, resolution=12, (duty=0.00%, resolution=0.024%), mode=0, channel=1, timer=0), 
+Default Speed=672
+
+stby value set to 1 (high)
+Created the ultrasonic sensor instance
+Created the mpu instance
+
+Car Status:
+
+Motor A Status: 
+Forward=0, 
+Backwards=0, 
+Speed=0, 
+Default speed=700
+
+
+Motor B Status: 
+Forward=0, 
+Backwards=0, 
+Speed=0, 
+Default speed=672
+
+MPU6050 Accelerometer: X=-0.002441406, Y=0.002197266, Z=0.9250488
+MPU6050 Gyroscope: X=-0.5801527, Y=-1.152672, Z=-2.0
+Driving forward. Base Speed: A=700, B=672
+Adjusting speed: Decreased Motor A to 665.0916
+Adjusting speed: Increased Motor A to 678.7328
+Adjusting speed: Increased Motor A to 695.7328
+Adjusting speed: Decreased Motor A to 688.6871
+Adjusting speed: Increased Motor A to 722.0993
+Adjusting speed: Increased Motor A to 740.3207
+Adjusting speed: Decreased Motor A to 629.3817
+Adjusting speed: Decreased Motor A to 46.68707
+Adjusting speed: Decreased Motor A to 6.694656
+Adjusting speed: Decreased Motor A to 0
+Adjusting speed: Decreased Motor A to 0
+Adjusting speed: Decreased Motor A to 0
+Adjusting speed: Decreased Motor A to 99.21375
+Adjusting speed: Decreased Motor A to 0
+Adjusting speed: Decreased Motor A to 0
+Adjusting speed: Decreased Motor A to 0
+Adjusting speed: Decreased Motor A to 112.7252
+Adjusting speed: Decreased Motor A to 32.7252
+Adjusting speed: Decreased Motor A to 0
+Adjusting speed: Decreased Motor A to 0
+Adjusting speed: Decreased Motor A to 51.8855
+Adjusting speed: Decreased Motor A to 0
+Adjusting speed: Increased Motor A to 328.374
+Adjusting speed: Increased Motor A to 533.6183
+Adjusting speed: Increased Motor A to 1075.351
+Adjusting speed: Increased Motor A to 1677.611
+Adjusting speed: Increased Motor A to 1791.046
+Adjusting speed: Increased Motor A to 1932.496
+Adjusting speed: Increased Motor A to 2030.206
+Adjusting speed: Increased Motor A to 1490.435
+Adjusting speed: Increased Motor A to 1386.084
+Adjusting speed: Increased Motor A to 1295.092
+Adjusting speed: Increased Motor A to 1318.145
+Adjusting speed: Increased Motor A to 1194.557
+Adjusting speed: Increased Motor A to 932.8015
+Adjusting speed: Increased Motor A to 922.9542
+Adjusting speed: Increased Motor A to 905.2443
+Adjusting speed: Increased Motor A to 960.8931
+Adjusting speed: Increased Motor A to 942.6489
+Adjusting speed: Increased Motor A to 976.8473
+Adjusting speed: Decreased Motor A to 876.6946
+Adjusting speed: Decreased Motor A to 783.3893
+Adjusting speed: Decreased Motor A to 702.9084
+Adjusting speed: Decreased Motor A to 324.3359
+Adjusting speed: Decreased Motor A to 0
+Adjusting speed: Decreased Motor A to 0
+Adjusting speed: Decreased Motor A to 0
+Adjusting speed: Decreased Motor A to 0
+Adjusting speed: Decreased Motor A to 0
+Adjusting speed: Decreased Motor A to 0
+Adjusting speed: Decreased Motor A to 41.73282
+Adjusting speed: Increased Motor A to 210.8931
+Adjusting speed: Decreased Motor A to 190.7176
+Adjusting speed: Decreased Motor A to 115.4733
+Adjusting speed: Decreased Motor A to 139.2901
+Adjusting speed: Increased Motor A to 227.8397
+Adjusting speed: Decreased Motor A to 206.4427
+Adjusting speed: Decreased Motor A to 195.3512
+Adjusting speed: Decreased Motor A to 168.6031
+Adjusting speed: Increased Motor A to 208.2214
+Adjusting speed: Increased Motor A to 366.2137
+Adjusting speed: Increased Motor A to 385.5038
+Adjusting speed: Decreased Motor A to 359.2214
+Adjusting speed: Decreased Motor A to 267.7481
+Adjusting speed: Increased Motor A to 274.2901
+Adjusting speed: Decreased Motor A to 259.0
+Adjusting speed: Increased Motor A to 273.3283
+Adjusting speed: Increased Motor A to 317.9619
+Adjusting speed: Decreased Motor A to 288.9313
+Adjusting speed: Increased Motor A to 369.5954
+Adjusting speed: Increased Motor A to 445.9847
+Adjusting speed: Decreased Motor A to 330.1603
+Adjusting speed: Increased Motor A to 350.1374
+Adjusting speed: Increased Motor A to 369.1222
+Adjusting speed: Increased Motor A to 493.0687
+Adjusting speed: Increased Motor A to 513.5038
+Adjusting speed: Increased Motor A to 646.458
+Adjusting speed: Increased Motor A to 711.626
+Adjusting speed: Increased Motor A to 1189.008
+Adjusting speed: Decreased Motor A to 728.0687
+Adjusting speed: Increased Motor A to 1078.733
+Adjusting speed: Decreased Motor A to 619.1375
+Adjusting speed: Increased Motor A to 672.855
+Adjusting speed: Increased Motor A to 707.6412
+Adjusting speed: Decreased Motor A to 696.168
+Adjusting speed: Increased Motor A to 1009.351
+Adjusting speed: Increased Motor A to 1030.053
+Adjusting speed: Increased Motor A to 996.3893
+Adjusting speed: Increased Motor A to 1016.16
+Adjusting speed: Decreased Motor A to 374.0992
+Adjusting speed: Increased Motor A to 517.6641
+Adjusting speed: Increased Motor A to 826.3435
+Adjusting speed: Increased Motor A to 980.7481
+Adjusting speed: Decreased Motor A to 675.7023
+Adjusting speed: Increased Motor A to 888.1221
+Adjusting speed: Increased Motor A to 1210.847
+Adjusting speed: Decreased Motor A to 819.5191
+Adjusting speed: Increased Motor A to 868.3512
+Adjusting speed: Increased Motor A to 890.7711
+Adjusting speed: Decreased Motor A to 883.6489
+Adjusting speed: Increased Motor A to 894.8474
+Adjusting speed: Increased Motor A to 908.8703
+Adjusting speed: Decreased Motor A to 882.2672
+Adjusting speed: Increased Motor A to 916.29
+Adjusting speed: Increased Motor A to 1322.267
+Adjusting speed: Increased Motor A to 1289.824
+Adjusting speed: Increased Motor A to 1461.733
+Adjusting speed: Increased Motor A to 1085.473
+Adjusting speed: Increased Motor A to 1478.756
+Adjusting speed: Increased Motor A to 1135.626
+Adjusting speed: Decreased Motor A to 503.7939
+Adjusting speed: Decreased Motor A to 45.37408
+Adjusting speed: Decreased Motor A to 0
+Adjusting speed: Decreased Motor A to 0
+Adjusting speed: Decreased Motor A to 0
+Adjusting speed: Decreased Motor A to 0
+Adjusting speed: Decreased Motor A to 0
+Adjusting speed: Decreased Motor A to 0
+Adjusting speed: Decreased Motor A to 54.86258
+Adjusting speed: Decreased Motor A to 0
+Adjusting speed: Decreased Motor A to 0
+Adjusting speed: Decreased Motor A to 36.23665
+Adjusting speed: Decreased Motor A to 0
+Adjusting speed: Decreased Motor A to 0
+Adjusting speed: Decreased Motor A to 0
+Adjusting speed: Decreased Motor A to 0
+Adjusting speed: Decreased Motor A to 140.0534
+Adjusting speed: Increased Motor A to 299.8244
+Adjusting speed: Increased Motor A to 639.4962
+Adjusting speed: Increased Motor A to 1575.656
+Adjusting speed: Increased Motor A to 1794.71
+Adjusting speed: Increased Motor A to 2021.962
+Adjusting speed: Increased Motor A to 1560.206
+Adjusting speed: Increased Motor A to 1007.992
+Adjusting speed: Decreased Motor A to 892.5725
+Adjusting speed: Increased Motor A to 1034.763
+Adjusting speed: Decreased Motor A to 871.7328
+Adjusting speed: Increased Motor A to 907.6641
+Adjusting speed: Increased Motor A to 914.5573
+Adjusting speed: Decreased Motor A to 852.1909
+Adjusting speed: Decreased Motor A to 676.2137
+Adjusting speed: Decreased Motor A to 626.3435
+Adjusting speed: Decreased Motor A to 521.8168
+Adjusting speed: Decreased Motor A to 510.8015
+Adjusting speed: Decreased Motor A to 472.229
+Adjusting speed: Decreased Motor A to 412.5878
+Adjusting speed: Decreased Motor A to 387.145
+Adjusting speed: Decreased Motor A to 341.5496
+Adjusting speed: Decreased Motor A to 314.5801
+Adjusting speed: Decreased Motor A to 274.8626
+Adjusting speed: Decreased Motor A to 210.0305
+Adjusting speed: Decreased Motor A to 188.8626
+Adjusting speed: Decreased Motor A to 127.6107
+Adjusting speed: Decreased Motor A to 146.313
+Adjusting speed: Decreased Motor A to 183.1069
+Adjusting speed: Decreased Motor A to 177.687
+Adjusting speed: Decreased Motor A to 155.6259
+Adjusting speed: Increased Motor A to 213.7176
+Adjusting speed: Increased Motor A to 229.5725
+Adjusting speed: Increased Motor A to 329.3206
+Adjusting speed: Increased Motor A to 346.7023
+Adjusting speed: Increased Motor A to 388.3588
+Adjusting speed: Increased Motor A to 453.5267
+Adjusting speed: Increased Motor A to 528.4657
+Adjusting speed: Increased Motor A to 596.3054
+Adjusting speed: Increased Motor A to 621.0153
+Adjusting speed: Increased Motor A to 631.3741
+Adjusting speed: Decreased Motor A to 620.9695
+Adjusting speed: Decreased Motor A to 600.0306
+Adjusting speed: Decreased Motor A to 588.939
+Adjusting speed: Decreased Motor A to 577.2367
+Adjusting speed: Decreased Motor A to 562.252
+Adjusting speed: Decreased Motor A to 553.1451
+Adjusting speed: Decreased Motor A to 536.0993
+Adjusting speed: Decreased Motor A to 527.1451
+Adjusting speed: Decreased Motor A to 516.8168
+Adjusting speed: Increased Motor A to 524.6566
+Adjusting speed: Decreased Motor A to 513.5649
+Adjusting speed: Decreased Motor A to 509.1909
+Adjusting speed: Decreased Motor A to 503.6718
+Adjusting speed: Decreased Motor A to 489.9848
+Adjusting speed: Decreased Motor A to 465.0764
+Adjusting speed: Decreased Motor A to 398.1069
+Adjusting speed: Decreased Motor A to 377.5497
+Adjusting speed: Decreased Motor A to 350.3512
+Adjusting speed: Decreased Motor A to 336.2061
+Adjusting speed: Decreased Motor A to 299.1603
+Adjusting speed: Decreased Motor A to 158.9848
+Adjusting speed: Decreased Motor A to 91.50381
+Adjusting speed: Decreased Motor A to 133.7939
+Adjusting speed: Decreased Motor A to 0
+Adjusting speed: Decreased Motor A to 164.5573
+Adjusting speed: Decreased Motor A to 27.38168
+Adjusting speed: Decreased Motor A to 126.9237
+Adjusting speed: Decreased Motor A to 10.58778
+Adjusting speed: Decreased Motor A to 0
+Adjusting speed: Decreased Motor A to 0
+Adjusting speed: Decreased Motor A to 0
+Adjusting speed: Decreased Motor A to 102.4962
+Adjusting speed: Decreased Motor A to 41.12215
+Adjusting speed: Decreased Motor A to 0
+Adjusting speed: Decreased Motor A to 0
+Adjusting speed: Decreased Motor A to 0
+Adjusting speed: Decreased Motor A to 17.38168
+Adjusting speed: Increased Motor A to 239.1374
+Adjusting speed: Decreased Motor A to 182.0916
+Adjusting speed: Increased Motor A to 206.313
+Adjusting speed: Increased Motor A to 222.4733
+Adjusting speed: Decreased Motor A to 192.8321
+Adjusting speed: Increased Motor A to 232.9542
+Adjusting speed: Increased Motor A to 278.4275
+Adjusting speed: Decreased Motor A to 260.3893
+Adjusting speed: Increased Motor A to 269.3741
+Adjusting speed: Decreased Motor A to 260.6489
+Adjusting speed: Increased Motor A to 267.8779
+Adjusting speed: Increased Motor A to 283.5802
+Adjusting speed: Decreased Motor A to 270.0458
+Adjusting speed: Decreased Motor A to 250.0992
+Adjusting speed: Increased Motor A to 256.2596
+Adjusting speed: Increased Motor A to 270.1298
+Adjusting speed: Increased Motor A to 282.9313
+Adjusting speed: Increased Motor A to 309.7023
+Adjusting speed: Increased Motor A to 322.5038
+Adjusting speed: Decreased Motor A to 317.9008
+Adjusting speed: Decreased Motor A to 303.0687
+Adjusting speed: Increased Motor A to 314.4962
+Adjusting speed: Decreased Motor A to 285.2366
+Adjusting speed: Decreased Motor A to 280.3282
+Adjusting speed: Increased Motor A to 299.8473
+Adjusting speed: Decreased Motor A to 292.4962
+Adjusting speed: Decreased Motor A to 276.5954
+Adjusting speed: Decreased Motor A to 263.2901
+Adjusting speed: Decreased Motor A to 244.4886
+Adjusting speed: Increased Motor A to 260.4962
+Adjusting speed: Decreased Motor A to 254.8245
+Adjusting speed: Decreased Motor A to 245.1069
+Adjusting speed: Decreased Motor A to 233.7863
+Adjusting speed: Decreased Motor A to 227.7328
+Adjusting speed: Increased Motor A to 231.9084
+Adjusting speed: Decreased Motor A to 222.8779
+Adjusting speed: Decreased Motor A to 209.4962
+Adjusting speed: Decreased Motor A to 203.6718
+Adjusting speed: Decreased Motor A to 196.7786
+Adjusting speed: Decreased Motor A to 195.4733
+Adjusting speed: Decreased Motor A to 189.9771
+Adjusting speed: Decreased Motor A to 195.2443
+Adjusting speed: Decreased Motor A to 194.0992
+Adjusting speed: Increased Motor A to 223.1069
+Adjusting speed: Increased Motor A to 239.6489
+Adjusting speed: Increased Motor A to 293.8244
+Adjusting speed: Decreased Motor A to 279.2214
+Adjusting speed: Decreased Motor A to 218.6641
+Adjusting speed: Increased Motor A to 250.4733
+Adjusting speed: Increased Motor A to 464.4962
+Adjusting speed: Increased Motor A to 757.2977
+Adjusting speed: Increased Motor A to 1007.58
+Adjusting speed: Increased Motor A to 1028.832
+Adjusting speed: Increased Motor A to 1152.573
+Adjusting speed: Increased Motor A to 947.6107
+Adjusting speed: Increased Motor A to 1091.58
+Adjusting speed: Increased Motor A to 1001.427
+Adjusting speed: Increased Motor A to 1072.573
+Adjusting speed: Decreased Motor A to 893.9466
+Adjusting speed: Increased Motor A to 911.252
+Adjusting speed: Decreased Motor A to 877.9924
+Adjusting speed: Decreased Motor A to 853.9236
+Adjusting speed: Increased Motor A to 865.3511
+Adjusting speed: Increased Motor A to 881.2061
+Adjusting speed: Decreased Motor A to 865.9924
+Adjusting speed: Increased Motor A to 881.3893
+Adjusting speed: Decreased Motor A to 870.6794
+Adjusting speed: Decreased Motor A to 853.0229
+Adjusting speed: Decreased Motor A to 847.3512
+Adjusting speed: Increased Motor A to 862.2901
+Adjusting speed: Increased Motor A to 876.9237
+Adjusting speed: Increased Motor A to 1001.939
+Adjusting speed: Decreased Motor A to 876.1603
+Adjusting speed: Increased Motor A to 1025.756
+Adjusting speed: Increased Motor A to 959.8244
+Adjusting speed: Increased Motor A to 1032.344
+Adjusting speed: Increased Motor A to 906.6946
+Adjusting speed: Decreased Motor A to 883.2595
+Adjusting speed: Decreased Motor A to 791.7099
+Adjusting speed: Increased Motor A to 847.5649
+Adjusting speed: Decreased Motor A to 719.2977
+Adjusting speed: Decreased Motor A to 674.6183
+Adjusting speed: Decreased Motor A to 619.5573
+Adjusting speed: Decreased Motor A to 589.7634
+Adjusting speed: Increased Motor A to 704.2443
+Adjusting speed: Decreased Motor A to 692.313
+Adjusting speed: Decreased Motor A to 666.7176
+Adjusting speed: Decreased Motor A to 520.5115
+Adjusting speed: Increased Motor A to 561.0992
+Adjusting speed: Increased Motor A to 779.626
+Adjusting speed: Decreased Motor A to 719.3741
+Adjusting speed: Increased Motor A to 827.2137
+Adjusting speed: Decreased Motor A to 635.7405
+Adjusting speed: Increased Motor A to 862.6642
+Adjusting speed: Increased Motor A to 971.8016
+Adjusting speed: Decreased Motor A to 873.1832
+Adjusting speed: Decreased Motor A to 833.0076
+Adjusting speed: Increased Motor A to 842.9847
+Adjusting speed: Decreased Motor A to 806.0916
+Adjusting speed: Decreased Motor A to 701.2595
+Adjusting speed: Increased Motor A to 803.832
+Adjusting speed: Decreased Motor A to 796.7863
+Adjusting speed: Increased Motor A to 882.8702
+Adjusting speed: Increased Motor A to 914.0687
+Adjusting speed: Increased Motor A to 945.5496
+Adjusting speed: Decreased Motor A to 876.3893
+Adjusting speed: Decreased Motor A to 854.9161
+Adjusting speed: Decreased Motor A to 828.939
+Adjusting speed: Increased Motor A to 842.2748
+Adjusting speed: Increased Motor A to 846.9847
+Adjusting speed: Increased Motor A to 856.1985
+Adjusting speed: Decreased Motor A to 824.0382
+Adjusting speed: Decreased Motor A to 818.4428
+Adjusting speed: Increased Motor A to 848.4199
+Adjusting speed: Increased Motor A to 903.4352
+Adjusting speed: Increased Motor A to 940.8168
+Adjusting speed: Increased Motor A to 915.9313
+Adjusting speed: Decreased Motor A to 895.0153
+Adjusting speed: Increased Motor A to 916.061
+Adjusting speed: Decreased Motor A to 868.5267
+Adjusting speed: Decreased Motor A to 849.4199
+Adjusting speed: Increased Motor A to 856.1145
+Adjusting speed: Decreased Motor A to 824.5649
+Adjusting speed: Decreased Motor A to 815.0764
+Adjusting speed: Decreased Motor A to 780.7786
+Adjusting speed: Decreased Motor A to 750.6794
+Adjusting speed: Decreased Motor A to 724.5496
+Adjusting speed: Decreased Motor A to 704.9084
+Adjusting speed: Decreased Motor A to 698.0153
+Adjusting speed: Decreased Motor A to 684.8626
+Adjusting speed: Increased Motor A to 718.8092
+Adjusting speed: Increased Motor A to 879.7787
+Adjusting speed: Increased Motor A to 1098.534
+Adjusting speed: Increased Motor A to 1206.313
+Adjusting speed: Increased Motor A to 1071.656
+Adjusting speed: Increased Motor A to 1203.641
+Adjusting speed: Increased Motor A to 1333.794
+Adjusting speed: Increased Motor A to 1293.947
+Adjusting speed: Increased Motor A to 1333.336
+Adjusting speed: Increased Motor A to 1076.618
+Adjusting speed: Increased Motor A to 1403.26
+Adjusting speed: Increased Motor A to 1252.725
+Adjusting speed: Increased Motor A to 1070.817
+Adjusting speed: Increased Motor A to 1225.779
+Adjusting speed: Increased Motor A to 1158.832
+Adjusting speed: Increased Motor A to 1191.656
+Adjusting speed: Increased Motor A to 1056.924
+Adjusting speed: Increased Motor A to 1167.458
+Adjusting speed: Increased Motor A to 1099.748
+Adjusting speed: Decreased Motor A to 777.3054
+Adjusting speed: Increased Motor A to 792.9313
+Adjusting speed: Decreased Motor A to 778.0229
+Adjusting speed: Decreased Motor A to 653.8016
+Adjusting speed: Increased Motor A to 710.8779
+Adjusting speed: Increased Motor A to 796.5039
+Adjusting speed: Increased Motor A to 945.3359
+Adjusting speed: Increased Motor A to 920.5115
+Adjusting speed: Increased Motor A to 1015.321
+Adjusting speed: Increased Motor A to 947.0764
+Adjusting speed: Increased Motor A to 936.6183
+Adjusting speed: Increased Motor A to 1011.58
+Adjusting speed: Increased Motor A to 915.397
+Adjusting speed: Decreased Motor A to 850.3588
+Adjusting speed: Increased Motor A to 870.4122
+Adjusting speed: Increased Motor A to 887.7175
+Adjusting speed: Decreased Motor A to 855.0229
+Adjusting speed: Increased Motor A to 866.9847
+Adjusting speed: Decreased Motor A to 850.9313
+Adjusting speed: Increased Motor A to 858.3129
+Adjusting speed: Decreased Motor A to 834.1679
+Adjusting speed: Increased Motor A to 843.9923
+Adjusting speed: Increased Motor A to 853.3587
+Adjusting speed: Increased Motor A to 860.1297
+Adjusting speed: Increased Motor A to 879.7251
+Adjusting speed: Increased Motor A to 890.6182
+Adjusting speed: Increased Motor A to 894.9465
+Adjusting speed: Decreased Motor A to 864.6946
+Adjusting speed: Decreased Motor A to 850.0916
+Adjusting speed: Increased Motor A to 866.8625
+Adjusting speed: Increased Motor A to 883.7862
+Adjusting speed: Decreased Motor A to 871.0916
+Adjusting speed: Increased Motor A to 893.5877
+Adjusting speed: Decreased Motor A to 883.8702
+Adjusting speed: Increased Motor A to 911.6335
+Adjusting speed: Decreased Motor A to 886.8474
+Adjusting speed: Decreased Motor A to 851.4046
+Adjusting speed: Decreased Motor A to 845.5802
+Adjusting speed: Increased Motor A to 907.1603
+Adjusting speed: Decreased Motor A to 806.542
+Adjusting speed: Decreased Motor A to 325.9084
+Adjusting speed: Decreased Motor A to 0
+Adjusting speed: Decreased Motor A to 0
+Adjusting speed: Decreased Motor A to 0
+Adjusting speed: Decreased Motor A to 0
+Adjusting speed: Decreased Motor A to 0
+Adjusting speed: Decreased Motor A to 0
+Adjusting speed: Decreased Motor A to 0
+Adjusting speed: Decreased Motor A to 0
+Adjusting speed: Decreased Motor A to 0
+Adjusting speed: Decreased Motor A to 0
+Adjusting speed: Decreased Motor A to 191.0458
+Adjusting speed: Increased Motor A to 390.9695
+Adjusting speed: Decreased Motor A to 364.458
+Adjusting speed: Decreased Motor A to 311.0
+Adjusting speed: Decreased Motor A to 205.4809
+Adjusting speed: Decreased Motor A to 91.25957
+Adjusting speed: Increased Motor A to 238.8321
+Adjusting speed: Increased Motor A to 249.6488
+Adjusting speed: Decreased Motor A to 145.8855
+Adjusting speed: Increased Motor A to 232.6488
+Adjusting speed: Decreased Motor A to 157.7404
+Adjusting speed: Increased Motor A to 226.313
+Adjusting speed: Decreased Motor A to 188.5038
+Adjusting speed: Decreased Motor A to 136.4656
+Adjusting speed: Decreased Motor A to 183.1069
+Adjusting speed: Decreased Motor A to 139.1374
+Adjusting speed: Decreased Motor A to 103.1069
+Adjusting speed: Increased Motor A to 224.5573
+Adjusting speed: Decreased Motor A to 205.5267
+Adjusting speed: Decreased Motor A to 162.8321
+Adjusting speed: Increased Motor A to 244.1756
+Adjusting speed: Decreased Motor A to 224.229
+Adjusting speed: Increased Motor A to 278.3282
+Adjusting speed: Decreased Motor A to 253.4962
+Adjusting speed: Decreased Motor A to 210.9542
+Adjusting speed: Decreased Motor A to 191.6947
+Adjusting speed: Increased Motor A to 237.687
+Adjusting speed: Decreased Motor A to 220.9466
+Adjusting speed: Increased Motor A to 231.7634
+Adjusting speed: Decreased Motor A to 207.4656
+Adjusting speed: Increased Motor A to 230.0382
+Adjusting speed: Increased Motor A to 238.9466
+Adjusting speed: Decreased Motor A to 216.7099
+Adjusting speed: Increased Motor A to 227.6031
+Adjusting speed: Decreased Motor A to 199.4886
+Adjusting speed: Decreased Motor A to 168.374
+Adjusting speed: Decreased Motor A to 193.4886
+Adjusting speed: Decreased Motor A to 192.1145
+Adjusting speed: Decreased Motor A to 182.9542
+Adjusting speed: Increased Motor A to 206.3893
+Adjusting speed: Decreased Motor A to 184.916
+Adjusting speed: Increased Motor A to 225.855
+Adjusting speed: Increased Motor A to 240.5649
+Adjusting speed: Decreased Motor A to 232.2977
+Adjusting speed: Increased Motor A to 243.8779
+Adjusting speed: Increased Motor A to 293.2443
+Adjusting speed: Decreased Motor A to 0
+Adjusting speed: Decreased Motor A to 62.19084
+Adjusting speed: Decreased Motor A to 0
+Adjusting speed: Decreased Motor A to 116.6946
+Adjusting speed: Decreased Motor A to 115.1679
+Adjusting speed: Decreased Motor A to 96.84732
+Adjusting speed: Increased Motor A to 212.1145
+Adjusting speed: Decreased Motor A to 82.85495
+Adjusting speed: Increased Motor A to 441.6565
+Adjusting speed: Decreased Motor A to 268.1985
+Adjusting speed: Decreased Motor A to 0
+Adjusting speed: Decreased Motor A to 0
+Adjusting speed: Decreased Motor A to 0
+Adjusting speed: Decreased Motor A to 0
+Adjusting speed: Decreased Motor A to 0
+Adjusting speed: Decreased Motor A to 0
+Adjusting speed: Increased Motor A to 229.5191
+Adjusting speed: Decreased Motor A to 203.3893
+Adjusting speed: Decreased Motor A to 140.771
+Adjusting speed: Decreased Motor A to 0
+Adjusting speed: Increased Motor A to 500.2061
+Adjusting speed: Decreased Motor A to 475.2977
+Adjusting speed: Decreased Motor A to 453.5954
+Adjusting speed: Decreased Motor A to 249.9084
+Adjusting speed: Decreased Motor A to 182.6336
+Adjusting speed: Decreased Motor A to 0
+Adjusting speed: Decreased Motor A to 13.18321
+Adjusting speed: Increased Motor A to 211.5802
+Adjusting speed: Increased Motor A to 344.229
+Adjusting speed: Increased Motor A to 419.3969
+Adjusting speed: Increased Motor A to 509.5267
+Adjusting speed: Decreased Motor A to 397.9008
+Adjusting speed: Increased Motor A to 476.1985
+Adjusting speed: Decreased Motor A to 431.8244
+Adjusting speed: Decreased Motor A to 304.6259
+Adjusting speed: Increased Motor A to 427.4275
+Adjusting speed: Decreased Motor A to 330.7633
+Adjusting speed: Increased Motor A to 478.4504
+Adjusting speed: Decreased Motor A to 433.3893
+Adjusting speed: Increased Motor A to 480.771
+Adjusting speed: Increased Motor A to 565.1756
+Adjusting speed: Decreased Motor A to 554.6947
+Adjusting speed: Increased Motor A to 612.3054
+Adjusting speed: Decreased Motor A to 602.8168
+Adjusting speed: Increased Motor A to 610.8856
+Adjusting speed: Increased Motor A to 618.8016
+Adjusting speed: Decreased Motor A to 607.71
+Adjusting speed: Increased Motor A to 617.8397
+Adjusting speed: Decreased Motor A to 606.4427
+Adjusting speed: Increased Motor A to 617.1832
+Adjusting speed: Increased Motor A to 641.7405
+Adjusting speed: Decreased Motor A to 626.1451
+Adjusting speed: Increased Motor A to 633.9084
+Adjusting speed: Increased Motor A to 638.084
+Adjusting speed: Increased Motor A to 643.3283
+Adjusting speed: Decreased Motor A to 635.0612
+Adjusting speed: Decreased Motor A to 630.3818
+Adjusting speed: Decreased Motor A to 624.481
+Adjusting speed: Increased Motor A to 629.4963
+Adjusting speed: Decreased Motor A to 624.4352
+Adjusting speed: Increased Motor A to 630.3665
+Adjusting speed: Decreased Motor A to 618.9695
+Adjusting speed: Decreased Motor A to 613.1451
+Adjusting speed: Decreased Motor A to 607.855
+Adjusting speed: Decreased Motor A to 600.1985
+Adjusting speed: Decreased Motor A to 582.313
+Adjusting speed: Decreased Motor A to 569.4656
+Adjusting speed: Increased Motor A to 613.3359
+Adjusting speed: Increased Motor A to 690.0305
+Adjusting speed: Increased Motor A to 820.4656
+Adjusting speed: Increased Motor A to 1153.802
+Adjusting speed: Increased Motor A to 1549.595
+Adjusting speed: Increased Motor A to 1806.924
+Adjusting speed: Increased Motor A to 1692.954
+Adjusting speed: Increased Motor A to 1775.702
+Adjusting speed: Increased Motor A to 1720.206
+Adjusting speed: Increased Motor A to 1396.771
+Adjusting speed: Increased Motor A to 1667.153
+Adjusting speed: Increased Motor A to 1430.74
+Adjusting speed: Increased Motor A to 1578.603
+Adjusting speed: Increased Motor A to 1573.641
+Adjusting speed: Increased Motor A to 1919.366
+Adjusting speed: Increased Motor A to 1488.145
+Adjusting speed: Increased Motor A to 1571.427
+Adjusting speed: Decreased Motor A to 860.5878
+Adjusting speed: Decreased Motor A to 786.4427
+Adjusting speed: Increased Motor A to 933.2137
+Adjusting speed: Increased Motor A to 990.6641
+Adjusting speed: Increased Motor A to 921.8855
+Adjusting speed: Decreased Motor A to 876.542
+Adjusting speed: Increased Motor A to 1131.634
+Adjusting speed: Increased Motor A to 984.5573
+Adjusting speed: Decreased Motor A to 877.8397
+Adjusting speed: Decreased Motor A to 864.9924
+Adjusting speed: Decreased Motor A to 823.2901
+Adjusting speed: Decreased Motor A to 778.6871
+Adjusting speed: Decreased Motor A to 731.7939
+Adjusting speed: Increased Motor A to 749.939
+Adjusting speed: Increased Motor A to 776.6336
+Adjusting speed: Decreased Motor A to 214.0916
+Adjusting speed: Decreased Motor A to 109.5649
+Adjusting speed: Increased Motor A to 255.7786
+Adjusting speed: Increased Motor A to 327.2061
+Adjusting speed: Decreased Motor A to 259.3206
+Adjusting speed: Increased Motor A to 282.0458
+Adjusting speed: Increased Motor A to 358.6641
+Adjusting speed: Increased Motor A to 389.7863
+Adjusting speed: Increased Motor A to 411.1374
+Adjusting speed: Increased Motor A to 422.4122
+Adjusting speed: Increased Motor A to 448.9542
+Adjusting speed: Decreased Motor A to 434.6565
+Adjusting speed: Decreased Motor A to 426.542
+Adjusting speed: Decreased Motor A to 366.1374
+Adjusting speed: Increased Motor A to 376.9542
+Adjusting speed: Decreased Motor A to 372.1222
+Adjusting speed: Increased Motor A to 389.0458
+Adjusting speed: Decreased Motor A to 362.0
+Adjusting speed: Decreased Motor A to 337.3206
+Adjusting speed: Decreased Motor A to 279.2825
+Adjusting speed: Decreased Motor A to 255.2901
+Adjusting speed: Increased Motor A to 434.5038
+Adjusting speed: Decreased Motor A to 393.7176
+Adjusting speed: Decreased Motor A to 206.4428
+Adjusting speed: Decreased Motor A to 194.2825
+Adjusting speed: Increased Motor A to 273.1832
+Adjusting speed: Increased Motor A to 301.4809
+Adjusting speed: Increased Motor A to 352.9084
+Adjusting speed: Decreased Motor A to 329.2214
+Adjusting speed: Increased Motor A to 352.6336
+Adjusting speed: Decreased Motor A to 334.5191
+Adjusting speed: Decreased Motor A to 327.7786
+Adjusting speed: Decreased Motor A to 312.6412
+Adjusting speed: Decreased Motor A to 303.687
+Adjusting speed: Increased Motor A to 314.0458
+Adjusting speed: Increased Motor A to 324.1756
+Adjusting speed: Decreased Motor A to 319.4962
+Adjusting speed: Increased Motor A to 327.8703
+Adjusting speed: Decreased Motor A to 322.1222
+Adjusting speed: Decreased Motor A to 313.855
+Adjusting speed: Decreased Motor A to 297.4199
+Adjusting speed: Increased Motor A to 306.481
+Adjusting speed: Increased Motor A to 313.71
+Adjusting speed: Increased Motor A to 321.4733
+Adjusting speed: Increased Motor A to 328.9313
+Adjusting speed: Decreased Motor A to 324.4046
+Adjusting speed: Increased Motor A to 333.4657
+Adjusting speed: Increased Motor A to 352.9084
+Adjusting speed: Increased Motor A to 361.6642
+Adjusting speed: Decreased Motor A to 356.8321
+Adjusting speed: Decreased Motor A to 344.4428
+Adjusting speed: Decreased Motor A to 324.1146
+Adjusting speed: Increased Motor A to 328.4428
+Adjusting speed: Increased Motor A to 337.2749
+Adjusting speed: Increased Motor A to 354.5039
+Adjusting speed: Increased Motor A to 366.313
+Adjusting speed: Increased Motor A to 370.565
+Adjusting speed: Decreased Motor A to 345.4276
+Adjusting speed: Decreased Motor A to 332.4276
+Adjusting speed: Decreased Motor A to 324.2368
+Adjusting speed: Decreased Motor A to 315.5879
+Adjusting speed: Decreased Motor A to 311.3665
+Adjusting speed: Increased Motor A to 323.939
+Adjusting speed: Decreased Motor A to 318.649
+Adjusting speed: Decreased Motor A to 313.5116
+Adjusting speed: Increased Motor A to 319.7482
+Adjusting speed: Increased Motor A to 326.5955
+Adjusting speed: Decreased Motor A to 165.7329
+Adjusting speed: Decreased Motor A to 102.4198
+Adjusting speed: Decreased Motor A to 179.0611
+Adjusting speed: Decreased Motor A to 144.2519
+Adjusting speed: Decreased Motor A to 129.1374
+Adjusting speed: Decreased Motor A to 113.7939
+Adjusting speed: Decreased Motor A to 102.2672
+Adjusting speed: Increased Motor A to 211.1221
+Adjusting speed: Decreased Motor A to 154.0763
+Adjusting speed: Decreased Motor A to 34.55727
+Adjusting speed: Decreased Motor A to 114.7099
+Adjusting speed: Increased Motor A to 213.9466
+Adjusting speed: Increased Motor A to 225.9847
+Adjusting speed: Increased Motor A to 236.8015
+Adjusting speed: Increased Motor A to 304.2595
+Adjusting speed: Increased Motor A to 511.8702
+Adjusting speed: Increased Motor A to 737.1145
+Adjusting speed: Increased Motor A to 933.6565
+Adjusting speed: Increased Motor A to 1044.252
+Adjusting speed: Increased Motor A to 970.7405
+Adjusting speed: Increased Motor A to 1023.565
+Adjusting speed: Increased Motor A to 1148.832
+Adjusting speed: Increased Motor A to 1052.191
+Adjusting speed: Increased Motor A to 968.9084
+Adjusting speed: Decreased Motor A to 883.1069
+Adjusting speed: Decreased Motor A to 871.4809
+Adjusting speed: Increased Motor A to 929.5496
+Adjusting speed: Increased Motor A to 1077.458
+Adjusting speed: Increased Motor A to 1226.16
+Adjusting speed: Increased Motor A to 1166.16
+Adjusting speed: Increased Motor A to 1228.145
+Adjusting speed: Increased Motor A to 1312.496
+Adjusting speed: Increased Motor A to 1460.969
+Adjusting speed: Increased Motor A to 1423.565
+Adjusting speed: Increased Motor A to 1204.939
+Adjusting speed: Increased Motor A to 1225.244
+Adjusting speed: Increased Motor A to 1195.397
+Adjusting speed: Increased Motor A to 1241.351
+Adjusting speed: Increased Motor A to 1006.542
+Adjusting speed: Increased Motor A to 1073.107
+Adjusting speed: Decreased Motor A to 814.0992
+Adjusting speed: Increased Motor A to 941.0992
+Adjusting speed: Increased Motor A to 947.5344
+Adjusting speed: Increased Motor A to 950.6641
+Adjusting speed: Increased Motor A to 943.5649
+Adjusting speed: Increased Motor A to 907.229
+Adjusting speed: Decreased Motor A to 891.3511
+Adjusting speed: Decreased Motor A to 844.916
+Adjusting speed: Increased Motor A to 926.4962
+Adjusting speed: Decreased Motor A to 817.3817
+Adjusting speed: Increased Motor A to 905.6794
+Adjusting speed: Decreased Motor A to 863.7175
+Adjusting speed: Decreased Motor A to 834.8397
+Adjusting speed: Decreased Motor A to 826.1144
+Adjusting speed: Increased Motor A to 850.8243
+Adjusting speed: Decreased Motor A to 797.519
+Adjusting speed: Increased Motor A to 816.5801
+Adjusting speed: Decreased Motor A to 806.5572
+Adjusting speed: Increased Motor A to 823.0992
+Adjusting speed: Increased Motor A to 834.374
+Adjusting speed: Decreased Motor A to 828.4732
+Adjusting speed: Decreased Motor A to 818.7557
+Adjusting speed: Decreased Motor A to 804.9923
+Adjusting speed: Decreased Motor A to 714.8168
+Adjusting speed: Decreased Motor A to 666.0153
+Adjusting speed: Decreased Motor A to 647.29
+Adjusting speed: Decreased Motor A to 585.7404
+Adjusting speed: Decreased Motor A to 367.4732
+Adjusting speed: Decreased Motor A to 0
+Adjusting speed: Decreased Motor A to 0
+Adjusting speed: Decreased Motor A to 0
+Adjusting speed: Decreased Motor A to 0
+Adjusting speed: Decreased Motor A to 0
+Adjusting speed: Decreased Motor A to 0
+Adjusting speed: Decreased Motor A to 0
+Adjusting speed: Decreased Motor A to 0
+Adjusting speed: Decreased Motor A to 0
+Adjusting speed: Decreased Motor A to 0
+Adjusting speed: Decreased Motor A to 0
+Adjusting speed: Decreased Motor A to 0
+Adjusting speed: Decreased Motor A to 171.5038
+Adjusting speed: Decreased Motor A to 167.8397
+Adjusting speed: Decreased Motor A to 98.22137
+Adjusting speed: Decreased Motor A to 166.313
+Adjusting speed: Decreased Motor A to 117.8397
+Adjusting speed: Increased Motor A to 290.9695
+Adjusting speed: Increased Motor A to 367.2061
+Adjusting speed: Increased Motor A to 518.6336
+Adjusting speed: Decreased Motor A to 324.1832
+Adjusting speed: Increased Motor A to 430.3435
+Adjusting speed: Decreased Motor A to 54.67181
+Adjusting speed: Increased Motor A to 346.9236
+Adjusting speed: Decreased Motor A to 323.542
+Adjusting speed: Increased Motor A to 338.0229
+Adjusting speed: Increased Motor A to 594.7175
+Adjusting speed: Decreased Motor A to 551.7939
+Adjusting speed: Increased Motor A to 655.9695
+Adjusting speed: Decreased Motor A to 635.8702
+Adjusting speed: Decreased Motor A to 615.771
+Adjusting speed: Decreased Motor A to 580.0229
+Adjusting speed: Decreased Motor A to 489.2366
+Adjusting speed: Increased Motor A to 564.4809
+Adjusting speed: Decreased Motor A to 527.9694
+Adjusting speed: Decreased Motor A to 483.2137
+Adjusting speed: Increased Motor A to 488.1526
+Adjusting speed: Decreased Motor A to 447.748
+Adjusting speed: Increased Motor A to 488.4122
+Adjusting speed: Decreased Motor A to 450.4503
+Adjusting speed: Increased Motor A to 476.3817
+
+
+
+
+
+Car Script Started - 2024-02-21 20:40:12
+-----------------------------------------
+Session started, logging enabled. 
+
+
+Motor Initialized: 
+Forward Pin=Pin(11), 
+Backwards Pin=Pin(10), 
+Speed PWM=PWM(Pin(17), freq=10000, duty=0, resolution=12, (duty=0.00%, resolution=0.024%), mode=0, channel=0, timer=0), 
+Default Speed=700
+
+
+Motor Initialized: 
+Forward Pin=Pin(13), 
+Backwards Pin=Pin(12), 
+Speed PWM=PWM(Pin(16), freq=10000, duty=0, resolution=12, (duty=0.00%, resolution=0.024%), mode=0, channel=1, timer=0), 
+Default Speed=672
+
+stby value set to 1 (high)
+Created the ultrasonic sensor instance
+Created the mpu instance
+
+Car Status:
+
+Motor A Status: 
+Forward=0, 
+Backwards=0, 
+Speed=0, 
+Default speed=700
+
+
+Motor B Status: 
+Forward=0, 
+Backwards=0, 
+Speed=0, 
+Default speed=672
+
+MPU6050 Accelerometer: X=0.04052734, Y=0.1286621, Z=0.9333496
+MPU6050 Gyroscope: X=-0.1832061, Y=-3.824427, Z=-3.145038
+Driving forward. Base Speed: A=700, B=672
+Adjusting speed: Increased Motor A to 708.5267
+Adjusting speed: Increased Motor A to 712.5496
+Adjusting speed: Increased Motor A to 765.2748
+Adjusting speed: Increased Motor A to 771.3588
+Adjusting speed: Decreased Motor A to 762.4809
+Adjusting speed: Increased Motor A to 773.0687
+Adjusting speed: Decreased Motor A to 762.3588
+Adjusting speed: Increased Motor A to 790.8855
+Adjusting speed: Increased Motor A to 809.9466
+Adjusting speed: Decreased Motor A to 778.0153
+Adjusting speed: Increased Motor A to 793.7176
+Adjusting speed: Decreased Motor A to 781.7863
+Adjusting speed: Decreased Motor A to 750.6947
+Adjusting speed: Decreased Motor A to 743.3436
+Adjusting speed: Increased Motor A to 752.0229
+Adjusting speed: Decreased Motor A to 733.3741
+Adjusting speed: Increased Motor A to 749.5344
+Adjusting speed: Increased Motor A to 774.0916
+Adjusting speed: Decreased Motor A to 758.6489
+Adjusting speed: Increased Motor A to 810.0
+Adjusting speed: Decreased Motor A to 783.3359
+Adjusting speed: Decreased Motor A to 778.4275
+Adjusting speed: Increased Motor A to 792.7557
+Adjusting speed: Increased Motor A to 802.5038
+Adjusting speed: Increased Motor A to 820.4199
+Adjusting speed: Increased Motor A to 865.5115
+Adjusting speed: Decreased Motor A to 847.626
+Adjusting speed: Decreased Motor A to 820.4275
+Adjusting speed: Increased Motor A to 837.8855
+Adjusting speed: Increased Motor A to 869.8474
+Adjusting speed: Increased Motor A to 888.5267
+Adjusting speed: Decreased Motor A to 799.5725
+Adjusting speed: Decreased Motor A to 749.0153
+Adjusting speed: Decreased Motor A to 583.8779
+Adjusting speed: Decreased Motor A to 527.9771
+Adjusting speed: Increased Motor A to 568.3359
+Adjusting speed: Decreased Motor A to 520.832
+Adjusting speed: Decreased Motor A to 385.6946
+Adjusting speed: Increased Motor A to 409.9466
+Adjusting speed: Decreased Motor A to 370.229
+Adjusting speed: Decreased Motor A to 304.5573
+Adjusting speed: Decreased Motor A to 272.0153
+Adjusting speed: Decreased Motor A to 194.6641
+Adjusting speed: Increased Motor A to 217.3053
+Adjusting speed: Increased Motor A to 249.8779
+Adjusting speed: Increased Motor A to 281.0
+Adjusting speed: Increased Motor A to 287.313
+Adjusting speed: Increased Motor A to 301.3359
+Adjusting speed: Increased Motor A to 320.1679
+Adjusting speed: Increased Motor A to 343.8092
+Adjusting speed: Decreased Motor A to 336.687
+Adjusting speed: Decreased Motor A to 320.939
+Adjusting speed: Increased Motor A to 344.4275
+Adjusting speed: Decreased Motor A to 330.1298
+Adjusting speed: Decreased Motor A to 314.0001
+Adjusting speed: Increased Motor A to 322.2978
+Adjusting speed: Decreased Motor A to 311.7405
+Adjusting speed: Decreased Motor A to 304.6947
+Adjusting speed: Decreased Motor A to 287.6489
+Adjusting speed: Decreased Motor A to 270.8321
+Adjusting speed: Increased Motor A to 282.7939
+Adjusting speed: Decreased Motor A to 276.2825
+Adjusting speed: Increased Motor A to 290.687
+Adjusting speed: Decreased Motor A to 273.9466
+Adjusting speed: Increased Motor A to 306.5191
+Adjusting speed: Decreased Motor A to 282.6031
+Adjusting speed: Decreased Motor A to 264.7176
+Adjusting speed: Increased Motor A to 270.9542
+Adjusting speed: Increased Motor A to 284.8244
+Adjusting speed: Decreased Motor A to 259.1527
+Adjusting speed: Increased Motor A to 280.5802
+Adjusting speed: Decreased Motor A to 274.2977
+Adjusting speed: Decreased Motor A to 260.458
+Adjusting speed: Increased Motor A to 268.7557
+Adjusting speed: Increased Motor A to 277.0534
+Adjusting speed: Decreased Motor A to 270.4656
+Adjusting speed: Increased Motor A to 276.0153
+Adjusting speed: Increased Motor A to 300.0381
+Adjusting speed: Increased Motor A to 345.9695
+Adjusting speed: Increased Motor A to 352.5878
+Adjusting speed: Decreased Motor A to 331.8778
+Adjusting speed: Increased Motor A to 363.229
+Adjusting speed: Decreased Motor A to 340.9923
+Adjusting speed: Decreased Motor A to 322.8015
+Adjusting speed: Increased Motor A to 346.8244
+Adjusting speed: Increased Motor A to 351.458
+Adjusting speed: Increased Motor A to 375.5572
+Adjusting speed: Decreased Motor A to 359.7328
+Adjusting speed: Decreased Motor A to 348.1068
+Adjusting speed: Increased Motor A to 368.1603
+Adjusting speed: Decreased Motor A to 357.4503
+Adjusting speed: Decreased Motor A to 347.3511
+Adjusting speed: Increased Motor A to 353.6641
+Adjusting speed: Increased Motor A to 386.6183
+Adjusting speed: Increased Motor A to 396.061
+Adjusting speed: Decreased Motor A to 352.2977
+Adjusting speed: Increased Motor A to 377.6946
+Adjusting speed: Decreased Motor A to 312.0229
+Adjusting speed: Increased Motor A to 326.6564
+Adjusting speed: Decreased Motor A to 120.5267
+Adjusting speed: Decreased Motor A to 0
+Adjusting speed: Decreased Motor A to 0
+Adjusting speed: Decreased Motor A to 0
+Adjusting speed: Decreased Motor A to 0
+Adjusting speed: Decreased Motor A to 0
+Adjusting speed: Decreased Motor A to 26.771
+Adjusting speed: Decreased Motor A to 156.771
+Adjusting speed: Decreased Motor A to 0
+Adjusting speed: Decreased Motor A to 0
+Adjusting speed: Decreased Motor A to 0
+Adjusting speed: Decreased Motor A to 0
+Adjusting speed: Decreased Motor A to 0
+Adjusting speed: Decreased Motor A to 58.52672
+Adjusting speed: Decreased Motor A to 56.61832
+Adjusting speed: Decreased Motor A to 161.8855
+Adjusting speed: Increased Motor A to 302.8779
+Adjusting speed: Decreased Motor A to 284.3054
+Adjusting speed: Increased Motor A to 303.0611
+Adjusting speed: Increased Motor A to 336.0153
+Adjusting speed: Increased Motor A to 348.5878
+Adjusting speed: Decreased Motor A to 319.4046
+Adjusting speed: Increased Motor A to 352.5115
+Adjusting speed: Increased Motor A to 369.6642
+Adjusting speed: Increased Motor A to 401.855
+Adjusting speed: Decreased Motor A to 353.5115
+Adjusting speed: Decreased Motor A to 342.0382
+Adjusting speed: Decreased Motor A to 315.7558
+Adjusting speed: Decreased Motor A to 288.3283
+Adjusting speed: Increased Motor A to 308.6107
+Adjusting speed: Increased Motor A to 314.542
+Adjusting speed: Increased Motor A to 333.1451
+Adjusting speed: Decreased Motor A to 328.0077
+Adjusting speed: Decreased Motor A to 323.8626
+Adjusting speed: Decreased Motor A to 306.7405
+Adjusting speed: Decreased Motor A to 281.6031
+Adjusting speed: Decreased Motor A to 236.8474
+Adjusting speed: Increased Motor A to 242.5497
+Adjusting speed: Increased Motor A to 249.4733
+Adjusting speed: Decreased Motor A to 180.9008
+Adjusting speed: Decreased Motor A to 170.9695
+Adjusting speed: Decreased Motor A to 174.4046
+Adjusting speed: Decreased Motor A to 182.3435
+Adjusting speed: Decreased Motor A to 176.9237
+Adjusting speed: Decreased Motor A to 159.1374
+Adjusting speed: Increased Motor A to 228.6031
+Adjusting speed: Increased Motor A to 252.1679
+Adjusting speed: Decreased Motor A to 241.229
+Adjusting speed: Decreased Motor A to 220.2137
+Adjusting speed: Decreased Motor A to 207.9008
+Adjusting speed: Increased Motor A to 227.5725
+Adjusting speed: Increased Motor A to 242.5878
+Adjusting speed: Decreased Motor A to 237.9084
+Adjusting speed: Increased Motor A to 263.8397
+Adjusting speed: Increased Motor A to 268.2443
+Adjusting speed: Increased Motor A to 275.7023
+Adjusting speed: Increased Motor A to 308.5038
+Adjusting speed: Increased Motor A to 365.6565
+Adjusting speed: Increased Motor A to 419.9848
+Adjusting speed: Increased Motor A to 518.6642
+Adjusting speed: Decreased Motor A to 509.252
+Adjusting speed: Decreased Motor A to 435.0306
+Adjusting speed: Increased Motor A to 492.6413
+Adjusting speed: Decreased Motor A to 426.3589
+Adjusting speed: Decreased Motor A to 370.1528
+Adjusting speed: Decreased Motor A to 355.5497
+Adjusting speed: Decreased Motor A to 310.2596
+Adjusting speed: Increased Motor A to 337.2596
+Adjusting speed: Decreased Motor A to 294.4886
+Adjusting speed: Increased Motor A to 324.9238
+Adjusting speed: Increased Motor A to 411.7711
+Adjusting speed: Increased Motor A to 617.2444
+Adjusting speed: Increased Motor A to 987.7559
+Adjusting speed: Increased Motor A to 1460.206
+Adjusting speed: Increased Motor A to 1255.626
+Adjusting speed: Increased Motor A to 1449.443
+Adjusting speed: Increased Motor A to 1382.802
+Adjusting speed: Increased Motor A to 1354.786
+Adjusting speed: Increased Motor A to 1085.015
+Adjusting speed: Increased Motor A to 1008.145
+Adjusting speed: Increased Motor A to 1259.519
+Adjusting speed: Increased Motor A to 1052.267
+Adjusting speed: Decreased Motor A to 762.0381
+Adjusting speed: Increased Motor A to 962.3206
+Adjusting speed: Decreased Motor A to 863.0305
+Adjusting speed: Increased Motor A to 894.458
+Adjusting speed: Decreased Motor A to 268.2519
+Adjusting speed: Decreased Motor A to 0
+Adjusting speed: Increased Motor A to 397.9924
+Adjusting speed: Increased Motor A to 455.8321
+Adjusting speed: Decreased Motor A to 310.6183
+Adjusting speed: Increased Motor A to 324.8702
+Adjusting speed: Decreased Motor A to 320.0382
+Adjusting speed: Decreased Motor A to 305.0534
+Adjusting speed: Decreased Motor A to 270.7557
+Adjusting speed: Increased Motor A to 324.2443
+Adjusting speed: Increased Motor A to 354.1451
+Adjusting speed: Decreased Motor A to 269.9237
+Adjusting speed: Decreased Motor A to 0
+Adjusting speed: Decreased Motor A to 118.2214
+Adjusting speed: Decreased Motor A to 91.42747
+Adjusting speed: Increased Motor A to 222.7252
+Adjusting speed: Decreased Motor A to 65.0687
+Adjusting speed: Decreased Motor A to 183.3359
+Adjusting speed: Decreased Motor A to 155.3206
+Adjusting speed: Decreased Motor A to 0
+Adjusting speed: Increased Motor A to 218.9084
+Adjusting speed: Decreased Motor A to 144.7634
+Adjusting speed: Decreased Motor A to 86.69465
+Adjusting speed: Decreased Motor A to 174.6336
+Adjusting speed: Increased Motor A to 273.0305
+Adjusting speed: Decreased Motor A to 227.5878
+Adjusting speed: Decreased Motor A to 195.5038
+Adjusting speed: Decreased Motor A to 137.5343
+Adjusting speed: Decreased Motor A to 138.6794
+Adjusting speed: Increased Motor A to 211.6565
+Adjusting speed: Increased Motor A to 245.7557
+Adjusting speed: Increased Motor A to 250.313
+Adjusting speed: Increased Motor A to 286.7023
+Adjusting speed: Increased Motor A to 404.9237
+Adjusting speed: Increased Motor A to 553.2977
+Adjusting speed: Increased Motor A to 565.9466
+Adjusting speed: Decreased Motor A to 534.0916
+Adjusting speed: Increased Motor A to 624.2977
+Adjusting speed: Decreased Motor A to 477.3282
+Adjusting speed: Decreased Motor A to 279.2901
+Adjusting speed: Increased Motor A to 283.542
+Adjusting speed: Decreased Motor A to 170.1603
+Adjusting speed: Decreased Motor A to 69.36641
+Adjusting speed: Decreased Motor A to 192.4198
+Adjusting speed: Decreased Motor A to 115.0916
+Adjusting speed: Decreased Motor A to 178.7557
+Adjusting speed: Increased Motor A to 215.626
+Adjusting speed: Increased Motor A to 229.5725
+Adjusting speed: Increased Motor A to 234.5115
+Adjusting speed: Increased Motor A to 247.0076
+Adjusting speed: Decreased Motor A to 220.4962
+
+
+
+
+
+Car Script Started - 2024-02-21 20:41:05
+-----------------------------------------
+Session started, logging enabled. 
+
+
+Motor Initialized: 
+Forward Pin=Pin(11), 
+Backwards Pin=Pin(10), 
+Speed PWM=PWM(Pin(17), freq=10000, duty=0, resolution=12, (duty=0.00%, resolution=0.024%), mode=0, channel=0, timer=0), 
+Default Speed=700
+
+
+Motor Initialized: 
+Forward Pin=Pin(13), 
+Backwards Pin=Pin(12), 
+Speed PWM=PWM(Pin(16), freq=10000, duty=0, resolution=12, (duty=0.00%, resolution=0.024%), mode=0, channel=1, timer=0), 
+Default Speed=672
+
+stby value set to 1 (high)
+Created the ultrasonic sensor instance
+Created the mpu instance
+
+Car Status:
+
+Motor A Status: 
+Forward=0, 
+Backwards=0, 
+Speed=0, 
+Default speed=700
+
+
+Motor B Status: 
+Forward=0, 
+Backwards=0, 
+Speed=0, 
+Default speed=672
+
+MPU6050 Accelerometer: X=0.1179199, Y=-0.003173828, Z=0.9338379
+MPU6050 Gyroscope: X=-0.7938931, Y=-0.9847328, Z=-1.732824
+Driving forward. Base Speed: A=700, B=672
+Adjusting speed: Increased Motor A to 713.6412
+Adjusting speed: Decreased Motor A to 699.4199
+Adjusting speed: Increased Motor A to 723.8245
+Adjusting speed: Increased Motor A to 735.5573
+Adjusting speed: Decreased Motor A to 711.3359
+Adjusting speed: Increased Motor A to 716.0458
+Adjusting speed: Increased Motor A to 732.8932
+Adjusting speed: Decreased Motor A to 700.1222
+Adjusting speed: Decreased Motor A to 686.2825
+Adjusting speed: Decreased Motor A to 662.0611
+Adjusting speed: Increased Motor A to 669.2901
+Adjusting speed: Increased Motor A to 673.771
+Adjusting speed: Increased Motor A to 689.3206
+Adjusting speed: Increased Motor A to 716.9313
+Adjusting speed: Increased Motor A to 733.7786
+Adjusting speed: Increased Motor A to 757.4199
+Adjusting speed: Increased Motor A to 788.9237
+Adjusting speed: Increased Motor A to 833.7863
+Adjusting speed: Increased Motor A to 865.9772
+Adjusting speed: Decreased Motor A to 748.9314
+Adjusting speed: Increased Motor A to 789.4429
+Adjusting speed: Decreased Motor A to 774.0001
+Adjusting speed: Decreased Motor A to 766.878
+Adjusting speed: Decreased Motor A to 751.2826
+Adjusting speed: Increased Motor A to 763.4734
+Adjusting speed: Decreased Motor A to 729.7101
+Adjusting speed: Increased Motor A to 758.0841
+Adjusting speed: Decreased Motor A to 714.7024
+Adjusting speed: Decreased Motor A to 702.8474
+Adjusting speed: Decreased Motor A to 666.4123
+Adjusting speed: Decreased Motor A to 655.626
+Adjusting speed: Increased Motor A to 662.2444
+Adjusting speed: Decreased Motor A to 651.0764
+Adjusting speed: Decreased Motor A to 645.252
+Adjusting speed: Decreased Motor A to 637.9772
+Adjusting speed: Increased Motor A to 642.8398
+Adjusting speed: Increased Motor A to 676.7864
+Adjusting speed: Increased Motor A to 713.3284
+Adjusting speed: Decreased Motor A to 701.6262
+Adjusting speed: Decreased Motor A to 692.6719
+Adjusting speed: Increased Motor A to 728.6032
+Adjusting speed: Decreased Motor A to 721.7101
+Adjusting speed: Increased Motor A to 742.9849
+Adjusting speed: Decreased Motor A to 734.794
+Adjusting speed: Decreased Motor A to 709.8856
+Adjusting speed: Increased Motor A to 743.3741
+Adjusting speed: Increased Motor A to 853.0459
+Adjusting speed: Increased Motor A to 989.6642
+Adjusting speed: Decreased Motor A to 873.4885
+Adjusting speed: Increased Motor A to 926.29
+Adjusting speed: Decreased Motor A to 893.7175
+Adjusting speed: Increased Motor A to 906.3664
+Adjusting speed: Increased Motor A to 912.7252
+Adjusting speed: Increased Motor A to 947.3817
+Adjusting speed: Decreased Motor A to 860.6641
+Adjusting speed: Decreased Motor A to 813.084
+Adjusting speed: Decreased Motor A to 751.3817
+Adjusting speed: Decreased Motor A to 689.9084
+Adjusting speed: Decreased Motor A to 569.7329
+Adjusting speed: Increased Motor A to 635.8169
+Adjusting speed: Decreased Motor A to 615.565
+Adjusting speed: Decreased Motor A to 577.2215
+Adjusting speed: Decreased Motor A to 529.2596
+Adjusting speed: Decreased Motor A to 252.5192
+Adjusting speed: Decreased Motor A to 100.0535
+Adjusting speed: Increased Motor A to 264.9389
+Adjusting speed: Increased Motor A to 279.1909
+Adjusting speed: Decreased Motor A to 194.8931
+Adjusting speed: Increased Motor A to 322.8779
+Adjusting speed: Increased Motor A to 530.7939
+Adjusting speed: Increased Motor A to 689.1679
+Adjusting speed: Increased Motor A to 779.9084
+Adjusting speed: Increased Motor A to 800.8015
+Adjusting speed: Increased Motor A to 865.5878
+Adjusting speed: Decreased Motor A to 853.5801
+Adjusting speed: Decreased Motor A to 812.3359
+Adjusting speed: Increased Motor A to 877.1985
+Adjusting speed: Decreased Motor A to 799.542
+Adjusting speed: Increased Motor A to 849.5955
+Adjusting speed: Increased Motor A to 890.1832
+Adjusting speed: Increased Motor A to 898.5573
+Adjusting speed: Decreased Motor A to 871.9695
+Adjusting speed: Increased Motor A to 880.6489
+Adjusting speed: Increased Motor A to 934.0611
+Adjusting speed: Increased Motor A to 1036.237
+Adjusting speed: Increased Motor A to 917.3054
+Adjusting speed: Increased Motor A to 917.687
+Adjusting speed: Decreased Motor A to 866.1603
+Adjusting speed: Decreased Motor A to 858.9618
+Adjusting speed: Decreased Motor A to 799.8549
+Adjusting speed: Decreased Motor A to 788.6107
+Adjusting speed: Decreased Motor A to 650.1908
+Adjusting speed: Decreased Motor A to 516.7328
+Adjusting speed: Decreased Motor A to 415.2595
+Adjusting speed: Decreased Motor A to 348.9008
+Adjusting speed: Increased Motor A to 381.8549
+Adjusting speed: Decreased Motor A to 367.0992
+Adjusting speed: Decreased Motor A to 361.2748
+Adjusting speed: Increased Motor A to 373.6183
+Adjusting speed: Increased Motor A to 419.3206
+Adjusting speed: Increased Motor A to 494.4885
+Adjusting speed: Increased Motor A to 536.2214
+Adjusting speed: Increased Motor A to 568.5649
+Adjusting speed: Decreased Motor A to 553.3511
+Adjusting speed: Decreased Motor A to 536.1526
+Adjusting speed: Increased Motor A to 548.3435
+Adjusting speed: Increased Motor A to 563.7405
+Adjusting speed: Decreased Motor A to 554.8626
+Adjusting speed: Increased Motor A to 585.5267
+Adjusting speed: Increased Motor A to 641.0
+Adjusting speed: Decreased Motor A to 630.2901
+Adjusting speed: Decreased Motor A to 613.3206
+Adjusting speed: Increased Motor A to 622.8397
+Adjusting speed: Increased Motor A to 641.9771
+Adjusting speed: Decreased Motor A to 626.687
+Adjusting speed: Decreased Motor A to 619.7175
+Adjusting speed: Decreased Motor A to 607.5573
+Adjusting speed: Decreased Motor A to 568.832
+Adjusting speed: Decreased Motor A to 535.2214
+Adjusting speed: Increased Motor A to 552.9084
+Adjusting speed: Decreased Motor A to 528.6107
+Adjusting speed: Decreased Motor A to 520.3435
+Adjusting speed: Increased Motor A to 547.5725
+Adjusting speed: Decreased Motor A to 521.6718
+Adjusting speed: Decreased Motor A to 509.5114
+Adjusting speed: Decreased Motor A to 503.229
+
+
+
+
+
+Car Script Started - 2000-01-01 00:00:00
+-----------------------------------------
+Session started, logging enabled. 
+
+
+Motor Initialized: 
+Forward Pin=Pin(11), 
+Backwards Pin=Pin(10), 
+Speed PWM=PWM(Pin(17), freq=10000, duty=0, resolution=12, (duty=0.00%, resolution=0.024%), mode=0, channel=0, timer=0), 
+Default Speed=700
+
+
+Motor Initialized: 
+Forward Pin=Pin(13), 
+Backwards Pin=Pin(12), 
+Speed PWM=PWM(Pin(16), freq=10000, duty=0, resolution=12, (duty=0.00%, resolution=0.024%), mode=0, channel=1, timer=0), 
+Default Speed=672
+
+stby value set to 1 (high)
+Created the ultrasonic sensor instance
+Created the mpu instance
+
+Car Status:
+
+Motor A Status: 
+Forward=0, 
+Backwards=0, 
+Speed=0, 
+Default speed=700
+
+
+Motor B Status: 
+Forward=0, 
+Backwards=0, 
+Speed=0, 
+Default speed=672
+
+MPU6050 Accelerometer: X=0.02416992, Y=-0.03662109, Z=0.9277344
+MPU6050 Gyroscope: X=-1.343511, Y=-0.4732824, Z=-1.641221
+Driving forward. Base Speed: A=700, B=672
+Adjusting speed: Increased Motor A to 907.7634
+Adjusting speed: Decreased Motor A to 729.5955
+Adjusting speed: Decreased Motor A to 590.4886
+Adjusting speed: Increased Motor A to 677.0306
+Adjusting speed: Increased Motor A to 754.4122
+Adjusting speed: Decreased Motor A to 577.5955
+Adjusting speed: Increased Motor A to 687.6489
+Adjusting speed: Increased Motor A to 750.8322
+Adjusting speed: Decreased Motor A to 593.252
+Adjusting speed: Increased Motor A to 704.1451
+Adjusting speed: Decreased Motor A to 605.0383
+Adjusting speed: Increased Motor A to 672.4199
+Adjusting speed: Increased Motor A to 740.9467
+Adjusting speed: Decreased Motor A to 583.5955
+Adjusting speed: Increased Motor A to 800.3665
+Adjusting speed: Decreased Motor A to 550.4199
+Adjusting speed: Increased Motor A to 647.4199
+Adjusting speed: Increased Motor A to 790.9084
+Adjusting speed: Decreased Motor A to 559.9695
+Adjusting speed: Increased Motor A to 646.9695
+Adjusting speed: Increased Motor A to 683.0535
+Adjusting speed: Increased Motor A to 707.9924
+Adjusting speed: Decreased Motor A to 642.2443
+Adjusting speed: Increased Motor A to 681.458
+Adjusting speed: Increased Motor A to 733.9542
+Adjusting speed: Decreased Motor A to 620.4199
+Adjusting speed: Increased Motor A to 662.0
+Adjusting speed: Increased Motor A to 723.2748
+Adjusting speed: Decreased Motor A to 611.7252
+Adjusting speed: Increased Motor A to 619.2595
+Adjusting speed: Increased Motor A to 723.7404
+Adjusting speed: Decreased Motor A to 693.4885
+Adjusting speed: Decreased Motor A to 653.8473
+Adjusting speed: Decreased Motor A to 588.7099
+Adjusting speed: Increased Motor A to 761.1298
+Adjusting speed: Decreased Motor A to 690.8779
+Adjusting speed: Decreased Motor A to 595.8931
+Adjusting speed: Increased Motor A to 626.7099
+Adjusting speed: Increased Motor A to 763.0229
+Adjusting speed: Decreased Motor A to 699.6412
+Adjusting speed: Decreased Motor A to 507.4809
+Adjusting speed: Increased Motor A to 839.9771
+Adjusting speed: Decreased Motor A to 688.0458
+Adjusting speed: Decreased Motor A to 602.1451
+Adjusting speed: Increased Motor A to 644.1832
+Adjusting speed: Increased Motor A to 780.8779
+Adjusting speed: Decreased Motor A to 535.7405
+Adjusting speed: Increased Motor A to 661.5955
+Adjusting speed: Increased Motor A to 771.1909
+Adjusting speed: Decreased Motor A to 563.687
+Adjusting speed: Increased Motor A to 618.1679
+Adjusting speed: Increased Motor A to 792.0381
+Adjusting speed: Decreased Motor A to 611.8625
+Adjusting speed: Increased Motor A to 624.2824
+Adjusting speed: Increased Motor A to 727.2366
+Adjusting speed: Decreased Motor A to 666.5267
+Adjusting speed: Increased Motor A to 682.9923
+Adjusting speed: Decreased Motor A to 677.7022
+Adjusting speed: Increased Motor A to 697.9847
+Adjusting speed: Decreased Motor A to 651.3969
+Adjusting speed: Increased Motor A to 735.5725
+Adjusting speed: Decreased Motor A to 633.8702
+Adjusting speed: Increased Motor A to 714.5344
+Adjusting speed: Decreased Motor A to 573.3665
+Adjusting speed: Increased Motor A to 636.7787
+Adjusting speed: Increased Motor A to 757.5955
+Adjusting speed: Decreased Motor A to 605.1298
+Adjusting speed: Increased Motor A to 699.3817
+Adjusting speed: Decreased Motor A to 690.8092
+Adjusting speed: Decreased Motor A to 624.9847
+Adjusting speed: Increased Motor A to 706.1832
+Adjusting speed: Decreased Motor A to 679.2137
+Adjusting speed: Decreased Motor A to 615.832
+Adjusting speed: Increased Motor A to 798.9389
+Adjusting speed: Decreased Motor A to 566.4733
+Adjusting speed: Increased Motor A to 677.6718
+Adjusting speed: Increased Motor A to 791.6946
+Adjusting speed: Increased Motor A to 801.8244
+Adjusting speed: Decreased Motor A to 693.1755
+Adjusting speed: Increased Motor A to 822.9236
+Adjusting speed: Decreased Motor A to 269.1603
+Adjusting speed: Decreased Motor A to 0
+Adjusting speed: Decreased Motor A to 0
+Adjusting speed: Decreased Motor A to 0
+Adjusting speed: Decreased Motor A to 0
+Adjusting speed: Decreased Motor A to 0
+Adjusting speed: Decreased Motor A to 0
+Adjusting speed: Decreased Motor A to 0
+Adjusting speed: Decreased Motor A to 0
+
+
+
+
+
+Car Script Started - 2000-01-01 00:00:00
+-----------------------------------------
+Session started, logging enabled. 
+
+
+Motor Initialized: 
+Forward Pin=Pin(11), 
+Backwards Pin=Pin(10), 
+Speed PWM=PWM(Pin(17), freq=10000, duty=0, resolution=12, (duty=0.00%, resolution=0.024%), mode=0, channel=0, timer=0), 
+Default Speed=700
+
+
+Motor Initialized: 
+Forward Pin=Pin(13), 
+Backwards Pin=Pin(12), 
+Speed PWM=PWM(Pin(16), freq=10000, duty=0, resolution=12, (duty=0.00%, resolution=0.024%), mode=0, channel=1, timer=0), 
+Default Speed=672
+
+stby value set to 1 (high)
+Created the ultrasonic sensor instance
+Created the mpu instance
+
+Car Status:
+
+Motor A Status: 
+Forward=0, 
+Backwards=0, 
+Speed=0, 
+Default speed=700
+
+
+Motor B Status: 
+Forward=0, 
+Backwards=0, 
+Speed=0, 
+Default speed=672
+
+MPU6050 Accelerometer: X=0.007568359, Y=0.07275391, Z=0.9343262
+MPU6050 Gyroscope: X=-3.122137, Y=0.1221374, Z=-3.541985
+Driving forward. Base Speed: A=700, B=672
+Adjusting speed: Increased Motor A to 836.8473
+Adjusting speed: Decreased Motor A to 614.0763
+Adjusting speed: Increased Motor A to 719.0152
+Adjusting speed: Decreased Motor A to 708.916
+Adjusting speed: Increased Motor A to 829.4274
+Adjusting speed: Decreased Motor A to 482.2289
+Adjusting speed: Increased Motor A to 631.9006
+Adjusting speed: Increased Motor A to 881.1144
+Adjusting speed: Decreased Motor A to 618.0381
+Adjusting speed: Decreased Motor A to 566.5648
+Adjusting speed: Increased Motor A to 801.8091
+Adjusting speed: Decreased Motor A to 622.1678
+Adjusting speed: Increased Motor A to 662.0686
+Adjusting speed: Increased Motor A to 754.1831
+Adjusting speed: Decreased Motor A to 632.7098
+Adjusting speed: Increased Motor A to 669.7098
+Adjusting speed: Increased Motor A to 734.0381
+Adjusting speed: Decreased Motor A to 645.1602
+Adjusting speed: Increased Motor A to 692.6946
+Adjusting speed: Increased Motor A to 717.4808
+Adjusting speed: Decreased Motor A to 599.748
+Adjusting speed: Increased Motor A to 816.4426
+Adjusting speed: Decreased Motor A to 623.061
+Adjusting speed: Increased Motor A to 717.1602
+Adjusting speed: Decreased Motor A to 702.4808
+Adjusting speed: Decreased Motor A to 645.0533
+Adjusting speed: Increased Motor A to 712.8931
+Adjusting speed: Decreased Motor A to 686.7633
+Adjusting speed: Decreased Motor A to 627.0458
+Adjusting speed: Increased Motor A to 726.0305
+Adjusting speed: Decreased Motor A to 682.1145
+Adjusting speed: Decreased Motor A to 638.5038
+Adjusting speed: Increased Motor A to 763.29
+Adjusting speed: Decreased Motor A to 655.7099
+Adjusting speed: Decreased Motor A to 603.4733
+Adjusting speed: Increased Motor A to 721.771
+Adjusting speed: Increased Motor A to 765.5649
+Adjusting speed: Decreased Motor A to 617.9847
+Adjusting speed: Increased Motor A to 705.9771
+Adjusting speed: Increased Motor A to 736.3359
+Adjusting speed: Decreased Motor A to 575.4733
+Adjusting speed: Increased Motor A to 761.7099
+Adjusting speed: Decreased Motor A to 754.8168
+Adjusting speed: Decreased Motor A to 540.519
+Adjusting speed: Increased Motor A to 745.458
+Adjusting speed: Increased Motor A to 762.1526
+Adjusting speed: Decreased Motor A to 550.4504
+Adjusting speed: Increased Motor A to 731.1909
+Adjusting speed: Increased Motor A to 789.4886
+Adjusting speed: Decreased Motor A to 544.3512
+Adjusting speed: Increased Motor A to 842.4199
+Adjusting speed: Decreased Motor A to 714.6871
+Adjusting speed: Decreased Motor A to 543.0612
+Adjusting speed: Increased Motor A to 829.7559
+Adjusting speed: Decreased Motor A to 721.7177
+Adjusting speed: Decreased Motor A to 562.7635
+Adjusting speed: Increased Motor A to 799.6109
+Adjusting speed: Decreased Motor A to 648.5956
+Adjusting speed: Decreased Motor A to 635.5193
+Adjusting speed: Increased Motor A to 752.8246
+Adjusting speed: Decreased Motor A to 661.8094
+Adjusting speed: Increased Motor A to 717.359
+Adjusting speed: Decreased Motor A to 676.5728
+Adjusting speed: Increased Motor A to 721.13
+Adjusting speed: Decreased Motor A to 688.2064
+Adjusting speed: Decreased Motor A to 672.84
+Adjusting speed: Increased Motor A to 697.3972
+Adjusting speed: Decreased Motor A to 644.6262
+Adjusting speed: Increased Motor A to 733.3056
+Adjusting speed: Increased Motor A to 749.3896
+Adjusting speed: Decreased Motor A to 638.4507
+Adjusting speed: Increased Motor A to 668.7332
+Adjusting speed: Increased Motor A to 676.0385
+Adjusting speed: Increased Motor A to 731.9698
+Adjusting speed: Decreased Motor A to 722.9393
+Adjusting speed: Decreased Motor A to 534.9774
+Adjusting speed: Increased Motor A to 875.2599
+Adjusting speed: Decreased Motor A to 662.1072
+Adjusting speed: Decreased Motor A to 603.2294
+Adjusting speed: Increased Motor A to 776.9469
+Adjusting speed: Decreased Motor A to 637.2294
+Adjusting speed: Increased Motor A to 710.1072
+Adjusting speed: Decreased Motor A to 698.5576
+Adjusting speed: Increased Motor A to 708.8401
+Adjusting speed: Decreased Motor A to 677.4431
+Adjusting speed: Decreased Motor A to 637.7256
+Adjusting speed: Increased Motor A to 764.1149
+Adjusting speed: Decreased Motor A to 633.7866
+Adjusting speed: Increased Motor A to 689.4889
+Adjusting speed: Increased Motor A to 769.7714
+Adjusting speed: Decreased Motor A to 593.5653
+Adjusting speed: Increased Motor A to 732.092
+Adjusting speed: Increased Motor A to 789.0157
+Adjusting speed: Decreased Motor A to 627.4661
+Adjusting speed: Increased Motor A to 693.6263
+Adjusting speed: Increased Motor A to 750.092
+Adjusting speed: Decreased Motor A to 680.9851
+Adjusting speed: Decreased Motor A to 658.2141
+Adjusting speed: Increased Motor A to 731.4736
+Adjusting speed: Increased Motor A to 761.9088
+Adjusting speed: Decreased Motor A to 596.0844
+Adjusting speed: Increased Motor A to 1005.832
+Adjusting speed: Increased Motor A to 1338.298
+Adjusting speed: Increased Motor A to 1280.359
+Adjusting speed: Increased Motor A to 1822.496
+Adjusting speed: Increased Motor A to 1156.313
+Adjusting speed: Increased Motor A to 1052.038
+Adjusting speed: Increased Motor A to 1016.847
+Adjusting speed: Increased Motor A to 1054.634
+Adjusting speed: Increased Motor A to 1032.115
+Adjusting speed: Increased Motor A to 1239.977
+Adjusting speed: Decreased Motor A to 529.2137
+Adjusting speed: Decreased Motor A to 358.5802
+Adjusting speed: Decreased Motor A to 298.939
+Adjusting speed: Decreased Motor A to 260.9008
+Adjusting speed: Decreased Motor A to 242.7863
+Adjusting speed: Decreased Motor A to 227.9542
+Adjusting speed: Increased Motor A to 239.9924
+Adjusting speed: Increased Motor A to 260.4275
+Adjusting speed: Increased Motor A to 273.0
+Adjusting speed: Increased Motor A to 288.0916
+Adjusting speed: Decreased Motor A to 282.0382
+Adjusting speed: Increased Motor A to 290.2596
+Adjusting speed: Increased Motor A to 302.8321
+Adjusting speed: Increased Motor A to 329.6794
+Adjusting speed: Increased Motor A to 335.229
+Adjusting speed: Increased Motor A to 350.3969
+Adjusting speed: Decreased Motor A to 339.916
+Adjusting speed: Increased Motor A to 369.4351
+Adjusting speed: Decreased Motor A to 365.2137
+Adjusting speed: Increased Motor A to 371.9847
+Adjusting speed: Increased Motor A to 388.6794
+Adjusting speed: Increased Motor A to 398.2748
+Adjusting speed: Decreased Motor A to 392.7557
+Adjusting speed: Decreased Motor A to 384.3359
+Adjusting speed: Increased Motor A to 405.1527
+Adjusting speed: Decreased Motor A to 310.1679
+Adjusting speed: Decreased Motor A to 286.5573
+Adjusting speed: Decreased Motor A to 0
+Adjusting speed: Increased Motor A to 341.2748
+Adjusting speed: Decreased Motor A to 169.2672
+Adjusting speed: Increased Motor A to 1133.641
+Adjusting speed: Increased Motor A to 920.1298
+Adjusting speed: Decreased Motor A to 462.4199
+Adjusting speed: Increased Motor A to 534.458
+Adjusting speed: Increased Motor A to 921.3817
+Adjusting speed: Decreased Motor A to 697.458
+Adjusting speed: Decreased Motor A to 609.4962
+Adjusting speed: Increased Motor A to 694.3588
+Adjusting speed: Increased Motor A to 813.0381
+Adjusting speed: Decreased Motor A to 664.1603
+Adjusting speed: Increased Motor A to 764.6718
+Adjusting speed: Decreased Motor A to 559.3817
+Adjusting speed: Increased Motor A to 1919.359
+Adjusting speed: Increased Motor A to 1078.374
+Adjusting speed: Increased Motor A to 1030.13
+Adjusting speed: Increased Motor A to 1043.718
+Adjusting speed: Increased Motor A to 942.6489
+Adjusting speed: Decreased Motor A to 263.7175
+Adjusting speed: Increased Motor A to 352.0916
+Adjusting speed: Increased Motor A to 464.2061
+Adjusting speed: Increased Motor A to 1110.672
+Adjusting speed: Increased Motor A to 2176.008
+Adjusting speed: Increased Motor A to 2428.45
+Adjusting speed: Increased Motor A to 2168.145
+Adjusting speed: Increased Motor A to 1847.611
+Adjusting speed: Increased Motor A to 1193.87
+Adjusting speed: Increased Motor A to 1160.282
+Adjusting speed: Increased Motor A to 930.8931
+Adjusting speed: Decreased Motor A to 608.145
+Adjusting speed: Decreased Motor A to 0
+Adjusting speed: Decreased Motor A to 0
+Adjusting speed: Decreased Motor A to 154.7099
+Adjusting speed: Increased Motor A to 624.481
+Adjusting speed: Decreased Motor A to 604.0764
+Adjusting speed: Decreased Motor A to 570.2366
+Adjusting speed: Increased Motor A to 735.8625
+
+
+
+
+
+Car Script Started - 2000-01-01 00:00:00
+-----------------------------------------
+Session started, logging enabled. 
+
+
+Motor Initialized: 
+Forward Pin=Pin(11), 
+Backwards Pin=Pin(10), 
+Speed PWM=PWM(Pin(17), freq=10000, duty=0, resolution=12, (duty=0.00%, resolution=0.024%), mode=0, channel=0, timer=0), 
+Default Speed=700
+
+
+Motor Initialized: 
+Forward Pin=Pin(13), 
+Backwards Pin=Pin(12), 
+Speed PWM=PWM(Pin(16), freq=10000, duty=0, resolution=12, (duty=0.00%, resolution=0.024%), mode=0, channel=1, timer=0), 
+Default Speed=672
+
+stby value set to 1 (high)
+Created the ultrasonic sensor instance
+Created the mpu instance
+
+Car Status:
+
+Motor A Status: 
+Forward=0, 
+Backwards=0, 
+Speed=0, 
+Default speed=700
+
+
+Motor B Status: 
+Forward=0, 
+Backwards=0, 
+Speed=0, 
+Default speed=672
+
+MPU6050 Accelerometer: X=0.01586914, Y=-0.009521484, Z=0.9438477
+MPU6050 Gyroscope: X=-1.198473, Y=-0.4274809, Z=-1.641221
+Driving forward. Base Speed: A=700, B=672
+Adjusting speed: Increased Motor A to 869.5954
+Adjusting speed: Decreased Motor A to 835.2214
+Adjusting speed: Decreased Motor A to 692.2214
+Adjusting speed: Decreased Motor A to 651.2061
+Adjusting speed: Increased Motor A to 1026.45
+Adjusting speed: Increased Motor A to 983.7175
+Adjusting speed: Decreased Motor A to 448.5267
+Adjusting speed: Increased Motor A to 855.9847
+Adjusting speed: Decreased Motor A to 800.6946
+Adjusting speed: Decreased Motor A to 551.1298
+Adjusting speed: Increased Motor A to 741.4885
+Adjusting speed: Increased Motor A to 762.0763
+Adjusting speed: Decreased Motor A to 557.0916
+Adjusting speed: Increased Motor A to 789.2824
+Adjusting speed: Decreased Motor A to 685.4427
+Adjusting speed: Decreased Motor A to 680.1526
+Adjusting speed: Decreased Motor A to 632.8015
+Adjusting speed: Increased Motor A to 686.9008
+Adjusting speed: Increased Motor A to 817.2595
+Adjusting speed: Decreased Motor A to 644.8702
+Adjusting speed: Decreased Motor A to 599.8092
+Adjusting speed: Increased Motor A to 746.3512
+Adjusting speed: Decreased Motor A to 676.0229
+Adjusting speed: Increased Motor A to 731.7252
+Adjusting speed: Decreased Motor A to 700.4046
+Adjusting speed: Decreased Motor A to 665.5725
+Adjusting speed: Increased Motor A to 735.7786
+Adjusting speed: Decreased Motor A to 699.8015
+Adjusting speed: Decreased Motor A to 658.5573
+Adjusting speed: Increased Motor A to 726.7023
+Adjusting speed: Decreased Motor A to 703.3206
+Adjusting speed: Decreased Motor A to 669.6336
+Adjusting speed: Increased Motor A to 795.3359
+Adjusting speed: Decreased Motor A to 659.7405
+Adjusting speed: Increased Motor A to 683.0
+Adjusting speed: Increased Motor A to 763.2061
+Adjusting speed: Decreased Motor A to 649.9008
+Adjusting speed: Increased Motor A to 733.771
+Adjusting speed: Decreased Motor A to 714.5115
+Adjusting speed: Decreased Motor A to 656.2443
+Adjusting speed: Increased Motor A to 687.2901
+Adjusting speed: Increased Motor A to 721.542
+Adjusting speed: Decreased Motor A to 697.7786
+Adjusting speed: Increased Motor A to 716.3054
+Adjusting speed: Decreased Motor A to 694.9847
+Adjusting speed: Increased Motor A to 733.6641
+Adjusting speed: Decreased Motor A to 636.1603
+Adjusting speed: Increased Motor A to 681.6335
+Adjusting speed: Increased Motor A to 778.8625
+Adjusting speed: Decreased Motor A to 637.8473
+Adjusting speed: Increased Motor A to 657.1374
+Adjusting speed: Increased Motor A to 743.2977
+Adjusting speed: Decreased Motor A to 684.1145
+Adjusting speed: Increased Motor A to 727.0687
+Adjusting speed: Decreased Motor A to 627.8092
+Adjusting speed: Increased Motor A to 718.168
+Adjusting speed: Decreased Motor A to 688.6031
+Adjusting speed: Increased Motor A to 730.9466
+Adjusting speed: Decreased Motor A to 697.7176
+Adjusting speed: Increased Motor A to 778.9924
+Adjusting speed: Decreased Motor A to 620.9542
+Adjusting speed: Increased Motor A to 731.771
+Adjusting speed: Decreased Motor A to 713.8855
+Adjusting speed: Increased Motor A to 720.8855
+Adjusting speed: Decreased Motor A to 663.6107
+Adjusting speed: Increased Motor A to 764.7328
+Adjusting speed: Decreased Motor A to 650.5115
+Adjusting speed: Increased Motor A to 669.3435
+Adjusting speed: Increased Motor A to 702.374
+Adjusting speed: Increased Motor A to 771.5114
+Adjusting speed: Decreased Motor A to 697.519
+Adjusting speed: Decreased Motor A to 655.0534
+Adjusting speed: Increased Motor A to 703.3511
+Adjusting speed: Increased Motor A to 756.5344
+Adjusting speed: Decreased Motor A to 690.6336
+Adjusting speed: Decreased Motor A to 682.9008
+Adjusting speed: Increased Motor A to 696.9236
+Adjusting speed: Increased Motor A to 714.3053
+Adjusting speed: Increased Motor A to 749.0916
+Adjusting speed: Decreased Motor A to 671.3587
+Adjusting speed: Increased Motor A to 732.7098
+Adjusting speed: Decreased Motor A to 693.2976
+Adjusting speed: Increased Motor A to 752.7404
+Adjusting speed: Decreased Motor A to 706.0762
+Adjusting speed: Decreased Motor A to 663.2289
+Adjusting speed: Increased Motor A to 748.4731
+Adjusting speed: Decreased Motor A to 292.1144
+Adjusting speed: Increased Motor A to 1109.191
+Adjusting speed: Increased Motor A to 1050.664
+Adjusting speed: Decreased Motor A to 683.1069
+Adjusting speed: Decreased Motor A to 339.8779
+Adjusting speed: Decreased Motor A to 0
+Adjusting speed: Decreased Motor A to 0
+Adjusting speed: Decreased Motor A to 0
+Adjusting speed: Decreased Motor A to 0
+Adjusting speed: Decreased Motor A to 0
+
+
+
+
+
+Car Script Started - 2000-01-01 00:00:00
+-----------------------------------------
+Session started, logging enabled. 
+
+
+Motor Initialized: 
+Forward Pin=Pin(11), 
+Backwards Pin=Pin(10), 
+Speed PWM=PWM(Pin(17), freq=10000, duty=0, resolution=12, (duty=0.00%, resolution=0.024%), mode=0, channel=0, timer=0), 
+Default Speed=700
+
+
+Motor Initialized: 
+Forward Pin=Pin(13), 
+Backwards Pin=Pin(12), 
+Speed PWM=PWM(Pin(16), freq=10000, duty=0, resolution=12, (duty=0.00%, resolution=0.024%), mode=0, channel=1, timer=0), 
+Default Speed=672
+
+stby value set to 1 (high)
+Created the ultrasonic sensor instance
+Created the mpu instance
+
+Car Status:
+
+Motor A Status: 
+Forward=0, 
+Backwards=0, 
+Speed=0, 
+Default speed=700
+
+
+Motor B Status: 
+Forward=0, 
+Backwards=0, 
+Speed=0, 
+Default speed=672
+
+MPU6050 Accelerometer: X=-0.2412109, Y=0.0793457, Z=0.90625
+MPU6050 Gyroscope: X=-3.183206, Y=-7.946565, Z=3.343511
+Driving forward. Base Speed: A=700, B=672
+Adjusting speed: Increased Motor A to 731.6565
+Adjusting speed: Increased Motor A to 840.5649
+Adjusting speed: Increased Motor A to 969.3206
+Adjusting speed: Increased Motor A to 938.6794
+Adjusting speed: Increased Motor A to 953.5649
+Adjusting speed: Decreased Motor A to 871.3511
+Adjusting speed: Increased Motor A to 889.5725
+Adjusting speed: Increased Motor A to 904.3588
+Adjusting speed: Decreased Motor A to 867.0
+Adjusting speed: Increased Motor A to 907.8168
+Adjusting speed: Increased Motor A to 976.542
+Adjusting speed: Decreased Motor A to 852.1909
+Adjusting speed: Increased Motor A to 896.5955
+
+
+
+
+
+Car Script Started - 2024-02-21 21:54:22
+-----------------------------------------
+Session started, logging enabled. 
+
+
+Motor Initialized: 
+Forward Pin=Pin(11), 
+Backwards Pin=Pin(10), 
+Speed PWM=PWM(Pin(17), freq=10000, duty=0, resolution=12, (duty=0.00%, resolution=0.024%), mode=0, channel=0, timer=0), 
+Default Speed=700
+
+
+Motor Initialized: 
+Forward Pin=Pin(13), 
+Backwards Pin=Pin(12), 
+Speed PWM=PWM(Pin(16), freq=10000, duty=0, resolution=12, (duty=0.00%, resolution=0.024%), mode=0, channel=1, timer=0), 
+Default Speed=672
+
+stby value set to 1 (high)
+Created the ultrasonic sensor instance
+Created the mpu instance
+
+Car Status:
+
+Motor A Status: 
+Forward=0, 
+Backwards=0, 
+Speed=0, 
+Default speed=700
+
+
+Motor B Status: 
+Forward=0, 
+Backwards=0, 
+Speed=0, 
+Default speed=672
+
+
+
+
+
+Car Script Started - 2024-02-21 21:54:55
+-----------------------------------------
+Session started, logging enabled. 
+
+
+Motor Initialized: 
+Forward Pin=Pin(11), 
+Backwards Pin=Pin(10), 
+Speed PWM=PWM(Pin(17), freq=10000, duty=0, resolution=12, (duty=0.00%, resolution=0.024%), mode=0, channel=0, timer=0), 
+Default Speed=700
+
+
+Motor Initialized: 
+Forward Pin=Pin(13), 
+Backwards Pin=Pin(12), 
+Speed PWM=PWM(Pin(16), freq=10000, duty=0, resolution=12, (duty=0.00%, resolution=0.024%), mode=0, channel=1, timer=0), 
+Default Speed=672
+
+stby value set to 1 (high)
+Created the ultrasonic sensor instance
+Created the mpu instance
+
+Car Status:
+
+Motor A Status: 
+Forward=0, 
+Backwards=0, 
+Speed=0, 
+Default speed=700
+
+
+Motor B Status: 
+Forward=0, 
+Backwards=0, 
+Speed=0, 
+Default speed=672
+Driving forward. Base Speed: A=700, B=672
+Correcting from left. Speed: A=700.045, B=671.955
+Correcting from right. Speed: A=682.1646, B=689.8354
+Correcting from right. Speed: A=677.1641, B=694.8359
+Correcting from right. Speed: A=668.6094, B=703.3906
+Correcting from right. Speed: A=668.2624, B=703.7376
+Correcting from left. Speed: A=670.1276, B=701.8724
+Correcting from left. Speed: A=675.2783, B=696.7217
+Correcting from left. Speed: A=680.1969, B=691.8031
+Correcting from left. Speed: A=689.331, B=682.669
+Correcting from left. Speed: A=706.8071, B=665.1929
+Correcting from left. Speed: A=723.0619, B=648.9381
+Correcting from left. Speed: A=738.442, B=633.558
+Correcting from left. Speed: A=758.4031, B=613.5969
+Correcting from left. Speed: A=779.2855, B=592.7145
+Correcting from left. Speed: A=800.4794, B=571.5206
+Correcting from left. Speed: A=823.5139, B=548.4861
+Correcting from left. Speed: A=854.8017, B=517.1983
+Correcting from left. Speed: A=885.4369, B=486.5631
+Correcting from left. Speed: A=923.6766, B=448.3233
+Correcting from left. Speed: A=940.394, B=407.9294
+Correcting from left. Speed: A=951.137, B=356.7924
+Correcting from left. Speed: A=955.082, B=301.7105
+Correcting from left. Speed: A=958.7675, B=242.943
+Correcting from left. Speed: A=961.9525, B=180.9905
+Correcting from left. Speed: A=967.1304, B=132.8696
+Correcting from left. Speed: A=972.5159, B=127.4841
+Correcting from left. Speed: A=973.9823, B=126.0177
+Correcting from left. Speed: A=979.1384, B=120.8616
+Correcting from left. Speed: A=983.5765, B=116.4234
+Correcting from left. Speed: A=984.4772, B=115.5228
+Correcting from left. Speed: A=987.2673, B=112.7327
+Correcting from left. Speed: A=988.9673, B=111.0327
+Correcting from left. Speed: A=988.2017, B=111.7983
+Correcting from left. Speed: A=999.754, B=100.246
+Correcting from left. Speed: A=1001.337, B=98.66283
+Correcting from left. Speed: A=1008.164, B=91.83588
+Correcting from left. Speed: A=1019.143, B=80.85725
+Correcting from left. Speed: A=1017.027, B=82.97329
+Correcting from left. Speed: A=1018.607, B=81.39314
+Correcting from left. Speed: A=1029.481, B=70.51932
+Correcting from left. Speed: A=1033.617, B=66.38345
+Correcting from left. Speed: A=1036.722, B=63.27811
+Correcting from left. Speed: A=1042.373, B=57.62704
+Correcting from left. Speed: A=1046.481, B=53.51865
+Correcting from left. Speed: A=1049.726, B=50.27406
+Correcting from left. Speed: A=1054.317, B=45.68291
+Correcting from left. Speed: A=1056.09, B=43.91039
+Correcting from left. Speed: A=1060.102, B=39.89816
+Correcting from left. Speed: A=1063.003, B=36.99663
+Correcting from left. Speed: A=1069.429, B=30.57144
+Correcting from left. Speed: A=1071.488, B=28.5119
+Correcting from left. Speed: A=1068.616, B=31.38367
+Correcting from left. Speed: A=1067.115, B=32.88542
+Correcting from left. Speed: A=1070.9, B=29.09991
+Correcting from left. Speed: A=1065.026, B=34.97397
+Correcting from left. Speed: A=1054.66, B=45.34045
+Correcting from left. Speed: A=1081.956, B=18.04428
+Correcting from left. Speed: A=1091.021, B=8.979401
+Correcting from left. Speed: A=1101.173, B=-1.173264
+Correcting from left. Speed: A=1104.906, B=-4.905777
+Correcting from left. Speed: A=1110.838, B=-10.83784
+Correcting from left. Speed: A=1116.947, B=-16.94693
+Correcting from left. Speed: A=1104.242, B=-4.241577
+Correcting from left. Speed: A=1109.419, B=-9.419434
+Correcting from left. Speed: A=1102.479, B=-2.479279
+Correcting from left. Speed: A=1220.743, B=-120.7434
+Correcting from left. Speed: A=1267.678, B=-167.6778
+Correcting from left. Speed: A=1380.426, B=-280.4261
+Correcting from left. Speed: A=1438.731, B=-338.7314
+Correcting from left. Speed: A=1541.029, B=-441.0291
+Correcting from left. Speed: A=1635.185, B=-535.1849
+Correcting from left. Speed: A=1649.841, B=-549.8414
+Correcting from left. Speed: A=1699.383, B=-599.3827
+Correcting from left. Speed: A=1710.399, B=-610.3995
+Correcting from left. Speed: A=1739.908, B=-639.9078
+Correcting from left. Speed: A=1796.368, B=-696.3685
+Correcting from left. Speed: A=1824.033, B=-724.0326
+Correcting from left. Speed: A=1842.011, B=-742.0112
+Correcting from left. Speed: A=1866.063, B=-766.0629
+Correcting from left. Speed: A=1880.219, B=-780.2186
+Correcting from left. Speed: A=1914.307, B=-814.3071
+Correcting from left. Speed: A=1937.72, B=-837.7197
+Correcting from left. Speed: A=1958.776, B=-858.7762
+Correcting from left. Speed: A=1977.182, B=-877.1824
+Correcting from left. Speed: A=1991.058, B=-891.0579
+Correcting from left. Speed: A=1987.814, B=-887.8136
+Correcting from left. Speed: A=1995.224, B=-895.2235
+Correcting from left. Speed: A=2003.591, B=-903.5908
+Correcting from left. Speed: A=2014.427, B=-914.4266
+Correcting from left. Speed: A=2033.295, B=-933.2954
+Correcting from left. Speed: A=2030.084, B=-930.0842
+Correcting from left. Speed: A=2046.552, B=-946.5522
+Correcting from left. Speed: A=2054.273, B=-954.2736
+Correcting from left. Speed: A=2059.482, B=-959.4819
+Correcting from left. Speed: A=2056.484, B=-956.4843
+Correcting from left. Speed: A=2050.493, B=-950.4927
+Correcting from left. Speed: A=2053.426, B=-953.4255
+Correcting from left. Speed: A=2060.031, B=-960.0309
+Correcting from left. Speed: A=2059.587, B=-959.5872
+Correcting from left. Speed: A=2071.747, B=-971.7467
+Correcting from left. Speed: A=2067.672, B=-967.6719
+Correcting from left. Speed: A=2072.136, B=-972.136
+Correcting from left. Speed: A=2422.091, B=-1322.091
+Correcting from left. Speed: A=2489.21, B=-1389.21
+Correcting from left. Speed: A=2524.651, B=-1424.651
+Correcting from left. Speed: A=2603.794, B=-1503.794
+Correcting from left. Speed: A=2636.496, B=-1536.496
+Correcting from left. Speed: A=2702.651, B=-1602.651
+Correcting from left. Speed: A=2752.821, B=-1652.821
+Correcting from left. Speed: A=2800.758, B=-1700.758
+Correcting from left. Speed: A=2839.409, B=-1739.409
+Correcting from left. Speed: A=2884.012, B=-1784.012
+Correcting from left. Speed: A=2942.331, B=-1842.331
+Correcting from left. Speed: A=2980.46, B=-1880.46
+Correcting from left. Speed: A=2956.465, B=-1856.465
+Correcting from left. Speed: A=2853.829, B=-1753.829
+Correcting from left. Speed: A=2640.59, B=-1540.59
+Correcting from left. Speed: A=2443.639, B=-1343.639
+Correcting from left. Speed: A=2261.96, B=-1161.96
+Correcting from left. Speed: A=2077.423, B=-977.4235
+Correcting from left. Speed: A=1978.987, B=-878.9868
+Correcting from left. Speed: A=1888.781, B=-788.7808
+Correcting from left. Speed: A=1800.091, B=-700.0907
+Correcting from left. Speed: A=1755.338, B=-655.3381
+Correcting from left. Speed: A=1725.315, B=-625.3152
+Correcting from left. Speed: A=1609.89, B=-509.8896
+Correcting from left. Speed: A=1586.737, B=-486.737
+Correcting from left. Speed: A=1535.553, B=-435.5531
+Correcting from left. Speed: A=1510.273, B=-410.2729
+Correcting from left. Speed: A=1518.205, B=-418.2045
+Correcting from left. Speed: A=1555.755, B=-455.7549
+Correcting from left. Speed: A=1559.83, B=-459.8304
+Correcting from left. Speed: A=1593.566, B=-493.5663
+Correcting from left. Speed: A=1619.417, B=-519.4169
+Correcting from left. Speed: A=1621.955, B=-521.955
+Correcting from left. Speed: A=1597.198, B=-497.1979
+Correcting from left. Speed: A=1533.483, B=-433.4827
+Correcting from left. Speed: A=1449.665, B=-349.6652
+Correcting from left. Speed: A=1366.558, B=-266.5583
+Correcting from left. Speed: A=1300.423, B=-200.4227
+Correcting from left. Speed: A=1211.108, B=-111.1082
+Correcting from left. Speed: A=1149.594, B=-49.59454
+Correcting from left. Speed: A=1098.178, B=1.821503
+Correcting from left. Speed: A=1050.127, B=49.87265
+Correcting from left. Speed: A=1043.499, B=56.50089
+Correcting from left. Speed: A=1024.457, B=75.54257
+Correcting from left. Speed: A=966.3494, B=133.6506
+Correcting from left. Speed: A=945.3906, B=154.6094
+Correcting from right. Speed: A=899.5647, B=200.4353
+Correcting from right. Speed: A=858.4246, B=241.5754
+Correcting from right. Speed: A=793.5411, B=306.459
+Correcting from right. Speed: A=662.7033, B=437.2967
+Correcting from right. Speed: A=517.0068, B=582.9932
+Correcting from right. Speed: A=368.0981, B=731.9019
+Correcting from right. Speed: A=225.4673, B=874.5327
+Correcting from right. Speed: A=85.90904, B=1014.091
+Correcting from right. Speed: A=67.61118, B=1032.389
+Correcting from right. Speed: A=66.98827, B=1033.012
+Correcting from right. Speed: A=64.27217, B=1035.728
+Correcting from right. Speed: A=62.55003, B=1037.45
+Correcting from right. Speed: A=75.1821, B=1024.818
+Correcting from right. Speed: A=79.13568, B=1020.864
+Correcting from right. Speed: A=79.46545, B=1020.535
+Correcting from right. Speed: A=80.06393, B=1019.936
+Correcting from right. Speed: A=78.74889, B=1021.251
+Correcting from right. Speed: A=77.06339, B=1022.937
+Correcting from right. Speed: A=80.813, B=1019.187
+Correcting from right. Speed: A=91.13361, B=1008.866
+Correcting from right. Speed: A=101.4696, B=998.5305
+Correcting from right. Speed: A=108.6199, B=991.3801
+Correcting from right. Speed: A=101.0228, B=998.9772
+Correcting from right. Speed: A=107.7061, B=992.2939
+Correcting from right. Speed: A=106.2526, B=993.7474
+Correcting from right. Speed: A=107.9234, B=992.0765
+Correcting from right. Speed: A=108.9746, B=991.0254
+Correcting from right. Speed: A=110.9082, B=989.0918
+Correcting from right. Speed: A=111.7044, B=988.2955
+Correcting from right. Speed: A=116.1815, B=983.8185
+Correcting from right. Speed: A=114.0144, B=985.9857
+Correcting from right. Speed: A=113.8969, B=986.1031
+Correcting from right. Speed: A=117.1282, B=982.8718
+Correcting from right. Speed: A=120.074, B=979.926
+Correcting from right. Speed: A=121.6273, B=978.3727
+Correcting from right. Speed: A=131.1266, B=968.8734
+Correcting from right. Speed: A=129.3617, B=970.6383
+Correcting from right. Speed: A=140.0264, B=959.9736
+Correcting from right. Speed: A=146.9042, B=953.0958
+Correcting from right. Speed: A=162.295, B=937.705
+Correcting from right. Speed: A=167.5556, B=932.4444
+Correcting from right. Speed: A=178.3785, B=921.6215
+Correcting from right. Speed: A=189.1105, B=910.8895
+Correcting from right. Speed: A=197.2559, B=902.7441
+Correcting from right. Speed: A=197.1391, B=902.8609
+Correcting from left. Speed: A=201.8795, B=898.1204
+Correcting from right. Speed: A=200.9405, B=899.0595
+Correcting from left. Speed: A=212.4228, B=887.5772
+Correcting from right. Speed: A=209.3952, B=890.6049
+Correcting from right. Speed: A=206.3813, B=893.6187
+Correcting from left. Speed: A=206.6515, B=893.3485
+Correcting from left. Speed: A=208.3586, B=891.6414
+Correcting from left. Speed: A=214.9573, B=885.0427
+Correcting from left. Speed: A=221.1164, B=878.8837
+Correcting from left. Speed: A=236.8387, B=863.1614
+Correcting from left. Speed: A=249.8945, B=850.1057
+Correcting from left. Speed: A=267.0693, B=832.9308
+Correcting from left. Speed: A=287.2174, B=812.7827
+Correcting from left. Speed: A=302.3037, B=797.6965
+Correcting from left. Speed: A=322.1577, B=777.8425
+Correcting from left. Speed: A=352.4544, B=747.5457
+Correcting from left. Speed: A=386.4061, B=713.594
+Correcting from left. Speed: A=425.0963, B=674.9037
+Correcting from left. Speed: A=475.5927, B=624.4074
+Correcting from left. Speed: A=534.5157, B=565.4843
+Correcting from left. Speed: A=595.6987, B=504.3013
+Correcting from left. Speed: A=663.452, B=436.5481
+Correcting from left. Speed: A=735.7159, B=364.2842
+Correcting from left. Speed: A=812.6065, B=287.3936
+Correcting from left. Speed: A=895.6791, B=204.3209
+Correcting from left. Speed: A=979.9163, B=120.0838
+Correcting from left. Speed: A=986.4733, B=113.5267
+Correcting from left. Speed: A=985.9077, B=114.0923
+Correcting from left. Speed: A=985.0809, B=114.9191
+Correcting from left. Speed: A=994.2473, B=105.7527
+Correcting from left. Speed: A=988.2403, B=111.7597
+Correcting from left. Speed: A=994.475, B=105.5249
+Correcting from left. Speed: A=994.9514, B=105.0486
+Correcting from left. Speed: A=997.8094, B=102.1906
+Correcting from left. Speed: A=998.6943, B=101.3057
+Correcting from left. Speed: A=1003.079, B=96.92097
+Correcting from left. Speed: A=1006.682, B=93.31793
+Correcting from left. Speed: A=1009.332, B=90.66754
+Correcting from left. Speed: A=1009.922, B=90.07762
+Correcting from left. Speed: A=1005.538, B=94.46236
+Correcting from left. Speed: A=1017.861, B=82.13869
+Correcting from left. Speed: A=1016.399, B=83.60121
+Correcting from left. Speed: A=1018.817, B=81.18289
+Correcting from left. Speed: A=1025.293, B=74.70671
+Correcting from left. Speed: A=1028.188, B=71.81204
+Correcting from left. Speed: A=1029.519, B=70.48074
+Correcting from left. Speed: A=1037.053, B=62.94693
+Correcting from left. Speed: A=1039.972, B=60.02785
+Correcting from left. Speed: A=1045.737, B=54.26297
+Correcting from left. Speed: A=1047.126, B=52.87418
+Correcting from left. Speed: A=1048.091, B=51.9093
+Correcting from left. Speed: A=1053.685, B=46.3154
+Correcting from left. Speed: A=1059.005, B=40.9948
+Correcting from left. Speed: A=1064.892, B=35.1077
+Correcting from left. Speed: A=1067.021, B=32.97945
+Correcting from left. Speed: A=1067.838, B=32.16188
+Correcting from left. Speed: A=1069.444, B=30.55632
+Correcting from left. Speed: A=1068.042, B=31.95784
+Correcting from left. Speed: A=1071.971, B=28.02875
+Correcting from left. Speed: A=1074.45, B=25.55014
+Correcting from left. Speed: A=1074.709, B=25.2906
+Correcting from left. Speed: A=1078.68, B=21.31961
+Correcting from left. Speed: A=1081.826, B=18.17374
+Correcting from left. Speed: A=1086.926, B=13.07373
+Correcting from left. Speed: A=1092.584, B=7.41571
+Correcting from left. Speed: A=1097.283, B=2.716492
+Correcting from left. Speed: A=1100.632, B=-0.6315918
+Correcting from left. Speed: A=1107.198, B=-7.198013
+Correcting from left. Speed: A=1111.414, B=-11.41426
+Correcting from left. Speed: A=1114.931, B=-14.93105
+Correcting from left. Speed: A=1116.615, B=-16.61496
+Correcting from left. Speed: A=1123.091, B=-23.09052
+Correcting from left. Speed: A=1125.971, B=-25.97144
+Correcting from left. Speed: A=1128.346, B=-28.34624
+Correcting from left. Speed: A=1130.552, B=-30.55228
+Correcting from left. Speed: A=1136.236, B=-36.23625
+Correcting from left. Speed: A=1135.159, B=-35.15854
+Correcting from left. Speed: A=1138.14, B=-38.14023
+Correcting from left. Speed: A=1144.186, B=-44.18602
+Correcting from left. Speed: A=1147.415, B=-47.41502
+Correcting from left. Speed: A=1151.588, B=-51.58769
+Correcting from left. Speed: A=1152.618, B=-52.61824
+Correcting from left. Speed: A=1156.197, B=-56.19678
+Correcting from left. Speed: A=1186.563, B=-86.56274
+Correcting from left. Speed: A=1187.378, B=-87.37799
+Correcting from left. Speed: A=1193.305, B=-93.30539
+Correcting from left. Speed: A=1195.655, B=-95.65503
+Correcting from left. Speed: A=1200.024, B=-100.0245
+Correcting from left. Speed: A=1204.86, B=-104.8604
+Correcting from left. Speed: A=1204.118, B=-104.1184
+Correcting from left. Speed: A=1203.814, B=-103.8138
+Correcting from left. Speed: A=1217.331, B=-117.3314
+Correcting from left. Speed: A=1220.072, B=-120.0724
+Correcting from left. Speed: A=1222.233, B=-122.2335
+Correcting from left. Speed: A=1231.182, B=-131.1823
+Correcting from left. Speed: A=1239.479, B=-139.4785
+Correcting from left. Speed: A=1253.534, B=-153.5338
+Correcting from left. Speed: A=1309.997, B=-209.9971
+Correcting from left. Speed: A=1390.348, B=-290.3482
+Correcting from left. Speed: A=1418.284, B=-318.2838
+Correcting from left. Speed: A=1455.007, B=-355.0074
+Correcting from left. Speed: A=1537.984, B=-437.9838
+Correcting from left. Speed: A=1567.582, B=-467.5815
+Correcting from left. Speed: A=1616.068, B=-516.0677
+Correcting from left. Speed: A=1580.828, B=-480.8275
+Correcting from left. Speed: A=1466.639, B=-366.639
+Correcting from left. Speed: A=1385.345, B=-285.3451
+Correcting from left. Speed: A=1323.101, B=-223.1009
+Correcting from left. Speed: A=1283.253, B=-183.2533
+Correcting from left. Speed: A=1278.822, B=-178.822
+Correcting from left. Speed: A=1282.181, B=-182.1808
+Correcting from left. Speed: A=1362.449, B=-262.4495
+Correcting from left. Speed: A=1515.178, B=-415.1782
+Correcting from left. Speed: A=1651.887, B=-551.8866
+Correcting from left. Speed: A=1745.065, B=-645.0652
+Correcting from left. Speed: A=1915.276, B=-815.2759
+Correcting from left. Speed: A=2100.414, B=-1000.414
+Correcting from left. Speed: A=2217.495, B=-1117.495
+Correcting from left. Speed: A=2310.454, B=-1210.453
+Correcting from left. Speed: A=2470.778, B=-1370.778
+Correcting from left. Speed: A=2588.103, B=-1488.103
+Correcting from left. Speed: A=2727.939, B=-1627.939
+Correcting from left. Speed: A=2820.263, B=-1720.263
+Correcting from left. Speed: A=2974.437, B=-1874.437
+Correcting from left. Speed: A=3129.577, B=-2029.577
+Correcting from left. Speed: A=3169.91, B=-2069.91
+Correcting from left. Speed: A=3204.87, B=-2104.87
+Correcting from left. Speed: A=3264.59, B=-2164.59
+Correcting from left. Speed: A=3272.285, B=-2172.285
+Correcting from left. Speed: A=3263.344, B=-2163.344
+Correcting from left. Speed: A=3227.423, B=-2127.423
+Correcting from left. Speed: A=3206.76, B=-2106.76
+Correcting from left. Speed: A=3223.876, B=-2123.876
+Correcting from left. Speed: A=3202.9, B=-2102.9
+Correcting from left. Speed: A=3203.977, B=-2103.977
+Correcting from left. Speed: A=3184.576, B=-2084.576
+Correcting from left. Speed: A=3188.675, B=-2088.675
+Correcting from left. Speed: A=3195.903, B=-2095.903
+Correcting from left. Speed: A=3176.71, B=-2076.71
+Correcting from left. Speed: A=3175.222, B=-2075.222
+Correcting from left. Speed: A=3179.868, B=-2079.868
+Correcting from left. Speed: A=3198.799, B=-2098.799
+Correcting from left. Speed: A=3199.06, B=-2099.06
+Correcting from left. Speed: A=3198.58, B=-2098.58
+Correcting from left. Speed: A=3203.784, B=-2103.784
+Correcting from left. Speed: A=3195.868, B=-2095.868
+Correcting from left. Speed: A=3200.541, B=-2100.541
+Correcting from left. Speed: A=3205.342, B=-2105.342
+Correcting from left. Speed: A=3206.739, B=-2106.739
+Correcting from left. Speed: A=3210.736, B=-2110.736
+Correcting from left. Speed: A=3212.008, B=-2112.008
+Correcting from left. Speed: A=3225.114, B=-2125.114
+Correcting from left. Speed: A=3219.858, B=-2119.858
+Correcting from left. Speed: A=3211.968, B=-2111.968
+Correcting from left. Speed: A=3220.048, B=-2120.048
+Correcting from left. Speed: A=3210.808, B=-2110.808
+Correcting from left. Speed: A=3218.374, B=-2118.374
+Correcting from left. Speed: A=3223.552, B=-2123.552
+Correcting from left. Speed: A=3223.03, B=-2123.03
+Correcting from left. Speed: A=3231.582, B=-2131.582
+Correcting from left. Speed: A=3231.139, B=-2131.139
+Correcting from left. Speed: A=3233.667, B=-2133.667
+Correcting from left. Speed: A=3238.117, B=-2138.117
+Correcting from left. Speed: A=3242.28, B=-2142.28
+Correcting from left. Speed: A=3243.104, B=-2143.104
+Correcting from left. Speed: A=3249.26, B=-2149.26
+Correcting from left. Speed: A=3253.032, B=-2153.032
+Correcting from left. Speed: A=3260.27, B=-2160.27
+Correcting from left. Speed: A=3263.301, B=-2163.301
+Correcting from left. Speed: A=3269.508, B=-2169.508
+Correcting from left. Speed: A=3276.769, B=-2176.769
+Correcting from left. Speed: A=3280.453, B=-2180.453
+Correcting from left. Speed: A=3286.661, B=-2186.661
+Correcting from left. Speed: A=3294.097, B=-2194.097
+Correcting from left. Speed: A=3298.651, B=-2198.651
+Correcting from left. Speed: A=3304.133, B=-2204.133
+Correcting from left. Speed: A=3306.004, B=-2206.004
+Correcting from left. Speed: A=3296.192, B=-2196.192
+Correcting from left. Speed: A=3287.548, B=-2187.548
+Correcting from left. Speed: A=3229.59, B=-2129.59
+Correcting from left. Speed: A=3186.958, B=-2086.958
+Correcting from left. Speed: A=3278.405, B=-2178.405
+Correcting from left. Speed: A=3367.066, B=-2267.066
+Correcting from left. Speed: A=3545.884, B=-2445.884
+Correcting from left. Speed: A=3647.657, B=-2547.657
+Correcting from left. Speed: A=3612.869, B=-2512.869
+Correcting from left. Speed: A=3622.503, B=-2522.503
+Correcting from left. Speed: A=3281.502, B=-2181.502
+Correcting from left. Speed: A=3127.511, B=-2027.511
+Correcting from left. Speed: A=2958.497, B=-1858.497
+Correcting from left. Speed: A=2885.961, B=-1785.961
+Correcting from left. Speed: A=2916.874, B=-1816.874
+Correcting from left. Speed: A=2993.662, B=-1893.662
+Correcting from left. Speed: A=3255.01, B=-2155.01
+Correcting from left. Speed: A=3444.335, B=-2344.335
+Correcting from left. Speed: A=3538.271, B=-2438.271
+Correcting from left. Speed: A=3614.507, B=-2514.507
+Correcting from left. Speed: A=3669.896, B=-2569.896
+Correcting from left. Speed: A=3660.638, B=-2560.638
+Correcting from left. Speed: A=3652.81, B=-2552.81
+Correcting from left. Speed: A=3906.457, B=-2806.457
+Correcting from left. Speed: A=4154.42, B=-3054.42
+Correcting from left. Speed: A=4205.62, B=-3105.62
+Correcting from left. Speed: A=4241.004, B=-3141.004
+Correcting from left. Speed: A=4261.853, B=-3161.853
+Correcting from left. Speed: A=4211.795, B=-3111.795
+Correcting from left. Speed: A=4019.087, B=-2919.087
+Correcting from left. Speed: A=3735.777, B=-2635.777
+Correcting from left. Speed: A=3711.762, B=-2611.762
+Correcting from left. Speed: A=3673.337, B=-2573.337
+Correcting from left. Speed: A=3712.112, B=-2612.112
+Correcting from left. Speed: A=3835.402, B=-2735.402
+Correcting from left. Speed: A=3886.156, B=-2786.156
+Correcting from left. Speed: A=3887.298, B=-2787.298
+Correcting from left. Speed: A=3876.072, B=-2776.072
+Correcting from left. Speed: A=3892.384, B=-2792.384
+Correcting from left. Speed: A=3885.973, B=-2785.973
+Correcting from left. Speed: A=3881.117, B=-2781.117
+Correcting from left. Speed: A=3881.494, B=-2781.494
+Correcting from left. Speed: A=3888.566, B=-2788.566
+Correcting from left. Speed: A=3888.749, B=-2788.749
+
+
+
+
+
+Car Script Started - 2000-01-01 00:00:00
+-----------------------------------------
+Session started, logging enabled. 
+
+
+Motor Initialized: 
+Forward Pin=Pin(11), 
+Backwards Pin=Pin(10), 
+Speed PWM=PWM(Pin(17), freq=10000, duty=0, resolution=12, (duty=0.00%, resolution=0.024%), mode=0, channel=0, timer=0), 
+Default Speed=700
+
+
+Motor Initialized: 
+Forward Pin=Pin(13), 
+Backwards Pin=Pin(12), 
+Speed PWM=PWM(Pin(16), freq=10000, duty=0, resolution=12, (duty=0.00%, resolution=0.024%), mode=0, channel=1, timer=0), 
+Default Speed=672
+
+stby value set to 1 (high)
+Created the ultrasonic sensor instance
+Created the mpu instance
+
+Car Status:
+
+Motor A Status: 
+Forward=0, 
+Backwards=0, 
+Speed=0, 
+Default speed=700
+
+
+Motor B Status: 
+Forward=0, 
+Backwards=0, 
+Speed=0, 
+Default speed=672
+Driving forward. Base Speed: A=700, B=672
+Correcting from left. Speed: A=700.0729, B=671.9271
+Correcting from left. Speed: A=745.4343, B=626.5657
+Correcting from left. Speed: A=846.0187, B=525.9813
+Correcting from left. Speed: A=1094.083, B=277.9165
+Correcting from left. Speed: A=1423.588, B=-245.6719
+Correcting from left. Speed: A=1799.472, B=-699.4724
+Correcting from left. Speed: A=2186.843, B=-1086.843
+Correcting from left. Speed: A=2592.947, B=-1492.947
+Correcting from left. Speed: A=3017.72, B=-1917.72
+Correcting from left. Speed: A=3462.073, B=-2362.073
+Correcting from left. Speed: A=3890.443, B=-2790.443
+Correcting from left. Speed: A=4322.556, B=-3222.556
+Correcting from left. Speed: A=4749.142, B=-3649.142
+Correcting from left. Speed: A=5186.186, B=-4086.186
+Correcting from left. Speed: A=5618.676, B=-4518.676
+Correcting from left. Speed: A=6064.668, B=-4964.668
+Correcting from left. Speed: A=6515.781, B=-5415.781
+Correcting from left. Speed: A=6950.707, B=-5850.707
+Correcting from left. Speed: A=7392.436, B=-6292.436
+Correcting from left. Speed: A=7829.305, B=-6729.305
+Correcting from left. Speed: A=8270.603, B=-7170.603
+Correcting from left. Speed: A=8692.605, B=-7592.605
+Correcting from left. Speed: A=9125.878, B=-8025.878
+Correcting from left. Speed: A=9568.707, B=-8468.707
+Correcting from left. Speed: A=10005.78, B=-8905.779
+Correcting from left. Speed: A=12292.4, B=-11192.4
+Correcting from left. Speed: A=12748.31, B=-11648.31
+Correcting from left. Speed: A=13202.31, B=-12102.31
+Correcting from left. Speed: A=13546.97, B=-12446.97
+Correcting from left. Speed: A=13905.65, B=-12805.65
+Correcting from left. Speed: A=14265.1, B=-13165.1
+Correcting from left. Speed: A=14626.82, B=-13526.82
+Correcting from left. Speed: A=14988.92, B=-13888.92
+Correcting from left. Speed: A=15351.72, B=-14251.72
+Correcting from left. Speed: A=15723.25, B=-14623.25
+Correcting from left. Speed: A=16077.01, B=-14977.01
+Correcting from left. Speed: A=16437.71, B=-15337.71
+Correcting from left. Speed: A=16807.34, B=-15707.34
+Correcting from left. Speed: A=17171.71, B=-16071.71
+Correcting from left. Speed: A=17517.91, B=-16417.91
+Correcting from left. Speed: A=17883.94, B=-16783.94
+Correcting from left. Speed: A=18243.14, B=-17143.14
+Correcting from left. Speed: A=18600.13, B=-17500.13
+Correcting from left. Speed: A=18964.49, B=-17864.49
+Correcting from left. Speed: A=19325.13, B=-18225.13
+Correcting from left. Speed: A=19685.57, B=-18585.57
+Correcting from left. Speed: A=20042.12, B=-18942.12
+Correcting from left. Speed: A=20407.24, B=-19307.24
+Correcting from left. Speed: A=20786.44, B=-19686.44
+Correcting from left. Speed: A=21176.5, B=-20076.5
+Correcting from left. Speed: A=21557.73, B=-20457.73
+Correcting from left. Speed: A=21945.37, B=-20845.37
+Correcting from left. Speed: A=22333.89, B=-21233.89
+Correcting from left. Speed: A=22733.33, B=-21633.33
+Correcting from left. Speed: A=23123.89, B=-22023.89
+Correcting from left. Speed: A=23520.04, B=-22420.04
+Correcting from left. Speed: A=23906.9, B=-22806.9
+Correcting from left. Speed: A=24300.3, B=-23200.3
+Correcting from left. Speed: A=24676.5, B=-23576.5
+Correcting from left. Speed: A=25069.52, B=-23969.52
+Correcting from left. Speed: A=25443.75, B=-24343.75
+Correcting from left. Speed: A=25840.47, B=-24740.47
+Correcting from left. Speed: A=26095.36, B=-24995.36
+Correcting from left. Speed: A=26294.12, B=-25194.12
+Correcting from left. Speed: A=26216.32, B=-25116.32
+Correcting from left. Speed: A=26197.97, B=-25097.97
+Correcting from left. Speed: A=26232.64, B=-25132.64
+Correcting from left. Speed: A=26272.51, B=-25172.51
+Correcting from left. Speed: A=26253.83, B=-25153.83
+Correcting from left. Speed: A=26300.36, B=-25200.36
+Correcting from left. Speed: A=26411.21, B=-25311.21
+Correcting from left. Speed: A=26500.93, B=-25400.93
+Correcting from left. Speed: A=26454.88, B=-25354.88
+Correcting from left. Speed: A=26517.27, B=-25417.27
+Correcting from left. Speed: A=26628.41, B=-25528.41
+Correcting from left. Speed: A=26713.77, B=-25613.77
+Correcting from left. Speed: A=26768.49, B=-25668.49
+Correcting from left. Speed: A=26858.3, B=-25758.3
+Correcting from left. Speed: A=26886.58, B=-25786.58
+
+
+
+
+
+Car Script Started - 2000-01-01 00:00:00
+-----------------------------------------
+Session started, logging enabled. 
+
+
+Motor Initialized: 
+Forward Pin=Pin(11), 
+Backwards Pin=Pin(10), 
+Speed PWM=PWM(Pin(17), freq=10000, duty=0, resolution=12, (duty=0.00%, resolution=0.024%), mode=0, channel=0, timer=0), 
+Default Speed=700
+
+
+Motor Initialized: 
+Forward Pin=Pin(13), 
+Backwards Pin=Pin(12), 
+Speed PWM=PWM(Pin(16), freq=10000, duty=0, resolution=12, (duty=0.00%, resolution=0.024%), mode=0, channel=1, timer=0), 
+Default Speed=672
+
+stby value set to 1 (high)
+Created the ultrasonic sensor instance
+Created the mpu instance
+
+Car Status:
+
+Motor A Status: 
+Forward=0, 
+Backwards=0, 
+Speed=0, 
+Default speed=700
+
+
+Motor B Status: 
+Forward=0, 
+Backwards=0, 
+Speed=0, 
+Default speed=672
+Driving forward. Base Speed: A=700, B=672
+Correcting from left. Speed: A=700.0023, B=671.9977
+Correcting from left. Speed: A=704.9786, B=667.0214
+
+
+
+
+
+Car Script Started - 2000-01-01 00:00:00
+-----------------------------------------
+Session started, logging enabled. 
+
+
+Motor Initialized: 
+Forward Pin=Pin(11), 
+Backwards Pin=Pin(10), 
+Speed PWM=PWM(Pin(17), freq=10000, duty=0, resolution=12, (duty=0.00%, resolution=0.024%), mode=0, channel=0, timer=0), 
+Default Speed=700
+
+
+Motor Initialized: 
+Forward Pin=Pin(13), 
+Backwards Pin=Pin(12), 
+Speed PWM=PWM(Pin(16), freq=10000, duty=0, resolution=12, (duty=0.00%, resolution=0.024%), mode=0, channel=1, timer=0), 
+Default Speed=672
+
+stby value set to 1 (high)
+Created the ultrasonic sensor instance
+Created the mpu instance
+
+Car Status:
+
+Motor A Status: 
+Forward=0, 
+Backwards=0, 
+Speed=0, 
+Default speed=700
+
+
+Motor B Status: 
+Forward=0, 
+Backwards=0, 
+Speed=0, 
+Default speed=672
+Driving forward. Base Speed: A=700, B=672
+Correcting from left. Speed: A=700.0568, B=671.9432
+Correcting from left. Speed: A=742.1862, B=629.8138
+Correcting from left. Speed: A=846.0364, B=525.9636
+Correcting from left. Speed: A=1096.659, B=275.3409
+Correcting from left. Speed: A=1388.375, B=-213.0344
+Correcting from left. Speed: A=1709.281, B=-609.2815
+Correcting from left. Speed: A=2063.834, B=-963.8341
+Correcting from left. Speed: A=2428.61, B=-1328.61
+Correcting from left. Speed: A=2805.19, B=-1705.19
+Correcting from left. Speed: A=3171.309, B=-2071.309
+Correcting from left. Speed: A=3543.718, B=-2443.718
+Correcting from left. Speed: A=3916.464, B=-2816.464
+Correcting from left. Speed: A=4308.528, B=-3208.528
+Correcting from left. Speed: A=4693.818, B=-3593.818
+Correcting from left. Speed: A=5073.817, B=-3973.817
+Correcting from left. Speed: A=5459.73, B=-4359.73
+Correcting from left. Speed: A=5857.958, B=-4757.958
+Correcting from left. Speed: A=6246.506, B=-5146.506
+Correcting from left. Speed: A=6632.809, B=-5532.809
+Correcting from left. Speed: A=7021.356, B=-5921.356
+Correcting from left. Speed: A=7413.259, B=-6313.259
+Correcting from left. Speed: A=7805.09, B=-6705.09
+Correcting from left. Speed: A=8165.256, B=-7065.256
+Correcting from left. Speed: A=8220.459, B=-7120.459
+Correcting from left. Speed: A=8154.549, B=-7054.549
+Correcting from left. Speed: A=8116.941, B=-7016.941
+Correcting from left. Speed: A=8092.336, B=-6992.336
+Correcting from left. Speed: A=8061.359, B=-6961.359
+Correcting from left. Speed: A=7970.48, B=-6870.48
+Correcting from left. Speed: A=7942.507, B=-6842.507
+Correcting from left. Speed: A=7945.193, B=-6845.193
+Correcting from left. Speed: A=7980.45, B=-6880.45
+Correcting from left. Speed: A=7977.557, B=-6877.557
+Correcting from left. Speed: A=7976.467, B=-6876.467
+Correcting from left. Speed: A=7951.395, B=-6851.395
+
+
+
+
+
+Car Script Started - 2000-01-01 00:00:00
+-----------------------------------------
+Session started, logging enabled. 
+
+
+Motor Initialized: 
+Forward Pin=Pin(11), 
+Backwards Pin=Pin(10), 
+Speed PWM=PWM(Pin(17), freq=10000, duty=0, resolution=12, (duty=0.00%, resolution=0.024%), mode=0, channel=0, timer=0), 
+Default Speed=700
+
+
+Motor Initialized: 
+Forward Pin=Pin(13), 
+Backwards Pin=Pin(12), 
+Speed PWM=PWM(Pin(16), freq=10000, duty=0, resolution=12, (duty=0.00%, resolution=0.024%), mode=0, channel=1, timer=0), 
+Default Speed=672
+
+stby value set to 1 (high)
+Created the ultrasonic sensor instance
+Created the mpu instance
+
+Car Status:
+
+Motor A Status: 
+Forward=0, 
+Backwards=0, 
+Speed=0, 
+Default speed=700
+
+
+
+
+
+Car Script Started - 2024-02-21 22:07:21
+-----------------------------------------
+Session started, logging enabled. 
+
+
+Motor Initialized: 
+Forward Pin=Pin(11), 
+Backwards Pin=Pin(10), 
+Speed PWM=PWM(Pin(17), freq=10000, duty=0, resolution=12, (duty=0.00%, resolution=0.024%), mode=0, channel=0, timer=0), 
+Default Speed=700
+
+
+Motor Initialized: 
+Forward Pin=Pin(13), 
+Backwards Pin=Pin(12), 
+Speed PWM=PWM(Pin(16), freq=10000, duty=0, resolution=12, (duty=0.00%, resolution=0.024%), mode=0, channel=1, timer=0), 
+Default Speed=672
+
+stby value set to 1 (high)
+Created the ultrasonic sensor instance
+Created the mpu instance
+
+Car Status:
+
+Motor A Status: 
+Forward=0, 
+Backwards=0, 
+Speed=0, 
+Default speed=700
+
+
+Motor B Status: 
+Forward=0, 
+Backwards=0, 
+Speed=0, 
+Default speed=672
+Driving forward. Base Speed: A=700, B=672
+Correcting from right. Speed: A=699.6519, B=672.3481
+Correcting from left. Speed: A=719.9418, B=652.0582
+Correcting from left. Speed: A=749.8914, B=622.1086
+Correcting from left. Speed: A=851.1707, B=520.8293
+Correcting from left. Speed: A=926.4827, B=445.5173
+Correcting from left. Speed: A=980.3448, B=365.1725
+Correcting from left. Speed: A=1037.213, B=227.9593
+Correcting from left. Speed: A=1044.542, B=83.41785
+Correcting from left. Speed: A=1045.079, B=54.92114
+Correcting from left. Speed: A=1046.246, B=53.75359
+Correcting from left. Speed: A=1041.801, B=58.19939
+Correcting from left. Speed: A=1056.127, B=43.87268
+Correcting from left. Speed: A=1066.338, B=33.66199
+Correcting from left. Speed: A=1064.273, B=35.72675
+Correcting from left. Speed: A=1079.321, B=20.6794
+Correcting from left. Speed: A=1081.898, B=18.10229
+Correcting from left. Speed: A=1081.787, B=18.21292
+Correcting from left. Speed: A=1085.488, B=14.51218
+Correcting from left. Speed: A=1083.767, B=16.23279
+Correcting from left. Speed: A=1088.396, B=11.60378
+Correcting from left. Speed: A=1104.396, B=-4.39624
+Correcting from left. Speed: A=1114.302, B=-14.30159
+Correcting from left. Speed: A=1132.511, B=-32.51112
+Correcting from left. Speed: A=1139.091, B=-39.09052
+Correcting from left. Speed: A=1128.974, B=-28.97412
+Correcting from left. Speed: A=1101.125, B=-1.125259
+Correcting from left. Speed: A=1106.692, B=-6.692429
+Correcting from left. Speed: A=1103.189, B=-3.188599
+Correcting from left. Speed: A=1110.42, B=-10.42021
+Correcting from left. Speed: A=1127.81, B=-27.80952
+Correcting from left. Speed: A=1119.738, B=-19.73778
+Correcting from left. Speed: A=1136.263, B=-36.26343
+Correcting from left. Speed: A=1129.866, B=-29.86572
+Correcting from left. Speed: A=1362.544, B=-262.5439
+Correcting from left. Speed: A=1410.47, B=-310.4702
+Correcting from left. Speed: A=1448.869, B=-348.8694
+Correcting from left. Speed: A=1496.762, B=-396.7625
+Correcting from left. Speed: A=1520.991, B=-420.9907
+Correcting from left. Speed: A=1552.668, B=-452.6678
+Correcting from left. Speed: A=1578.474, B=-478.4745
+Correcting from left. Speed: A=1615.784, B=-515.7837
+Correcting from left. Speed: A=1647.396, B=-547.3959
+Correcting from left. Speed: A=1680.267, B=-580.2668
+Correcting from left. Speed: A=1730.131, B=-630.131
+Correcting from left. Speed: A=1767.765, B=-667.7646
+Correcting from left. Speed: A=1796.978, B=-696.9781
+Correcting from left. Speed: A=1849.6, B=-749.6003
+Correcting from left. Speed: A=1891.594, B=-791.5942
+Correcting from left. Speed: A=1941.276, B=-841.2755
+Correcting from left. Speed: A=2007.731, B=-907.7313
+Correcting from left. Speed: A=2047.078, B=-947.0779
+Correcting from left. Speed: A=2070.522, B=-970.5219
+Correcting from left. Speed: A=2081.552, B=-981.5522
+Correcting from left. Speed: A=2067.667, B=-967.6667
+Correcting from left. Speed: A=2083.161, B=-983.1614
+Correcting from left. Speed: A=2057.765, B=-957.765
+Correcting from left. Speed: A=2086.208, B=-986.2079
+Correcting from left. Speed: A=2087.755, B=-987.7552
+Correcting from left. Speed: A=2052.415, B=-952.4148
+Correcting from left. Speed: A=2090.544, B=-990.5446
+Correcting from left. Speed: A=2100.354, B=-1000.355
+Correcting from left. Speed: A=2110.866, B=-1010.866
+Correcting from left. Speed: A=2128.207, B=-1028.207
+Correcting from left. Speed: A=2131.826, B=-1031.826
+Correcting from left. Speed: A=2143.56, B=-1043.56
+Correcting from left. Speed: A=2135.438, B=-1035.438
+Correcting from left. Speed: A=2174.294, B=-1074.294
+Correcting from left. Speed: A=2208.849, B=-1108.849
+Correcting from left. Speed: A=2250.591, B=-1150.591
+Correcting from left. Speed: A=2322.297, B=-1222.297
+Correcting from left. Speed: A=2387.515, B=-1287.515
+Correcting from left. Speed: A=2409.517, B=-1309.517
+Correcting from left. Speed: A=2437.118, B=-1337.118
+Correcting from left. Speed: A=2410.851, B=-1310.851
+Correcting from left. Speed: A=2409.875, B=-1309.874
+Correcting from left. Speed: A=2475.925, B=-1375.925
+Correcting from left. Speed: A=2523.845, B=-1423.845
+Correcting from left. Speed: A=2532.564, B=-1432.564
+Correcting from left. Speed: A=2561.572, B=-1461.572
+Correcting from left. Speed: A=2635.158, B=-1535.158
+Correcting from left. Speed: A=2771.596, B=-1671.596
+Correcting from left. Speed: A=2802.155, B=-1702.155
+Correcting from left. Speed: A=2887.71, B=-1787.711
+Correcting from left. Speed: A=2977.909, B=-1877.909
+Correcting from left. Speed: A=3057.146, B=-1957.146
+Correcting from left. Speed: A=3091.869, B=-1991.869
+Correcting from left. Speed: A=3128.095, B=-2028.095
+Correcting from left. Speed: A=3175.805, B=-2075.805
+Correcting from left. Speed: A=3189.35, B=-2089.35
+Correcting from left. Speed: A=3202.59, B=-2102.59
+Correcting from left. Speed: A=3187.115, B=-2087.115
+Correcting from left. Speed: A=3400.855, B=-2300.855
+Correcting from left. Speed: A=3394.521, B=-2294.521
+Correcting from left. Speed: A=3414.21, B=-2314.21
+Correcting from left. Speed: A=3354.436, B=-2254.436
+Correcting from left. Speed: A=3330.791, B=-2230.791
+Correcting from left. Speed: A=3332.351, B=-2232.351
+Correcting from left. Speed: A=3392.26, B=-2292.26
+Correcting from left. Speed: A=3396.119, B=-2296.119
+Correcting from left. Speed: A=3442.207, B=-2342.207
+Correcting from left. Speed: A=3406.506, B=-2306.506
+Correcting from left. Speed: A=3443.538, B=-2343.538
+Correcting from left. Speed: A=3623.76, B=-2523.76
+Correcting from left. Speed: A=3973.989, B=-2873.989
+Correcting from left. Speed: A=4340.816, B=-3240.816
+Correcting from left. Speed: A=4694.082, B=-3594.082
+Correcting from left. Speed: A=5060.101, B=-3960.101
+Correcting from left. Speed: A=5413.921, B=-4313.921
+Correcting from left. Speed: A=5378.755, B=-4278.755
+Correcting from left. Speed: A=5347.805, B=-4247.805
+Correcting from left. Speed: A=5358.169, B=-4258.169
+Correcting from left. Speed: A=5302.264, B=-4202.264
+Correcting from left. Speed: A=5278.127, B=-4178.127
+Correcting from left. Speed: A=5261.737, B=-4161.737
+Correcting from left. Speed: A=5236.518, B=-4136.518
+Correcting from left. Speed: A=5182.624, B=-4082.624
+Correcting from left. Speed: A=4932.05, B=-3832.05
+Correcting from left. Speed: A=4708.792, B=-3608.792
+Correcting from left. Speed: A=4490.491, B=-3390.491
+Correcting from left. Speed: A=4351.766, B=-3251.766
+Correcting from left. Speed: A=4281.917, B=-3181.917
+Correcting from left. Speed: A=4166.122, B=-3066.122
+Correcting from left. Speed: A=4143.866, B=-3043.866
+Correcting from left. Speed: A=4122.104, B=-3022.103
+Correcting from left. Speed: A=4133.679, B=-3033.679
+Correcting from left. Speed: A=4214.414, B=-3114.414
+Correcting from left. Speed: A=4164.466, B=-3064.466
+Correcting from left. Speed: A=4168.826, B=-3068.826
+Correcting from left. Speed: A=4202.308, B=-3102.308
+Correcting from left. Speed: A=4154.994, B=-3054.994
+Correcting from left. Speed: A=4147.78, B=-3047.78
+Correcting from left. Speed: A=4128.461, B=-3028.461
+Correcting from left. Speed: A=4105.884, B=-3005.884
+Correcting from left. Speed: A=4127.278, B=-3027.278
+Correcting from left. Speed: A=4124.114, B=-3024.114
+Correcting from left. Speed: A=4109.865, B=-3009.865
+Correcting from left. Speed: A=4060.015, B=-2960.015
+Correcting from left. Speed: A=4006.751, B=-2906.751
+Correcting from left. Speed: A=4005.267, B=-2905.267
+Correcting from left. Speed: A=4029.148, B=-2929.148
+Correcting from left. Speed: A=4005.327, B=-2905.327
+Correcting from left. Speed: A=3995.091, B=-2895.091
+Correcting from left. Speed: A=3943.574, B=-2843.574
+Correcting from left. Speed: A=3942.848, B=-2842.848
+Correcting from left. Speed: A=3949.307, B=-2849.307
+Correcting from left. Speed: A=3961.041, B=-2861.041
+Correcting from left. Speed: A=4035.764, B=-2935.764
+Correcting from left. Speed: A=4159.235, B=-3059.236
+Correcting from left. Speed: A=4239.397, B=-3139.397
+Correcting from left. Speed: A=4833.373, B=-3733.373
+Correcting from left. Speed: A=4855.519, B=-3755.519
+Correcting from left. Speed: A=4939.453, B=-3839.453
+Correcting from left. Speed: A=4973.726, B=-3873.725
+Correcting from left. Speed: A=5031.856, B=-3931.856
+Correcting from left. Speed: A=5071.865, B=-3971.865
+Correcting from left. Speed: A=5115.84, B=-4015.84
+Correcting from left. Speed: A=5112.297, B=-4012.297
+Correcting from left. Speed: A=5113.472, B=-4013.472
+Correcting from left. Speed: A=5113.588, B=-4013.588
+Correcting from left. Speed: A=5103.116, B=-4003.116
+Correcting from left. Speed: A=5091.875, B=-3991.875
+Correcting from left. Speed: A=5089.591, B=-3989.591
+Correcting from left. Speed: A=5087.441, B=-3987.441
+Correcting from left. Speed: A=5089.505, B=-3989.505
+Correcting from left. Speed: A=5090.734, B=-3990.734
+Correcting from left. Speed: A=5099.04, B=-3999.04
+Correcting from left. Speed: A=5107.821, B=-4007.821
+Correcting from left. Speed: A=5133.104, B=-4033.104
+Correcting from left. Speed: A=5183.174, B=-4083.174
+Correcting from left. Speed: A=5221.745, B=-4121.745
+Correcting from left. Speed: A=5296.261, B=-4196.261
+Correcting from left. Speed: A=5392.959, B=-4292.959
+Correcting from left. Speed: A=5463.615, B=-4363.615
+Correcting from left. Speed: A=5552.571, B=-4452.571
+Correcting from left. Speed: A=5596.125, B=-4496.125
+Correcting from left. Speed: A=5662.788, B=-4562.788
+Correcting from left. Speed: A=5737.462, B=-4637.462
+Correcting from left. Speed: A=5812.906, B=-4712.906
+Correcting from left. Speed: A=5836.76, B=-4736.76
+Correcting from left. Speed: A=5921.542, B=-4821.542
+Correcting from left. Speed: A=5971.517, B=-4871.517
+Correcting from left. Speed: A=6038.089, B=-4938.089
+Correcting from left. Speed: A=6063.831, B=-4963.831
+Correcting from left. Speed: A=6110.535, B=-5010.535
+Correcting from left. Speed: A=6159.602, B=-5059.602
+Correcting from left. Speed: A=6170.044, B=-5070.044
+Correcting from left. Speed: A=6193.845, B=-5093.845
+Correcting from left. Speed: A=6202.993, B=-5102.993
+Correcting from left. Speed: A=6210.016, B=-5110.016
+Correcting from left. Speed: A=6222.436, B=-5122.436
+Correcting from left. Speed: A=6221.644, B=-5121.644
+Correcting from left. Speed: A=6227.4, B=-5127.4
+Correcting from left. Speed: A=6260.206, B=-5160.206
+Correcting from left. Speed: A=6291.52, B=-5191.52
+Correcting from left. Speed: A=6438.541, B=-5338.541
+Correcting from left. Speed: A=6478.458, B=-5378.458
+Correcting from left. Speed: A=6513.964, B=-5413.964
+Correcting from left. Speed: A=6548.817, B=-5448.817
+Correcting from left. Speed: A=6541.809, B=-5441.809
+Correcting from left. Speed: A=6557.032, B=-5457.032
+Correcting from left. Speed: A=6565.947, B=-5465.947
+Correcting from left. Speed: A=6621.087, B=-5521.087
+Correcting from left. Speed: A=6620.256, B=-5520.256
+Correcting from left. Speed: A=6607.556, B=-5507.556
+Correcting from left. Speed: A=6622.821, B=-5522.821
+Correcting from left. Speed: A=6644.957, B=-5544.957
+Correcting from left. Speed: A=6657.983, B=-5557.983
+Correcting from left. Speed: A=6789.17, B=-5689.17
+Correcting from left. Speed: A=6835.494, B=-5735.494
+Correcting from left. Speed: A=6864.551, B=-5764.551
+Correcting from left. Speed: A=6880.461, B=-5780.461
+Correcting from left. Speed: A=6897.812, B=-5797.812
+Correcting from left. Speed: A=6948.877, B=-5848.877
+Correcting from left. Speed: A=6960.504, B=-5860.504
+Correcting from left. Speed: A=6932.749, B=-5832.749
+Correcting from left. Speed: A=6939.781, B=-5839.781
+Correcting from left. Speed: A=6930.313, B=-5830.313
+Correcting from left. Speed: A=6933.227, B=-5833.227
+Correcting from left. Speed: A=6959.368, B=-5859.368
+Correcting from left. Speed: A=6994.177, B=-5894.177
+Correcting from left. Speed: A=7000.937, B=-5900.937
+Correcting from left. Speed: A=7029.324, B=-5929.324
+Correcting from left. Speed: A=7027.54, B=-5927.54
+Correcting from left. Speed: A=7038.78, B=-5938.78
+Correcting from left. Speed: A=7058.853, B=-5958.853
+Correcting from left. Speed: A=7081.161, B=-5981.161
+Correcting from left. Speed: A=7091.807, B=-5991.807
+Correcting from left. Speed: A=7111.677, B=-6011.677
+Correcting from left. Speed: A=7205.996, B=-6105.996
+Correcting from left. Speed: A=7258.34, B=-6158.34
+Correcting from left. Speed: A=7331.86, B=-6231.86
+Correcting from left. Speed: A=7352.812, B=-6252.812
+Correcting from left. Speed: A=7381.05, B=-6281.05
+Correcting from left. Speed: A=7403.487, B=-6303.487
+Correcting from left. Speed: A=7460.0, B=-6360.0
+Correcting from left. Speed: A=7505.194, B=-6405.194
+Correcting from left. Speed: A=7549.199, B=-6449.199
+Correcting from left. Speed: A=7598.844, B=-6498.844
+Correcting from left. Speed: A=7691.748, B=-6591.748
+Correcting from left. Speed: A=7706.745, B=-6606.745
+Correcting from left. Speed: A=7720.657, B=-6620.657
+Correcting from left. Speed: A=7732.81, B=-6632.81
+Correcting from left. Speed: A=7703.559, B=-6603.559
+Correcting from left. Speed: A=7702.228, B=-6602.228
+Correcting from left. Speed: A=7701.397, B=-6601.397
+Correcting from left. Speed: A=7710.086, B=-6610.086
+Correcting from left. Speed: A=7718.147, B=-6618.147
+Correcting from left. Speed: A=7690.458, B=-6590.458
+Correcting from left. Speed: A=7706.423, B=-6606.423
+Correcting from left. Speed: A=7708.842, B=-6608.842
+Correcting from left. Speed: A=7693.672, B=-6593.672
+Correcting from left. Speed: A=7689.432, B=-6589.432
+Correcting from left. Speed: A=7688.895, B=-6588.895
+Correcting from left. Speed: A=7663.771, B=-6563.771
+Correcting from left. Speed: A=7658.262, B=-6558.262
+Correcting from left. Speed: A=7640.198, B=-6540.198
+Correcting from left. Speed: A=7650.139, B=-6550.139
+Correcting from left. Speed: A=7646.223, B=-6546.223
+Correcting from left. Speed: A=7640.694, B=-6540.694
+Correcting from left. Speed: A=7614.585, B=-6514.585
+Correcting from left. Speed: A=7600.853, B=-6500.853
+Correcting from left. Speed: A=7605.512, B=-6505.512
+Correcting from left. Speed: A=7647.155, B=-6547.155
+Correcting from left. Speed: A=7664.634, B=-6564.634
+Correcting from left. Speed: A=7645.635, B=-6545.635
+Correcting from left. Speed: A=7986.469, B=-6886.469
+Correcting from left. Speed: A=7966.524, B=-6866.524
+Correcting from left. Speed: A=7899.419, B=-6799.419
+Correcting from left. Speed: A=7619.011, B=-6519.011
+Correcting from left. Speed: A=7256.739, B=-6156.739
+Correcting from left. Speed: A=7029.029, B=-5929.029
+Correcting from left. Speed: A=6817.866, B=-5717.866
+Correcting from left. Speed: A=6576.299, B=-5476.299
+Correcting from left. Speed: A=6378.424, B=-5278.424
+Correcting from left. Speed: A=6245.863, B=-5145.863
+Correcting from left. Speed: A=6088.765, B=-4988.765
+Correcting from left. Speed: A=5950.17, B=-4850.17
+Correcting from left. Speed: A=5820.706, B=-4720.706
+Correcting from left. Speed: A=5803.122, B=-4703.122
+Correcting from left. Speed: A=5754.536, B=-4654.536
+Correcting from left. Speed: A=5677.141, B=-4577.141
+Correcting from left. Speed: A=5613.74, B=-4513.74
+Correcting from left. Speed: A=5547.336, B=-4447.336
+Correcting from left. Speed: A=5432.061, B=-4332.061
+Correcting from left. Speed: A=5343.259, B=-4243.259
+Correcting from left. Speed: A=5207.804, B=-4107.804
+Correcting from left. Speed: A=5072.868, B=-3972.868
+Correcting from left. Speed: A=4993.007, B=-3893.007
+Correcting from left. Speed: A=4929.994, B=-3829.994
+Correcting from left. Speed: A=4876.923, B=-3776.923
+Correcting from left. Speed: A=4752.572, B=-3652.572
+Correcting from left. Speed: A=4668.824, B=-3568.824
+Correcting from left. Speed: A=4611.885, B=-3511.885
+Correcting from left. Speed: A=4484.827, B=-3384.827
+Correcting from left. Speed: A=4368.335, B=-3268.335
+Correcting from left. Speed: A=4261.006, B=-3161.006
+Correcting from left. Speed: A=4364.39, B=-3264.389
+Correcting from left. Speed: A=4356.122, B=-3256.122
+Correcting from left. Speed: A=4350.553, B=-3250.553
+Correcting from left. Speed: A=4351.559, B=-3251.559
+Correcting from left. Speed: A=4351.269, B=-3251.269
+Correcting from left. Speed: A=4352.298, B=-3252.298
+Correcting from left. Speed: A=4355.929, B=-3255.929
+Correcting from left. Speed: A=4354.624, B=-3254.624
+Correcting from left. Speed: A=4357.017, B=-3257.017
+Correcting from left. Speed: A=4369.476, B=-3269.475
+Correcting from left. Speed: A=4383.778, B=-3283.778
+Correcting from left. Speed: A=4397.166, B=-3297.166
+Correcting from left. Speed: A=4407.129, B=-3307.129
+Correcting from left. Speed: A=4409.769, B=-3309.768
+Correcting from left. Speed: A=4419.123, B=-3319.123
+Correcting from left. Speed: A=4434.87, B=-3334.87
+Correcting from left. Speed: A=4463.587, B=-3363.587
+Correcting from left. Speed: A=4582.736, B=-3482.736
+Correcting from left. Speed: A=4654.36, B=-3554.36
+Correcting from left. Speed: A=4827.031, B=-3727.031
+Correcting from left. Speed: A=4967.542, B=-3867.542
+Correcting from left. Speed: A=5085.905, B=-3985.905
+Correcting from left. Speed: A=5256.958, B=-4156.958
+Correcting from left. Speed: A=5386.693, B=-4286.693
+Correcting from left. Speed: A=5488.409, B=-4388.409
+Correcting from left. Speed: A=5609.521, B=-4509.521
+Correcting from left. Speed: A=5727.139, B=-4627.139
+Correcting from left. Speed: A=5647.118, B=-4547.118
+Correcting from left. Speed: A=5641.083, B=-4541.083
+Correcting from left. Speed: A=5645.7, B=-4545.7
+Correcting from left. Speed: A=5655.852, B=-4555.852
+Correcting from left. Speed: A=5653.397, B=-4553.397
+Correcting from left. Speed: A=5653.63, B=-4553.63
+Correcting from left. Speed: A=5648.562, B=-4548.562
+Correcting from left. Speed: A=5636.678, B=-4536.678
+Correcting from left. Speed: A=5663.863, B=-4563.863
+Correcting from left. Speed: A=5657.0, B=-4557.0
+Correcting from left. Speed: A=5658.306, B=-4558.306
+Correcting from left. Speed: A=5666.75, B=-4566.75
+Correcting from left. Speed: A=5664.148, B=-4564.148
+Correcting from left. Speed: A=5664.869, B=-4564.869
+Correcting from left. Speed: A=5668.349, B=-4568.349
+Correcting from left. Speed: A=5671.9, B=-4571.9
+Correcting from left. Speed: A=5674.651, B=-4574.651
+Correcting from left. Speed: A=5679.533, B=-4579.533
+Correcting from left. Speed: A=5683.517, B=-4583.517
+
+
+
+
+
+Car Script Started - 2000-01-01 00:00:00
+-----------------------------------------
+Session started, logging enabled. 
+
+
+Motor Initialized: 
+Forward Pin=Pin(11), 
+Backwards Pin=Pin(10), 
+Speed PWM=PWM(Pin(17), freq=10000, duty=0, resolution=12, (duty=0.00%, resolution=0.024%), mode=0, channel=0, timer=0), 
+Default Speed=700
+
+
+Motor Initialized: 
+Forward Pin=Pin(13), 
+Backwards Pin=Pin(12), 
+Speed PWM=PWM(Pin(16), freq=10000, duty=0, resolution=12, (duty=0.00%, resolution=0.024%), mode=0, channel=1, timer=0), 
+Default Speed=672
+
+stby value set to 1 (high)
+Created the ultrasonic sensor instance
+Created the mpu instance
+
+Car Status:
+
+Motor A Status: 
+Forward=0, 
+Backwards=0, 
+Speed=0, 
+Default speed=700
+
+
+Motor B Status: 
+Forward=0, 
+Backwards=0, 
+Speed=0, 
+Default speed=672
+Driving forward. Base Speed: A=700, B=672
+Correcting from left. Speed: A=700.0172, B=671.9828
+Correcting from right. Speed: A=696.3099, B=675.6901
+Correcting from left. Speed: A=748.7416, B=623.2584
+Correcting from left. Speed: A=825.1655, B=546.8345
+Correcting from left. Speed: A=893.9848, B=478.0152
+Correcting from left. Speed: A=970.3828, B=401.6172
+Correcting from left. Speed: A=986.9321, B=314.6852
+Correcting from left. Speed: A=980.3367, B=234.3485
+Correcting from left. Speed: A=980.7764, B=153.5722
+Correcting from left. Speed: A=974.0614, B=125.9386
+Correcting from left. Speed: A=980.2996, B=119.7005
+
+
+
+
+
+Car Script Started - 2000-01-01 00:00:00
+-----------------------------------------
+Session started, logging enabled. 
+
+
+Motor Initialized: 
+Forward Pin=Pin(11), 
+Backwards Pin=Pin(10), 
+Speed PWM=PWM(Pin(17), freq=10000, duty=0, resolution=12, (duty=0.00%, resolution=0.024%), mode=0, channel=0, timer=0), 
+Default Speed=700
+
+
+Motor Initialized: 
+Forward Pin=Pin(13), 
+Backwards Pin=Pin(12), 
+Speed PWM=PWM(Pin(16), freq=10000, duty=0, resolution=12, (duty=0.00%, resolution=0.024%), mode=0, channel=1, timer=0), 
+Default Speed=672
+
+stby value set to 1 (high)
+Created the ultrasonic sensor instance
+
+
+
+
+
+Car Script Started - 2024-02-22 11:18:43
+-----------------------------------------
+Session started, logging enabled. 
+
+
+Motor Initialized: 
+Forward Pin=Pin(11), 
+Backwards Pin=Pin(10), 
+Speed PWM=PWM(Pin(17), freq=10000, duty=0, resolution=12, (duty=0.00%, resolution=0.024%), mode=0, channel=0, timer=0), 
+Default Speed=700
+
+
+Motor Initialized: 
+Forward Pin=Pin(13), 
+Backwards Pin=Pin(12), 
+Speed PWM=PWM(Pin(16), freq=10000, duty=0, resolution=12, (duty=0.00%, resolution=0.024%), mode=0, channel=1, timer=0), 
+Default Speed=672
+
+stby value set to 1 (high)
+Created the ultrasonic sensor instance
+
+
+
+
+
+Car Script Started - 2024-02-22 11:20:10
+-----------------------------------------
+Session started, logging enabled. 
+
+
+Motor Initialized: 
+Forward Pin=Pin(11), 
+Backwards Pin=Pin(10), 
+Speed PWM=PWM(Pin(17), freq=10000, duty=0, resolution=12, (duty=0.00%, resolution=0.024%), mode=0, channel=0, timer=0), 
+Default Speed=700
+
+
+Motor Initialized: 
+Forward Pin=Pin(13), 
+Backwards Pin=Pin(12), 
+Speed PWM=PWM(Pin(16), freq=10000, duty=0, resolution=12, (duty=0.00%, resolution=0.024%), mode=0, channel=1, timer=0), 
+Default Speed=672
+
+stby value set to 1 (high)
+Created the ultrasonic sensor instance
+Created the mpu instance
+
+Car Status:
+
+Motor A Status: 
+Forward=0, 
+Backwards=0, 
+Speed=0, 
+Default speed=700
+
+
+Motor B Status: 
+Forward=0, 
+Backwards=0, 
+Speed=0, 
+Default speed=672
+
+
+
+
+
+Car Script Started - 2024-02-22 11:20:51
+-----------------------------------------
+Session started, logging enabled. 
+
+
+Motor Initialized: 
+Forward Pin=Pin(11), 
+Backwards Pin=Pin(10), 
+Speed PWM=PWM(Pin(17), freq=10000, duty=0, resolution=12, (duty=0.00%, resolution=0.024%), mode=0, channel=0, timer=0), 
+Default Speed=700
+
+
+Motor Initialized: 
+Forward Pin=Pin(13), 
+Backwards Pin=Pin(12), 
+Speed PWM=PWM(Pin(16), freq=10000, duty=0, resolution=12, (duty=0.00%, resolution=0.024%), mode=0, channel=1, timer=0), 
+Default Speed=672
+
+stby value set to 1 (high)
+Created the ultrasonic sensor instance
+Created the mpu instance
+
+Car Status:
+
+Motor A Status: 
+Forward=0, 
+Backwards=0, 
+Speed=0, 
+Default speed=700
+
+
+Motor B Status: 
+Forward=0, 
+Backwards=0, 
+Speed=0, 
+Default speed=672
+Started driving in direction: forward and with speed: Motor A: 700 Motor B: 672
+
+Measured Distance: 35.31185
+
+stop_car method called
+
+Turning right.
+
+stop_car method called
+
+Completed 90° turn to the right.
+Measured distance to the right: 33.6483
+
+Turning right.
+
+stop_car method called
+
+Completed 180° turn to the right.
+Measured distance to the left: 33.6826
+Comparing distances and choosing direction
+Both ways less then 50cm
+
+Turning left.
+
+stop_car method called
+
+Completed 90° turn to the left.
+
+Measured Distance: 32.70505
+
+stop_car method called
+
+
+
+
+
+Car Script Started - 2024-02-22 11:21:48
+-----------------------------------------
+Session started, logging enabled. 
+
+
+Motor Initialized: 
+Forward Pin=Pin(11), 
+Backwards Pin=Pin(10), 
+Speed PWM=PWM(Pin(17), freq=10000, duty=0, resolution=12, (duty=0.00%, resolution=0.024%), mode=0, channel=0, timer=0), 
+Default Speed=700
+
+
+Motor Initialized: 
+Forward Pin=Pin(13), 
+Backwards Pin=Pin(12), 
+Speed PWM=PWM(Pin(16), freq=10000, duty=0, resolution=12, (duty=0.00%, resolution=0.024%), mode=0, channel=1, timer=0), 
+Default Speed=672
+
+stby value set to 1 (high)
+Created the ultrasonic sensor instance
+Created the mpu instance
+
+Car Status:
+
+Motor A Status: 
+Forward=0, 
+Backwards=0, 
+Speed=0, 
+Default speed=700
+
+
+Motor B Status: 
+Forward=0, 
+Backwards=0, 
+Speed=0, 
+Default speed=672
+Started driving in direction: forward and with speed: Motor A: 700 Motor B: 672
+
+Measured Distance: 34.48865
+
+stop_car method called
+
+Turning right.
+
+stop_car method called
+
+Completed 90° turn to the right.
+Measured distance to the right: 36.58095
+
+Turning right.
+
+stop_car method called
+
+Completed 180° turn to the right.
+Measured distance to the left: 454.6808
+
+
+
+
+
+Car Script Started - 2024-02-22 11:22:00
+-----------------------------------------
+Session started, logging enabled. 
+
+
+Motor Initialized: 
+Forward Pin=Pin(11), 
+Backwards Pin=Pin(10), 
+Speed PWM=PWM(Pin(17), freq=10000, duty=0, resolution=12, (duty=0.00%, resolution=0.024%), mode=0, channel=0, timer=0), 
+Default Speed=700
+
+
+Motor Initialized: 
+Forward Pin=Pin(13), 
+Backwards Pin=Pin(12), 
+Speed PWM=PWM(Pin(16), freq=10000, duty=0, resolution=12, (duty=0.00%, resolution=0.024%), mode=0, channel=1, timer=0), 
+Default Speed=672
+
+stby value set to 1 (high)
+Created the ultrasonic sensor instance
+Created the mpu instance
+
+Car Status:
+
+Motor A Status: 
+Forward=0, 
+Backwards=0, 
+Speed=0, 
+Default speed=700
+
+
+Motor B Status: 
+Forward=0, 
+Backwards=0, 
+Speed=0, 
+Default speed=672
+Started driving in direction: forward and with speed: Motor A: 700 Motor B: 672
+
+Measured Distance: 1211.013
+
+Measured Distance: 455.7784
+
+Measured Distance: 455.3325
+
+Measured Distance: 456.1557
+
+Measured Distance: 1211.116
+
+Measured Distance: 1211.236
+
+Measured Distance: 456.0871
+
+Measured Distance: 1211.202
+
+Measured Distance: 1211.304
+
+Measured Distance: 1211.219
+
+Measured Distance: 31.02435
+
+stop_car method called
+
+Turning right.
+
+stop_car method called
+
+Completed 90° turn to the right.
+Measured distance to the right: 32.3792
+
+Turning right.
+
+
+
+
+
+Car Script Started - 2024-02-22 11:23:31
+-----------------------------------------
+Session started, logging enabled. 
+
+
+Motor Initialized: 
+Forward Pin=Pin(11), 
+Backwards Pin=Pin(10), 
+Speed PWM=PWM(Pin(17), freq=10000, duty=0, resolution=12, (duty=0.00%, resolution=0.024%), mode=0, channel=0, timer=0), 
+Default Speed=700
+
+
+Motor Initialized: 
+Forward Pin=Pin(13), 
+Backwards Pin=Pin(12), 
+Speed PWM=PWM(Pin(16), freq=10000, duty=0, resolution=12, (duty=0.00%, resolution=0.024%), mode=0, channel=1, timer=0), 
+Default Speed=672
+
+stby value set to 1 (high)
+Created the ultrasonic sensor instance
+Created the mpu instance
+
+Car Status:
+
+Motor A Status: 
+Forward=0, 
+Backwards=0, 
+Speed=0, 
+Default speed=700
+
+
+Motor B Status: 
+Forward=0, 
+Backwards=0, 
+Speed=0, 
+Default speed=672
+Started driving in direction: forward and with speed: Motor A: 700 Motor B: 672
+
+Measured Distance: 195.4242
+
+Measured Distance: 195.2356
+
+Measured Distance: 196.4532
+
+Measured Distance: 195.287
+
+Measured Distance: 195.1498
+
+Measured Distance: 1211.167
+
+Measured Distance: 195.51
+
+Measured Distance: 1211.099
+
+Measured Distance: 195.6815
+
+Measured Distance: 195.9731
+
+Measured Distance: 195.4414
+
+Measured Distance: 1211.082
+
+Measured Distance: 4.30465
+
+stop_car method called
+
+Turning right.
+
+stop_car method called
+
+Completed 90° turn to the right.
+Measured distance to the right: 1211.099
+
+Turning right.
+
+
+
+
+
+Car Script Started - 2000-01-01 00:00:00
+-----------------------------------------
+Session started, logging enabled. 
+
+
+Motor Initialized: 
+Forward Pin=Pin(11), 
+Backwards Pin=Pin(10), 
+Speed PWM=PWM(Pin(17), freq=10000, duty=0, resolution=12, (duty=0.00%, resolution=0.024%), mode=0, channel=0, timer=0), 
+Default Speed=700
+
+
+Motor Initialized: 
+Forward Pin=Pin(13), 
+Backwards Pin=Pin(12), 
+Speed PWM=PWM(Pin(16), freq=10000, duty=0, resolution=12, (duty=0.00%, resolution=0.024%), mode=0, channel=1, timer=0), 
+Default Speed=672
+
+stby value set to 1 (high)
+Created the ultrasonic sensor instance
+Created the mpu instance
+
+Car Status:
+
+Motor A Status: 
+Forward=0, 
+Backwards=0, 
+Speed=0, 
+Default speed=700
+
+
+Motor B Status: 
+Forward=0, 
+Backwards=0, 
+Speed=0, 
+Default speed=672
+Started driving in direction: forward and with speed: Motor A: 700 Motor B: 672
+
+Measured Distance: 187.4666
+
+Measured Distance: 178.4972
+
+Measured Distance: 166.6465
+
+Measured Distance: 153.9556
+
+Measured Distance: 141.6418
+
+Measured Distance: 129.2596
+
+Measured Distance: 116.7057
+
+Measured Distance: 104.272
+
+Measured Distance: 93.1588
+
+Measured Distance: 80.9137
+
+Measured Distance: 68.61715
+
+Measured Distance: 57.3496
+
+Measured Distance: 47.334
+
+stop_car method called
+
+Turning right.
+
+stop_car method called
+
+Completed 90° turn to the right.
+Measured distance to the right: 339.5186
+
+Turning right.
+
+stop_car method called
+
+Completed 180° turn to the right.
+Measured distance to the left: 119.827
+Comparing distances and choosing direction
+Distance right is more then distance left and more then 50cm. Turning back to left direction
+
+Turning right.
+
+stop_car method called
+
+Completed 180° turn to the right.
+
+Measured Distance: 1211.082
+
+Measured Distance: 1211.15
+
+Measured Distance: 1211.133
+
+Measured Distance: 1211.133
+
+Measured Distance: 1211.236
+
+Measured Distance: 1211.236
+
+Measured Distance: 238.4707
+
+Measured Distance: 1211.15
+
+Measured Distance: 351.3864
+
+Measured Distance: 1211.253
+
+Measured Distance: 195.2699
+
+Measured Distance: 128.0076
+
+Measured Distance: 114.3734
+
+Measured Distance: 148.7591
+
+Measured Distance: 159.3921
+
+Measured Distance: 169.219
+
+Measured Distance: 188.7186
+
+Measured Distance: 225.1109
+
+Measured Distance: 156.1165
+
+Measured Distance: 134.6961
+
+Measured Distance: 118.4036
+
+Measured Distance: 112.7784
+
+
+
+
+
+Car Script Started - 2000-01-01 00:00:00
+-----------------------------------------
+Session started, logging enabled. 
+
+
+Motor Initialized: 
+Forward Pin=Pin(11), 
+Backwards Pin=Pin(10), 
+Speed PWM=PWM(Pin(17), freq=10000, duty=0, resolution=12, (duty=0.00%, resolution=0.024%), mode=0, channel=0, timer=0), 
+Default Speed=700
+
+
+Motor Initialized: 
+Forward Pin=Pin(13), 
+Backwards Pin=Pin(12), 
+Speed PWM=PWM(Pin(16), freq=10000, duty=0, resolution=12, (duty=0.00%, resolution=0.024%), mode=0, channel=1, timer=0), 
+Default Speed=672
+
+stby value set to 1 (high)
+Created the ultrasonic sensor instance
+Created the mpu instance
+
+Car Status:
+
+Motor A Status: 
+Forward=0, 
+Backwards=0, 
+Speed=0, 
+Default speed=700
+
+
+Motor B Status: 
+Forward=0, 
+Backwards=0, 
+Speed=0, 
+Default speed=672
+Started driving in direction: forward and with speed: Motor A: 700 Motor B: 672
+
+Measured Distance: 1211.013
+
+Measured Distance: 1211.407
+
+Measured Distance: 1211.219
+
+Measured Distance: 1211.304
+
+Measured Distance: 1211.407
+
+
+
+
+
+Car Script Started - 2000-01-01 00:00:00
+-----------------------------------------
+Session started, logging enabled. 
+
+
+Motor Initialized: 
+Forward Pin=Pin(11), 
+Backwards Pin=Pin(10), 
+Speed PWM=PWM(Pin(17), freq=10000, duty=0, resolution=12, (duty=0.00%, resolution=0.024%), mode=0, channel=0, timer=0), 
+Default Speed=650
+
+
+Motor Initialized: 
+Forward Pin=Pin(13), 
+Backwards Pin=Pin(12), 
+Speed PWM=PWM(Pin(16), freq=10000, duty=0, resolution=12, (duty=0.00%, resolution=0.024%), mode=0, channel=1, timer=0), 
+Default Speed=672
+
+stby value set to 1 (high)
+Created the ultrasonic sensor instance
+Created the mpu instance
+
+Car Status:
+
+Motor A Status: 
+Forward=0, 
+Backwards=0, 
+Speed=0, 
+Default speed=650
+
+
+Motor B Status: 
+Forward=0, 
+Backwards=0, 
+Speed=0, 
+Default speed=672
+Started driving in direction: forward and with speed: Motor A: 650 Motor B: 672
+
+Measured Distance: 219.8801
+
+Measured Distance: 210.2762
+
+Measured Distance: 197.9796
+
+Measured Distance: 186.0947
+
+Measured Distance: 174.1411
+
+Measured Distance: 162.1704
+
+Measured Distance: 150.3197
+
+Measured Distance: 138.4005
+
+Measured Distance: 126.7042
+
+Measured Distance: 114.4419
+
+Measured Distance: 102.4712
+
+Measured Distance: 90.98075
+
+Measured Distance: 79.1644
+
+Measured Distance: 68.1541
+
+Measured Distance: 56.6979
+
+Measured Distance: 49.0147
+
+stop_car method called
+
+Turning right.
+
+stop_car method called
+
+Completed 90° turn to the right.
+Measured distance to the right: 1211.184
+
+Turning right.
+
+stop_car method called
+
+Completed 180° turn to the right.
+Measured distance to the left: 46.25355
+Comparing distances and choosing direction
+Distance right is more then distance left and more then 50cm. Turning back to left direction
+
+Turning right.
+
+stop_car method called
+
+Completed 180° turn to the right.
+
+Measured Distance: 1211.373
+
+Measured Distance: 1211.407
+
+Measured Distance: 1211.339
+
+Measured Distance: 1211.407
+
+Measured Distance: 1211.493
+
+Measured Distance: 1211.442
+
+Measured Distance: 228.1122
+
+Measured Distance: 82.9031
+
+Measured Distance: 90.86069
+
+Measured Distance: 100.5504
+
+Measured Distance: 186.6434
+
+Measured Distance: 306.0589
+
+Measured Distance: 280.0252
+
+Measured Distance: 255.5007
+
+Measured Distance: 81.89125
+
+Measured Distance: 212.3685
+
+Measured Distance: 203.5876
+
+Measured Distance: 336.02
+
+Measured Distance: 5.33365
+
+stop_car method called
+
+Turning right.
+
+stop_car method called
+
+Completed 90° turn to the right.
+Measured distance to the right: 8.4035
+
+Turning right.
+
+stop_car method called
+
+Completed 180° turn to the right.
+Measured distance to the left: 23.0839
+Comparing distances and choosing direction
+Both ways less then 50cm
+
+Turning left.
+
+stop_car method called
+
+Completed 90° turn to the left.
+
+Measured Distance: 152.9951
+
+Measured Distance: 142.2592
+
+Measured Distance: 124.3204
+
+Measured Distance: 110.4288
+
+Measured Distance: 96.94895
+
+Measured Distance: 85.66425
+
+Measured Distance: 79.0272
+
+Measured Distance: 65.9246
+
+Measured Distance: 53.9196
+
+Measured Distance: 40.69695
+
+stop_car method called
+
+Turning right.
+
+stop_car method called
+
+Completed 90° turn to the right.
+Measured distance to the right: 87.7051
+
+Turning right.
+
+stop_car method called
+
+Completed 180° turn to the right.
+Measured distance to the left: 152.172
+Comparing distances and choosing direction
+Distance left is more then distance right and more then 50cm. Continue to the left direction
+
+Measured Distance: 153.5954
+
+Measured Distance: 113.6359
+
+Measured Distance: 102.2998
+
+Measured Distance: 86.93335
+
+Measured Distance: 75.30565
+
+Measured Distance: 65.90745
+
+Measured Distance: 54.6399
+
+Measured Distance: 41.79455
+
+stop_car method called
+
+Turning right.
+
+stop_car method called
+
+Completed 90° turn to the right.
+Measured distance to the right: 1211.287
+
+Turning right.
+
+stop_car method called
+
+
+
+
+
+Car Script Started - 2000-01-01 00:00:00
+-----------------------------------------
+Session started, logging enabled. 
+
+
+Motor Initialized: 
+Forward Pin=Pin(11), 
+Backwards Pin=Pin(10), 
+Speed PWM=PWM(Pin(17), freq=10000, duty=0, resolution=12, (duty=0.00%, resolution=0.024%), mode=0, channel=0, timer=0), 
+Default Speed=650
+
+
+Motor Initialized: 
+Forward Pin=Pin(13), 
+Backwards Pin=Pin(12), 
+Speed PWM=PWM(Pin(16), freq=10000, duty=0, resolution=12, (duty=0.00%, resolution=0.024%), mode=0, channel=1, timer=0), 
+Default Speed=672
+
+stby value set to 1 (high)
+Created the ultrasonic sensor instance
+Created the mpu instance
+
+Car Status:
+
+Motor A Status: 
+Forward=0, 
+Backwards=0, 
+Speed=0, 
+Default speed=650
+
+
+Motor B Status: 
+Forward=0, 
+Backwards=0, 
+Speed=0, 
+Default speed=672
+Started driving in direction: forward and with speed: Motor A: 650 Motor B: 672
+
+Measured Distance: 157.437
+
+Measured Distance: 149.891
+
+Measured Distance: 139.3952
+
+Measured Distance: 130.4258
+
+Measured Distance: 120.9075
+
+Measured Distance: 1210.739
+
+Measured Distance: 80.89655
+
+Measured Distance: 81.1538
+
+Measured Distance: 1210.739
+
+Measured Distance: 1210.721
+
+Measured Distance: 1210.756
+
+Measured Distance: 1210.739
+
+Measured Distance: 314.4624
+
+Measured Distance: 303.0233
+
+Measured Distance: 1210.773
+
+Measured Distance: 1210.79
+
+Measured Distance: 1210.807
+
+Measured Distance: 157.8829
+
+Measured Distance: 146.0322
+
+Measured Distance: 134.3874
+
+Measured Distance: 148.3647
+
+Measured Distance: 112.7098
+
+Measured Distance: 100.6705
+
+Measured Distance: 90.0032
+
+Measured Distance: 66.885
+
+Measured Distance: 108.6796
+
+Measured Distance: 70.5551
+
+Measured Distance: 59.4076
+
+Measured Distance: 55.8061
+
+Measured Distance: 35.6377
+
+stop_car method called
+
+Turning right.
+
+stop_car method called
+
+Completed 90° turn to the right.
+Measured distance to the right: 50.54105
+
+Turning right.
+
+stop_car method called
+
+Completed 180° turn to the right.
+Measured distance to the left: 1210.756
+Comparing distances and choosing direction
+Distance left is more then distance right and more then 50cm. Continue to the left direction
+
+Measured Distance: 1210.807
+
+Measured Distance: 382.3764
+
+Measured Distance: 370.7144
+
+Measured Distance: 358.1949
+
+Measured Distance: 1210.721
+
+Measured Distance: 1210.601
+
+Measured Distance: 315.5257
+
+Measured Distance: 303.2292
+
+Measured Distance: 1210.721
+
+Measured Distance: 275.3432
+
+Measured Distance: 1210.704
+
+Measured Distance: 1210.79
+
+Measured Distance: 212.7457
+
+Measured Distance: 200.4321
+
+Measured Distance: 209.6588
+
+Measured Distance: 1210.67
+
+Measured Distance: 159.375
+
+Measured Distance: 173.5065
+
+Measured Distance: 137.5087
+
+Measured Distance: 146.5811
+
+Measured Distance: 113.1729
+
+Measured Distance: 121.5078
+
+Measured Distance: 92.3699
+
+Measured Distance: 96.3144
+
+Measured Distance: 83.81205
+
+Measured Distance: 72.3044
+
+Measured Distance: 60.368
+
+Measured Distance: 46.8195
+
+stop_car method called
+
+Turning right.
+
+stop_car method called
+
+Completed 90° turn to the right.
+Measured distance to the right: 261.3145
+
+
+
+
+
+Car Script Started - 2000-01-01 00:00:01
+-----------------------------------------
+Session started, logging enabled. 
+
+
+Motor Initialized: 
+Forward Pin=Pin(11), 
+Backwards Pin=Pin(10), 
+Speed PWM=PWM(Pin(17), freq=10000, duty=0, resolution=12, (duty=0.00%, resolution=0.024%), mode=0, channel=0, timer=0), 
+Default Speed=650
+
+
+Motor Initialized: 
+Forward Pin=Pin(13), 
+Backwards Pin=Pin(12), 
+Speed PWM=PWM(Pin(16), freq=10000, duty=0, resolution=12, (duty=0.00%, resolution=0.024%), mode=0, channel=1, timer=0), 
+Default Speed=672
+
+stby value set to 1 (high)
+Created the ultrasonic sensor instance
+Created the mpu instance
+
+Car Status:
+
+Motor A Status: 
+Forward=0, 
+Backwards=0, 
+Speed=0, 
+Default speed=650
+
+
+Motor B Status: 
+Forward=0, 
+Backwards=0, 
+Speed=0, 
+Default speed=672
+Started driving in direction: forward and with speed: Motor A: 650 Motor B: 672
+
+Measured Distance: 36.30655
+
+stop_car method called
+
+Turning right.
+
+stop_car method called
+
+Completed 90° turn to the right.
+Measured distance to the right: 36.78675
+
+Turning right.
+
+stop_car method called
+
+Completed 180° turn to the right.
+Measured distance to the left: 36.71815
+Comparing distances and choosing direction
+Both ways less then 50cm
+
+Turning left.
+
+
+
+
+
+Car Script Started - 2000-01-01 00:00:00
+-----------------------------------------
+Session started, logging enabled. 
+
+
+Motor Initialized: 
+Forward Pin=Pin(11), 
+Backwards Pin=Pin(10), 
+Speed PWM=PWM(Pin(17), freq=10000, duty=0, resolution=12, (duty=0.00%, resolution=0.024%), mode=0, channel=0, timer=0), 
+Default Speed=650
+
+
+Motor Initialized: 
+Forward Pin=Pin(13), 
+Backwards Pin=Pin(12), 
+Speed PWM=PWM(Pin(16), freq=10000, duty=0, resolution=12, (duty=0.00%, resolution=0.024%), mode=0, channel=1, timer=0), 
+Default Speed=672
+
+stby value set to 1 (high)
+Created the ultrasonic sensor instance
+Created the mpu instance
+
+Car Status:
+
+Motor A Status: 
+Forward=0, 
+Backwards=0, 
+Speed=0, 
+Default speed=650
+
+
+Motor B Status: 
+Forward=0, 
+Backwards=0, 
+Speed=0, 
+Default speed=672
+Started driving in direction: forward and with speed: Motor A: 650 Motor B: 672
+
+Measured Distance: 381.2788
+
+Measured Distance: 110.9776
+
+Measured Distance: 367.0786
+
+Measured Distance: 359.1039
+
+Measured Distance: 94.8052
+
+Measured Distance: 348.5052
+
+Measured Distance: 345.0237
+
+Measured Distance: 341.1649
+
+Measured Distance: 334.1335
+
+Measured Distance: 321.9741
+
+Measured Distance: 309.729
+
+Measured Distance: 296.9865
+
+Measured Distance: 285.1873
+
+Measured Distance: 272.3249
+
+Measured Distance: 259.9082
+
+Measured Distance: 247.183
+
+Measured Distance: 234.732
+
+Measured Distance: 222.5727
+
+Measured Distance: 210.3619
+
+Measured Distance: 198.5284
+
+Measured Distance: 186.592
+
+Measured Distance: 167.4183
+
+Measured Distance: 108.5766
+
+Measured Distance: 96.7603
+
+Measured Distance: 139.8411
+
+Measured Distance: 128.8308
+
+Measured Distance: 60.17935
+
+Measured Distance: 101.3736
+
+Measured Distance: 99.5729
+
+Measured Distance: 276.7495
+
+
+
+
+
+Car Script Started - 2000-01-01 00:00:01
+-----------------------------------------
+Session started, logging enabled. 
+
+
+Motor Initialized: 
+Forward Pin=Pin(11), 
+Backwards Pin=Pin(10), 
+Speed PWM=PWM(Pin(17), freq=10000, duty=0, resolution=12, (duty=0.00%, resolution=0.024%), mode=0, channel=0, timer=0), 
+Default Speed=650
+
+
+Motor Initialized: 
+Forward Pin=Pin(13), 
+Backwards Pin=Pin(12), 
+Speed PWM=PWM(Pin(16), freq=10000, duty=0, resolution=12, (duty=0.00%, resolution=0.024%), mode=0, channel=1, timer=0), 
+Default Speed=672
+
+stby value set to 1 (high)
+Created the ultrasonic sensor instance
+Created the mpu instance
+
+Car Status:
+
+Motor A Status: 
+Forward=0, 
+Backwards=0, 
+Speed=0, 
+Default speed=650
+
+
+Motor B Status: 
+Forward=0, 
+Backwards=0, 
+Speed=0, 
+Default speed=672
+Started driving in direction: forward and with speed: Motor A: 650 Motor B: 672
+
+Measured Distance: 29.54945
+
+stop_car method called
+
+
+
+
+
+Car Script Started - 2024-02-22 22:12:02
+-----------------------------------------
+Session started, logging enabled. 
+
+
+Motor Initialized: 
+Forward Pin=Pin(11), 
+Backwards Pin=Pin(10), 
+Speed PWM=PWM(Pin(17), freq=10000, duty=0, resolution=12, (duty=0.00%, resolution=0.024%), mode=0, channel=0, timer=0), 
+Default Speed=650
+
+
+Motor Initialized: 
+Forward Pin=Pin(13), 
+Backwards Pin=Pin(12), 
+Speed PWM=PWM(Pin(16), freq=10000, duty=0, resolution=12, (duty=0.00%, resolution=0.024%), mode=0, channel=1, timer=0), 
+Default Speed=672
+
+stby value set to 1 (high)
+Created the ultrasonic sensor instance
+Created the mpu instance
+
+Car Status:
+
+Motor A Status: 
+Forward=0, 
+Backwards=0, 
+Speed=0, 
+Default speed=650
+
+
+Motor B Status: 
+Forward=0, 
+Backwards=0, 
+Speed=0, 
+Default speed=672
+Started driving in direction: forward and with speed: Motor A: 650 Motor B: 672
+
+Measured Distance: 35.51765
+
+stop_car method called
+
+Turning right.
+
+
+
+
+
+Car Script Started - 2000-01-01 00:00:00
+-----------------------------------------
+Session started, logging enabled. 
+
+
+Motor Initialized: 
+Forward Pin=Pin(11), 
+Backwards Pin=Pin(10), 
+Speed PWM=PWM(Pin(17), freq=10000, duty=0, resolution=12, (duty=0.00%, resolution=0.024%), mode=0, channel=0, timer=0), 
+Default Speed=650
+
+
+Motor Initialized: 
+Forward Pin=Pin(13), 
+Backwards Pin=Pin(12), 
+Speed PWM=PWM(Pin(16), freq=10000, duty=0, resolution=12, (duty=0.00%, resolution=0.024%), mode=0, channel=1, timer=0), 
+Default Speed=672
+
+stby value set to 1 (high)
+Created the ultrasonic sensor instance
+Created the mpu instance
+
+Car Status:
+
+Motor A Status: 
+Forward=0, 
+Backwards=0, 
+Speed=0, 
+Default speed=650
+
+
+Motor B Status: 
+Forward=0, 
+Backwards=0, 
+Speed=0, 
+Default speed=672
+Started driving in direction: forward and with speed: Motor A: 650 Motor B: 672
+
+Measured Distance: 382.8566
+
+Measured Distance: 373.2526
+
+Measured Distance: 361.3848
+
+Measured Distance: 349.2083
+
+Measured Distance: 336.5859
+
+Measured Distance: 324.2893
+
+Measured Distance: 311.5812
+
+Measured Distance: 299.1817
+
+Measured Distance: 286.7994
+
+Measured Distance: 273.9884
+
+Measured Distance: 261.5375
+
+Measured Distance: 248.9323
+
+Measured Distance: 190.8624
+
+Measured Distance: 186.6434
+
+Measured Distance: 145.5349
+
+Measured Distance: 97.5835
+
+Measured Distance: 86.45315
+
+Measured Distance: 74.2252
+
+Measured Distance: 62.8376
+
+Measured Distance: 51.9645
+
+Measured Distance: 41.9489
+
+stop_car method called
+
+Turning right.
+
+
+
+
+
+Car Script Started - 2000-01-01 00:00:00
+-----------------------------------------
+Session started, logging enabled. 
+
+
+Motor Initialized: 
+Forward Pin=Pin(11), 
+Backwards Pin=Pin(10), 
+Speed PWM=PWM(Pin(17), freq=10000, duty=0, resolution=12, (duty=0.00%, resolution=0.024%), mode=0, channel=0, timer=0), 
+Default Speed=650
+
+
+Motor Initialized: 
+Forward Pin=Pin(13), 
+Backwards Pin=Pin(12), 
+Speed PWM=PWM(Pin(16), freq=10000, duty=0, resolution=12, (duty=0.00%, resolution=0.024%), mode=0, channel=1, timer=0), 
+Default Speed=672
+
+stby value set to 1 (high)
+Created the ultrasonic sensor instance
+Created the mpu instance
+
+Car Status:
+
+Motor A Status: 
+Forward=0, 
+Backwards=0, 
+Speed=0, 
+Default speed=650
+
+
+Motor B Status: 
+Forward=0, 
+Backwards=0, 
+Speed=0, 
+Default speed=672
+Started driving in direction: forward and with speed: Motor A: 650 Motor B: 672
+
+Measured Distance: 38.3817
+
+stop_car method called
+
+
+
+
+
+Car Script Started - 2000-01-01 00:00:00
+-----------------------------------------
+Session started, logging enabled. 
+
+
+Motor Initialized: 
+Forward Pin=Pin(11), 
+Backwards Pin=Pin(10), 
+Speed PWM=PWM(Pin(17), freq=10000, duty=0, resolution=12, (duty=0.00%, resolution=0.024%), mode=0, channel=0, timer=0), 
+Default Speed=700
+
+
+Motor Initialized: 
+Forward Pin=Pin(13), 
+Backwards Pin=Pin(12), 
+Speed PWM=PWM(Pin(16), freq=10000, duty=0, resolution=12, (duty=0.00%, resolution=0.024%), mode=0, channel=1, timer=0), 
+Default Speed=672
+
+stby value set to 1 (high)
+Created the ultrasonic sensor instance
+Created the mpu instance
+
+Car Status:
+
+Motor A Status: 
+Forward=0, 
+Backwards=0, 
+Speed=0, 
+Default speed=700
+
+
+Motor B Status: 
+Forward=0, 
+Backwards=0, 
+Speed=0, 
+Default speed=672
+Started driving in direction: forward and with speed: Motor A: 700 Motor B: 672
+
+Measured Distance: 130.4772
+
+Measured Distance: 121.542
+
+Measured Distance: 112.3668
+
+Measured Distance: 365.4493
+
+Measured Distance: 352.381
+
+Measured Distance: 340.9248
+
+Measured Distance: 1210.173
+
+Measured Distance: 1210.31
+
+Measured Distance: 1210.224
+
+Measured Distance: 1210.087
+
+Measured Distance: 1210.173
+
+Measured Distance: 1210.224
+
+Measured Distance: 1210.327
+
+Measured Distance: 198.4083
+
+Measured Distance: 185.5459
+
+Measured Distance: 165.8233
+
+Measured Distance: 147.8158
+
+Measured Distance: 135.0734
+
+Measured Distance: 125.9324
+
+Measured Distance: 111.938
+
+Measured Distance: 88.0824
+
+Measured Distance: 89.3858
+
+Measured Distance: 84.3437
+
+Measured Distance: 144.1458
+
+Measured Distance: 1210.224
+
+Measured Distance: 184.2081
+
+Measured Distance: 152.4635
+
+Measured Distance: 144.3001
+
+Measured Distance: 80.1248
+
+Measured Distance: 37.54135
+
+stop_car method called
+
+Turning right.
+
+stop_car method called
+
+Completed 90° turn to the right.
+Measured distance to the right: 27.76585
+
+Turning right.
+
+stop_car method called
+
+Completed 180° turn to the right.
+Measured distance to the left: 36.30655
+Comparing distances and choosing direction
+Both ways less then 50cm
+
+Turning left.
+
+stop_car method called
+
+Completed 90° turn to the left.
+
+Measured Distance: 36.1179
+
+stop_car method called
+
+Turning right.
+
+stop_car method called
+
+Completed 90° turn to the right.
+Measured distance to the right: 30.81855
+
+
+
+
+
+Car Script Started - 2000-01-01 00:00:00
+-----------------------------------------
+Session started, logging enabled. 
+
+
+Motor Initialized: 
+Forward Pin=Pin(11), 
+Backwards Pin=Pin(10), 
+Speed PWM=PWM(Pin(17), freq=10000, duty=0, resolution=12, (duty=0.00%, resolution=0.024%), mode=0, channel=0, timer=0), 
+Default Speed=672
+
+
+Motor Initialized: 
+Forward Pin=Pin(13), 
+Backwards Pin=Pin(12), 
+Speed PWM=PWM(Pin(16), freq=10000, duty=0, resolution=12, (duty=0.00%, resolution=0.024%), mode=0, channel=1, timer=0), 
+Default Speed=672
+
+stby value set to 1 (high)
+Created the ultrasonic sensor instance
+Created the mpu instance
+
+Car Status:
+
+Motor A Status: 
+Forward=0, 
+Backwards=0, 
+Speed=0, 
+Default speed=672
+
+
+Motor B Status: 
+Forward=0, 
+Backwards=0, 
+Speed=0, 
+Default speed=672
+Started driving in direction: forward and with speed: Motor A: 672 Motor B: 672
+
+Measured Distance: 125.195
+
+Measured Distance: 119.2611
+
+Measured Distance: 374.8304
+
+Measured Distance: 362.6367
+
+Measured Distance: 350.9062
+
+Measured Distance: 340.0502
+
+Measured Distance: 327.5822
+
+Measured Distance: 315.5943
+
+Measured Distance: 304.0695
+
+Measured Distance: 293.145
+
+Measured Distance: 281.7745
+
+Measured Distance: 270.1982
+
+Measured Distance: 204.771
+
+Measured Distance: 193.3319
+
+Measured Distance: 151.8461
+
+Measured Distance: 137.7488
+
+Measured Distance: 125.9496
+
+Measured Distance: 113.2243
+
+Measured Distance: 102.8142
+
+Measured Distance: 53.0621
+
+Measured Distance: 40.59405
+
+stop_car method called
+
+Turning right.
+
+stop_car method called
+
+Completed 90° turn to the right.
+Measured distance to the right: 1210.001
+
+
+
+
+
+Car Script Started - 2000-01-01 00:00:00
+-----------------------------------------
+Session started, logging enabled. 
+
+
+Motor Initialized: 
+Forward Pin=Pin(11), 
+Backwards Pin=Pin(10), 
+Speed PWM=PWM(Pin(17), freq=10000, duty=0, resolution=12, (duty=0.00%, resolution=0.024%), mode=0, channel=0, timer=0), 
+Default Speed=672
+
+
+Motor Initialized: 
+Forward Pin=Pin(13), 
+Backwards Pin=Pin(12), 
+Speed PWM=PWM(Pin(16), freq=10000, duty=0, resolution=12, (duty=0.00%, resolution=0.024%), mode=0, channel=1, timer=0), 
+Default Speed=672
+
+stby value set to 1 (high)
+Created the ultrasonic sensor instance
+Created the mpu instance
+
+Car Status:
+
+Motor A Status: 
+Forward=0, 
+Backwards=0, 
+Speed=0, 
+Default speed=672
+
+
+Motor B Status: 
+Forward=0, 
+Backwards=0, 
+Speed=0, 
+Default speed=672
+Started driving in direction: forward and with speed: Motor A: 672 Motor B: 672
+
+Measured Distance: 34.96885
+
+stop_car method called
