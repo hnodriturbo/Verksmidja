@@ -1,0 +1,14 @@
+Afangi_2_V24/video-fyrir-kennarann/stefnuljos-og-ljos-sem-eru-alltaf-tegar-billinn-er-i-gangi.mp4
+Afangi_2_V24/video-fyrir-kennarann/keyra-beint.mp4
+Afangi_2_V24/video-fyrir-kennarann/keyra-beint-med-mpu6050.mp4
+Afangi_2_V24/video-fyrir-kennarann/logguljos-med-hljodi-og-keyra.mp4
+bfg.jar
+Afangi_2_V24/Timaverkefni_2/partur 1/led_ljós_og_hétalari_fjarlægðarskynjari.mp4
+Afangi_2_V24/Timaverkefni_1/lcd screen connections to bread board.png
+iot_dashboard/iot-dashboard-frontend/package-lock.json
+Afangi_2_V24/Timaverkefni_2/partur 1/uppsetning timaverkefni 2 partur 1.jpg
+Afangi_2_V24/Timaverkefni_5.zip
+Afangi_2_V24/Timaverkefni_4/Verkefni_4_final/logfile.log
+Afangi_2_V24/Timaverkefni_3/chip_for_car.jpg
+BFG.exe
+BFG-Windows-1.13.0/BFG-Windows-1.13.0/LICENSE-GPLv3.txt
