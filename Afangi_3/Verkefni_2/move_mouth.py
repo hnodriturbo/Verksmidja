@@ -11,7 +11,7 @@ speed = 0.2  # Lower value = faster movement
 
 # Initialize the Servo on pin 15
 print("Initializing Servo on pin 15...")
-servo = Servo(Pin(15))
+servo = Servo(Pin(1))
 print("Servo initialized.")
 
 # Define a function to move the servo and print feedback

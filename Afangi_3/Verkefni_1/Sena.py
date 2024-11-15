@@ -1,7 +1,7 @@
 import ntptime
 import time
 from machine import Pin, PWM
-
+from lib.wifi_time_sync.setup_wifi_and_time import setup_wifi_and_time, get_time
 
 # Class for controlling RGB LEDs
 class RGBLED:
@@ -24,30 +24,6 @@ class RGBLED:
         self.set_color(0, 0, 1023)  # Blue
         time.sleep(1)
 
-
-# Class for synchronizing time with NTP
-class TimeSync:
-    def __init__(self):
-        self.rtc = None
-
-    def sync_time(self):
-        try:
-            ntptime.settime()  # Sync with NTP server
-            print("Time synchronized")
-        except:
-            print("Error synchronizing time")
-
-    def get_time(self):
-        rtc = machine.RTC()
-        current_time = (
-            rtc.datetime()
-        )  # Get the time in (year, month, day, hour, minute, second) format
-        print(
-            f"Current time: {current_time[0]}-{current_time[1]}-{current_time[2]} {current_time[4]}:{current_time[5]}:{current_time[6]}"
-        )
-        return current_time
-
-
 # Class for controlling a Servo/Motor (e.g., for the skull mouth)
 class ServoMotor:
     def __init__(self, pin):
@@ -63,17 +39,15 @@ class ServoMotor:
     def close_mouth(self):
         self.move(20)  # Close the mouth
 
-
 # Class to create the scene combining all components
 class SkullScene:
     def __init__(self):
         self.rgb_led = RGBLED(15, 16, 17)  # Set your RGB LED pins
         self.servo_motor = ServoMotor(13)  # Set your Servo pin
-        self.time_sync = TimeSync()
 
     def start_scene(self):
-        # Sync time first
-        self.time_sync.sync_time()
+        # Sync Wi-Fi and time first
+        setup_wifi_and_time()  # Connect to Wi-Fi and sync time
 
         # Start some scene logic
         for _ in range(3):  # Loop through a scene 3 times as an example
@@ -83,8 +57,16 @@ class SkullScene:
             self.servo_motor.close_mouth()  # Close the mouth
             time.sleep(1)
 
-
 # Main execution of my script and classes
 if __name__ == "__main__":
+    # Create an instance of SkullScene
     skull_scene = SkullScene()
+
+    # Start the Wi-Fi connection and sync time
+    setup_wifi_and_time()
+
+    # Print the current time to verify
+    get_time()
+
+    # Start the skull scene
     skull_scene.start_scene()

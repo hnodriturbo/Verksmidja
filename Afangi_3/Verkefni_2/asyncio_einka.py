@@ -1,6 +1,6 @@
 import uasyncio as asyncio
 from machine import Pin
-from klasar.servo import Servo
+from lib.servo.servo import Servo
 
 class ServoMotor:
     def __init__(self, pin, name):
@@ -24,8 +24,8 @@ class ServoMotor:
 
 # Main asyncio function
 async def main():
-    motor1 = ServoMotor(10, "Motor 1")
-    motor2 = ServoMotor(11, "Motor 2")
+    motor1 = ServoMotor(12, "Motor 1")
+    motor2 = ServoMotor(13, "Motor 2")
     
     await asyncio.gather(
         motor1.move(20, 80),
