@@ -6,7 +6,7 @@ const rootFolder = __dirname;
 
 // Function to recursively process files and folders
 function processFolder(folderPath) {
-  const items = fs.readdirSync(folderPath, { withFileTypes: true });
+  const items = fs.readdirSync(folderPath, { withFileTypes: true, dot: true });
 
   for (const item of items) {
     const fullPath = path.join(folderPath, item.name);
@@ -16,14 +16,11 @@ function processFolder(folderPath) {
       processFolder(fullPath);
     } else if (item.isFile()) {
       // Check for " - Copy" and "_- Copy" patterns
-      /*       const copyPatterns = [
+      const copyPatterns = [
         { regex: / - Copy(\.[^.]*)$/, replacement: '$1' }, // Handles " - Copy"
         { regex: /_- Copy(\.[^.]*)$/, replacement: '$1' }, // Handles "_- Copy"
-      ]; */
-      const copyPatterns = [
-        { regex: / - Copy(\.[^.]*)?$/, replacement: '$1' }, // Matches " - Copy" (with or without an extension)
-        { regex: /_- Copy(\.[^.]*)?$/, replacement: '$1' }, // Matches "_- Copy" (with or without an extension)
       ];
+
       let renamed = false;
 
       for (const pattern of copyPatterns) {
